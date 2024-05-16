@@ -7,6 +7,7 @@ a needle in a haystack
 a neural network
 a sort of
 a spectator sport
+a stack of
 a state of
 a string of
 a twist and turn
@@ -30,11 +31,13 @@ acclimate
 acclimatization
 accommodate
 accomplish
+accomplishment
 accountable
 accountant
 accurately
 accustomed
 achievement
+acne
 acoustics
 activate
 activation
@@ -52,6 +55,7 @@ admission
 admittedly
 adolescence
 adolescent
+adrenaline
 adrift
 adulthood
 advance
@@ -111,6 +115,7 @@ anesthetize
 angst
 angsty
 anguish
+animating
 ankle
 annihilate
 anomaly
@@ -120,6 +125,7 @@ anthropologist
 anthropology
 anticipate
 anticipated
+anticipation
 antidote
 antique
 apartheid
@@ -206,22 +212,27 @@ background
 backstage
 bacterial meningitis
 badge
+bait
 banish
 banshee
+baptize
 barely
 barometric
 bartender
 baseline
 basically
+bask
 be diagnosed with
 be immune to sth
 be obsessed with
+be punked
 be thrilled to
 be vulnerable to
 be wrapped up in
 beady
 beget
 behind the scenes
+beleaguered
 belly
 belonging
 benevolent
@@ -291,6 +302,7 @@ brood
 brood on
 brunt
 brutal
+buckle up
 budget
 buffer
 bulky
@@ -327,6 +339,7 @@ carb
 carbohydrate
 carbon
 carbon emission
+carbonate
 card-carrying
 cardiovascular
 cardiovascular disease
@@ -342,6 +355,8 @@ cast
 casting
 casually
 catagory
+catapult
+catastrophe
 catastrophic
 catchy
 category
@@ -363,6 +378,7 @@ champagne
 championship
 channel
 chaos
+chapstick
 chapter
 characteristic
 check up
@@ -374,6 +390,7 @@ chew over
 chic
 chill out
 chin
+choir
 choke
 cholesterol
 chore
@@ -405,6 +422,7 @@ client
 cliffhanger
 climb a mountain
 climber
+clingy
 clinical
 clinically
 clip
@@ -463,6 +481,7 @@ compromised
 compulsive
 compulsively
 conceivable
+conceive
 concentrated
 concentration
 concept
@@ -509,6 +528,7 @@ consume
 consummate
 consumption
 contact
+contagious
 contemporary
 contempt
 contemptuous
@@ -555,6 +575,7 @@ counteract
 counterintuitive
 counterpart
 courageous
+courteous
 courtyard
 cousin
 crack
@@ -562,6 +583,7 @@ cradle
 cram
 cram for an exam
 crank
+cranky
 crappy
 crave
 craw
@@ -598,6 +620,7 @@ cyclone
 cynic
 cytokined
 dampen
+daunting
 daydream
 daze
 deactivate
@@ -624,6 +647,7 @@ definitely
 definition
 definitive
 deforestation
+degraded
 deliberate practice
 delicate
 deliver
@@ -665,6 +689,7 @@ destiny
 destructive
 detect
 detection
+deteriorate
 determine
 detour
 detractor
@@ -688,6 +713,7 @@ dictator
 dictionary
 die a slow death
 die down
+differentiate
 digestive system
 digitize
 dilate
@@ -723,9 +749,11 @@ disorder
 disparity
 disperse
 displace
+disrespectful
 disrupt
 disruption
 dissatisfaction
+dissociate
 distensible
 distinguish
 distort
@@ -738,6 +766,7 @@ dive into
 diverse
 diversity
 divided society
+divine
 diving coach
 divisive
 divorce
@@ -759,6 +788,7 @@ dormant
 double down
 double standard
 downright
+downward
 dozens of
 draft
 drag on
@@ -801,6 +831,7 @@ ego
 elastic
 elated
 elect
+electric jolt
 electrical
 electrode
 element
@@ -809,6 +840,7 @@ eliminate
 emanate
 embankment
 embark
+embark on
 embarrassed
 embarrassment
 embed
@@ -893,6 +925,7 @@ evergreen
 everlasting
 evil
 evoke
+evolutionarily
 evolutionarily-conserved
 evolutionary
 evolve
@@ -909,6 +942,7 @@ exception
 excerpt
 excessive
 excessively
+excitement
 exclude
 exclusive
 exclusively
@@ -923,6 +957,7 @@ exhaustive
 exhibit
 exhibition
 exiled
+existence
 existential
 expedition
 experiment
@@ -1050,6 +1085,7 @@ freestanding
 frequency
 freshman
 frost
+frown
 frustrated
 frustrating
 frustration
@@ -1064,6 +1100,7 @@ funeral
 funk
 furious
 fuse
+futile
 fuzzy
 gadget
 gamble
@@ -1110,6 +1147,7 @@ go hand in hand
 go off
 gold digger
 gooey
+goofy
 gorgeous
 gossip
 grab
@@ -1128,6 +1166,7 @@ grief
 grieve
 grieving
 grievous
+grill
 grim
 grip
 grit
@@ -1160,6 +1199,7 @@ hang
 hang out
 happen overnight
 harb
+hardship
 hardy
 harness
 harsh
@@ -1185,6 +1225,7 @@ hiccup
 hideous
 hierarchy
 highlight
+hightail
 hilarious
 hindsight
 hint
@@ -1192,8 +1233,10 @@ hippocampus
 hit rock bottom
 hold the grudge
 hold up
+holiness
 holistic
 hometown
+homicidal
 honor
 hook
 hook on
@@ -1219,6 +1262,7 @@ hunched
 hurdle
 hustle
 hybrid
+hydrate
 hygiene
 hyperactive
 hyperbolically
@@ -1252,6 +1296,7 @@ immune system
 immune system dysfunction
 impact
 impair
+impaire
 impart
 impassive
 impede
@@ -1283,7 +1328,9 @@ inconsiderately
 inconvenience
 incredible
 incredibly
+incur
 incurable
+indecision
 indicate
 indict
 indifference
@@ -1321,6 +1368,7 @@ inhibition
 initial
 initially
 initiate
+inject
 innocent
 innovation
 innovative
@@ -1371,7 +1419,9 @@ intervene
 intervention
 intestine
 intimacy
+intimate
 intimately
+intimidate
 intimidating
 intooverdrive
 intramural
@@ -1495,6 +1545,7 @@ locust
 logistic
 long-lasting
 long-term memory
+longitudinal
 longtime
 loop
 lowercase
@@ -1505,6 +1556,7 @@ luminous
 lump
 lunatic
 lunchroom
+lurch along
 lurk
 luxuriate
 maddening
@@ -1596,6 +1648,7 @@ mildly
 military
 millenium
 millennial
+mimic
 mind-blowing
 mindfully
 mindfulness
@@ -1619,6 +1672,7 @@ mobility
 moderate
 modified
 modify
+moisturize
 mold
 molecule
 momentary
@@ -1644,11 +1698,13 @@ motion
 motivation
 motivational
 motor
+motto
 mounting
 mud
 muddling
 mulberry
 multiple
+mural
 murder
 muscle
 muscular
@@ -1664,6 +1720,7 @@ narrative
 narrow
 narrowcast
 nausea
+nauseous
 navigate
 negative
 negatively
@@ -1685,6 +1742,7 @@ neural network
 neural science
 neurochemically
 neurofeedback
+neurologist
 neuron
 neuroplasticity
 neuroscience
@@ -1719,6 +1777,7 @@ obesity
 objective
 objectively
 obligation
+obliquely
 observe
 obsessed
 obsessed with
@@ -1754,6 +1813,7 @@ organizational psychologist
 oriented
 ostensibly
 osteoporosis
+otherwise
 oust
 out of cash
 out of the blue
@@ -1789,6 +1849,7 @@ pack up
 panacea
 pandemic
 panel
+panic
 panicky
 parable
 parading
@@ -1991,6 +2052,7 @@ put up
 put you in the shoes of
 qualification
 qualified
+quantum
 queer
 quest
 questionnaire
@@ -2095,11 +2157,13 @@ rental
 repetition
 replenish
 representation
+repress
 repression
 reproductive
 repute
 resell
 resemble
+resent
 resequencing
 reservation
 reserve
@@ -2168,6 +2232,7 @@ rotate
 routinely
 royal
 rubber
+rug
 rule out
 rumination
 rummage
@@ -2212,12 +2277,14 @@ scratch
 scream one's lung out
 screed
 screw it up
+screw sb up
 screw up
 script
 scroll
 scroll up
 scrub
 sculpture
+seal off
 secondary
 sector
 securely
@@ -2248,6 +2315,7 @@ separately
 separation
 sequence
 sequin
+serenity
 serotonin
 serve in the army
 session
@@ -2309,6 +2377,7 @@ skepticism
 sketch
 skimp
 slam
+slather
 slaughterhouse
 slavery
 sleep deprivation
@@ -2337,6 +2406,7 @@ snuff out
 soak up
 soap opera
 sob
+sober
 sociable
 socialization
 socially responsible
@@ -2353,6 +2423,7 @@ sort of
 sour sb on sth
 sourdough
 spaghetti
+span
 spark
 sparkle
 sparkly
@@ -2416,6 +2487,7 @@ steep
 steer
 stem the inflow
 stemming
+sterling
 stick to your guns
 stick with
 stigma
@@ -2454,6 +2526,7 @@ struggle with
 stuck
 stuff
 stumble
+stumble upon
 stumbling
 stupidity
 subconscious
@@ -2478,6 +2551,7 @@ suicidal
 suicide
 suitcase
 summit
+sunscreen
 superficial
 superiority
 superpower
@@ -2489,6 +2563,7 @@ suppression
 surgery
 surgical
 surrender
+surround
 susceptible
 suspect
 suspend
@@ -2500,11 +2575,13 @@ swap
 swear
 sweat
 sweat-inducing
+sweep
 sweeping
 sweet spot
 swell
 swelling
 swerve
+swirl
 switch
 swoon
 sword
@@ -2566,6 +2643,7 @@ the naked eye
 the pros and cons
 theater
 theorize
+theorize on
 therapist
 therapy
 thereafter
@@ -2631,6 +2709,7 @@ traumatize
 treadmill
 treasure
 treatment
+tremulous
 tribal
 trick
 trick into
@@ -2647,10 +2726,12 @@ trunk
 trustee
 trustworthy
 tubular
+tug
 tumble off
 tumor
 turbulent
 turn out
+turn to
 tweak
 twentysomething
 twist
@@ -2660,6 +2741,7 @@ typical
 tyranny
 ultimate
 ultimately
+ultrasound
 umami
 unabated
 unapologetic
@@ -2685,8 +2767,10 @@ undeterred
 undo
 unearned
 unfamiliar
+unfathomably
 unfold
 unfulfilled
+uniform
 unintentional
 uniqueness
 universal
@@ -2787,8 +2871,10 @@ weave
 weird
 weird-ass
 weirdly
+well-being
 well-earned
 well-found
+well-regarded
 whereas
 whiff
 whiskey
@@ -2807,13 +2893,16 @@ withdrawal
 withdrawn
 wither
 withstand
+wobbly
 womb
 worship
 worthwhile
 wrap
 wrinkled
 yank
+yearbook
 yeast
+yield
 yield to
 yielding
 yoga
