@@ -1,15 +1,16 @@
-individual 11
+individual 12
 literally 9
 trigger 8
 vulnerable 8
+circumstance 7
 commitment 7
 feedback 7
 resilient 7
-circumstance 6
 mechanism 6
 slightly 6
 spiral 6
 toxic 6
+ultimately 6
 automatically 5
 concept 5
 conduct 5
@@ -18,17 +19,20 @@ diabetes 5
 discipline 5
 essential 5
 essentially 5
+gorgeous 5
 isolated 5
 stigma 5
-ultimately 5
 alert 4
+clarify 4
 cognitive 4
 combination 4
 commit 4
 compassion 4
+constant 4
 crucial 4
 detect 4
 disorder 4
+distraction 4
 dopamine 4
 dramatically 4
 embarrassed 4
@@ -37,19 +41,22 @@ enormous 4
 episode 4
 executive 4
 fantastic 4
-gorgeous 4
 grief 4
+incredibly 4
 inevitable 4
 initially 4
 internalize 4
 investigate 4
 kidney 4
+meditation 4
+mindfulness 4
 miserable 4
 molecule 4
 narrative 4
 navigate 4
 neurotransmitter 4
 pandemic 4
+perspective 4
 prestigious 4
 psychologist 4
 radical 4
@@ -71,19 +78,18 @@ authentic 3
 awesome 3
 binge 3
 buffer 3
+calendar 3
 cereal 3
 channel 3
 cholesterol 3
 chronic 3
 chronically 3
-clarify 3
 client 3
 collaborator 3
 compile 3
 complicated 3
 consciously 3
 consequence 3
-constant 3
 constantly 3
 contribute 3
 conventional 3
@@ -95,7 +101,6 @@ diagnosis 3
 dialogue 3
 diminish 3
 disrupt 3
-distraction 3
 dread 3
 dynamic 3
 ego 3
@@ -105,6 +110,8 @@ erode 3
 excessive 3
 exhaustive 3
 external 3
+extraordinary 3
+flip 3
 flourish 3
 frustration 3
 furious 3
@@ -115,7 +122,6 @@ hormone 3
 hypothesis 3
 immigrant 3
 immune 3
-incredibly 3
 innovation 3
 insane 3
 intense 3
@@ -125,10 +131,9 @@ interpret 3
 intervention 3
 ironically 3
 kindergarten 3
+loop 3
 mainstream 3
 mantra 3
-meditation 3
-mindfulness 3
 negative 3
 obstacle 3
 paradox 3
@@ -137,8 +142,9 @@ permanent 3
 perseverance 3
 persistence 3
 personality 3
-perspective 3
 philosophy 3
+pitch 3
+potential 3
 prime 3
 privilege 3
 procrastination 3
@@ -146,11 +152,13 @@ profound 3
 progressively 3
 realm 3
 rehab 3
+remarkable 3
 renowned 3
 resemble 3
 resilience 3
 restlessness 3
 ritual 3
+scientifically 3
 self-esteem 3
 serotonin 3
 stake 3
@@ -163,6 +171,7 @@ temptation 3
 therapist 3
 threshold 3
 track 3
+tragic 3
 twist 3
 underlying 3
 void 3
@@ -207,7 +216,6 @@ bridge 2
 broadcast 2
 brutal 2
 bust 2
-calendar 2
 campaign 2
 candidate 2
 capillary 2
@@ -224,7 +232,9 @@ chronology 2
 chunk 2
 circuit 2
 civilization 2
+clip 2
 collaboration 2
+colleague 2
 complement 2
 compose 2
 compulsive 2
@@ -248,6 +258,7 @@ cousin 2
 cram 2
 creepy 2
 cultivate 2
+deal with 2
 decent 2
 default 2
 defeat 2
@@ -262,6 +273,7 @@ diagnose 2
 diagnostic 2
 dictate 2
 dilemma 2
+disappointed 2
 discern 2
 disparity 2
 distinguish 2
@@ -279,6 +291,7 @@ empowering 2
 emptiness 2
 engage in 2
 enthusiasm 2
+ethical 2
 exaggeration 2
 excel 2
 exception 2
@@ -287,15 +300,15 @@ exclude 2
 exhausting 2
 existential 2
 extent 2
-extraordinary 2
+fabulous 2
 factor 2
 filter 2
 flaw 2
 flexibility 2
-flip 2
 flounder 2
 folk 2
 foster 2
+framework 2
 generalized 2
 genuine 2
 glamorous 2
@@ -341,13 +354,16 @@ intangible 2
 intergalactic 2
 interrupt 2
 intervene 2
+intrigued 2
 intuition 2
 intuitively 2
 iron 2
 irrational 2
 isolate 2
 kidnap 2
+kind of 2
 ladder 2
+leadership 2
 lean in 2
 legitimate 2
 liberating 2
@@ -356,7 +372,6 @@ life hack 2
 limitation 2
 literal 2
 literature 2
-loop 2
 lurk 2
 magnet 2
 marathon 2
@@ -381,6 +396,7 @@ mission 2
 moderate 2
 modify 2
 momentum 2
+monk 2
 monotonous 2
 moral 2
 motion 2
@@ -408,16 +424,16 @@ performance 2
 perpetuate 2
 physically 2
 physician 2
-pitch 2
-potential 2
 presentation 2
 pretend 2
 prominent 2
 promotion 2
 propagate 2
+proposal 2
 provoke 2
 psychiatric 2
 psychotherapy 2
+pull out 2
 purge 2
 questionnaire 2
 racial 2
@@ -436,10 +452,10 @@ refugee 2
 regulate 2
 rehearse 2
 reinforce 2
+reinvent 2
 reject 2
 relationship 2
 relentless 2
-remarkable 2
 resonate 2
 respectively 2
 revise 2
@@ -453,7 +469,6 @@ sake 2
 sanity 2
 scale 2
 scalp 2
-scientifically 2
 scratch 2
 scroll 2
 self-perception 2
@@ -470,9 +485,11 @@ sprint 2
 stack 2
 stagnation 2
 stamina 2
+start out 2
 stimulate 2
 stimulation 2
 stock 2
+storyline 2
 subconscious 2
 substantial 2
 substitute 2
@@ -495,7 +512,6 @@ thread 2
 tissue 2
 toddler 2
 tragedy 2
-tragic 2
 transformative 2
 transition 2
 traumatic 2
@@ -523,6 +539,7 @@ wardrobe 2
 weapon 2
 widespread 2
 willpower 2
+wobbly 2
 womb 2
 Merriam-Webster diction 1
 a couple of 1
@@ -588,6 +605,7 @@ aggressive 1
 agile 1
 agility 1
 agitate 1
+agitated 1
 agriculture 1
 aimless 1
 airplanes 1
@@ -634,6 +652,7 @@ anticipate 1
 anticipated 1
 anticipation 1
 antique 1
+anxious 1
 apartheid 1
 apologize 1
 appearently 1
@@ -666,6 +685,7 @@ assign 1
 assignment 1
 assimilation 1
 associate 1
+assume 1
 assumption 1
 astounded 1
 asymmetric 1
@@ -729,6 +749,7 @@ bible 1
 bicker 1
 bickering 1
 bin liner 1
+binary 1
 binding 1
 biological 1
 biologically 1
@@ -793,6 +814,7 @@ bundle 1
 burden 1
 burnout 1
 bustle 1
+by chance 1
 by-product 1
 byproduct 1
 cadet 1
@@ -804,6 +826,7 @@ capable 1
 capacity 1
 capitalism 1
 captivate 1
+capture 1
 carastrophe 1
 carb 1
 carbon 1
@@ -834,6 +857,7 @@ caveat 1
 cavity 1
 cede 1
 celebrity 1
+celibate 1
 cellular 1
 cement 1
 cerebral 1
@@ -876,11 +900,11 @@ climber 1
 clingy 1
 clinical 1
 clinically 1
-clip 1
 clobber 1
 closure 1
 coastal 1
 cocaine 1
+cockroach 1
 cofounder 1
 cognition 1
 cognitive entrenchment 1
@@ -888,12 +912,12 @@ cognitively 1
 coincidence 1
 coincidentally 1
 collaborative 1
-colleague 1
 collective 1
 collectively 1
 column 1
 coma 1
 come in handy 1
+come up with 1
 command 1
 comment 1
 commit suicide 1
@@ -945,6 +969,7 @@ consensual 1
 consensus 1
 consent 1
 conservative 1
+considerate 1
 consistency 1
 consistent 1
 consolidate 1
@@ -971,6 +996,7 @@ contributor 1
 controversial 1
 conventional wisdom 1
 conversely 1
+cook up 1
 coordinate 1
 coordination 1
 cope with 1
@@ -992,6 +1018,7 @@ courteous 1
 courtyard 1
 crack 1
 cradle 1
+craft 1
 cram for an exam 1
 crank 1
 cranky 1
@@ -1034,7 +1061,6 @@ daze 1
 deactivate 1
 dead center 1
 deadly 1
-deal with 1
 deceptively 1
 decimal 1
 deck 1
@@ -1111,7 +1137,6 @@ dimension 1
 dip 1
 directed 1
 disadvantaged 1
-disappointed 1
 disaster 1
 disbetes 1
 disc 1
@@ -1137,6 +1162,7 @@ dissatisfaction 1
 dissociate 1
 distensible 1
 distort 1
+distracted 1
 disturb 1
 ditch 1
 dive into 1
@@ -1240,8 +1266,10 @@ entertainment 1
 enthusiastic 1
 enthusiastically 1
 entrant 1
+entrepreneur 1
 entrepreneurial 1
 entrepreneurial sphere 1
+entrepreneurship 1
 entry 1
 envelop 1
 envious 1
@@ -1266,7 +1294,6 @@ establish 1
 estate 1
 estimate 1
 ethic 1
-ethical 1
 ethnic 1
 eucalyptus 1
 evaluation 1
@@ -1315,7 +1342,6 @@ extricate 1
 exuberance 1
 eyebrows 1
 fabric 1
-fabulous 1
 facet 1
 faculty 1
 faintest 1
@@ -1324,12 +1350,14 @@ fall behind 1
 fall prey to sth 1
 falsetto 1
 familiarity 1
+familiarize 1
 fan fiction 1
 fangirls 1
 fantasy 1
 fare the best 1
 fart around 1
 fascinated 1
+fascinating 1
 fatalism 1
 fatality 1
 fateful 1
@@ -1339,6 +1367,7 @@ fatshionista 1
 favorably 1
 favoritism 1
 federal deficit 1
+fellowship 1
 fence 1
 fertile ecosystems 1
 fertility 1
@@ -1403,8 +1432,8 @@ fragile 1
 fragility 1
 frailty 1
 frame 1
-framework 1
 frankly 1
+frantic 1
 fraud 1
 fraught 1
 fray 1
@@ -1431,6 +1460,7 @@ gadget 1
 gamble 1
 gang up with 1
 garage 1
+garbage 1
 gases 1
 gather 1
 gear 1
@@ -1472,6 +1502,7 @@ gossip 1
 grab 1
 grace 1
 gracefully 1
+graciousness 1
 grad 1
 grammar 1
 grant 1
@@ -1493,6 +1524,7 @@ gubernatorial 1
 guidance counselor 1
 guidebook 1
 gurney 1
+gust 1
 habityated 1
 hack 1
 haikus 1
@@ -1609,6 +1641,7 @@ in the hole 1
 in the midst of 1
 inadvertent 1
 inaugural 1
+incense 1
 incessant 1
 incidence 1
 inclusion 1
@@ -1641,6 +1674,7 @@ informed 1
 infraction 1
 infrastructure 1
 ingenious 1
+ingredient 1
 inherent 1
 inherite 1
 inhibition 1
@@ -1648,6 +1682,7 @@ initial 1
 initiate 1
 inject 1
 innovative 1
+innovator 1
 inordinate 1
 insanity 1
 insecure 1
@@ -1668,6 +1703,7 @@ intact 1
 integral 1
 integration 1
 integrity 1
+intellectual 1
 intelligence 1
 intensely 1
 interconnect 1
@@ -1692,6 +1728,7 @@ introvert 1
 introverted 1
 intrusive 1
 intuitive 1
+inundate 1
 invaluable 1
 invasion 1
 invent 1
@@ -1720,6 +1757,7 @@ joint 1
 jot down 1
 journalism 1
 journey 1
+judgement 1
 juggle 1
 junior 1
 justify 1
@@ -1730,7 +1768,6 @@ kickbox 1
 kickboxing 1
 kickstart 1
 kill time 1
-kind of 1
 kitchen 1
 knuchlehead 1
 lab coat 1
@@ -1739,11 +1776,12 @@ laboratory 1
 laid-back 1
 landmass 1
 languishing 1
+laptop 1
 launch the company 1
 laxative 1
-leadership 1
 leak 1
 lean over 1
+leftover 1
 legacy 1
 legal 1
 legions of 1
@@ -1755,6 +1793,7 @@ lens 1
 leotard 1
 lesion 1
 lethal 1
+lever 1
 leverage 1
 leveraged 1
 levity 1
@@ -1884,7 +1923,6 @@ moisturize 1
 mold 1
 momentary 1
 monitor 1
-monk 1
 monogamomus 1
 monogamy 1
 monopoly 1
@@ -1902,6 +1940,7 @@ motivation 1
 motivational 1
 motor 1
 motto 1
+mountaintop 1
 mounting 1
 mud 1
 muddling 1
@@ -1917,6 +1956,7 @@ mutter 1
 myriad 1
 myth 1
 nag 1
+nagging 1
 namely 1
 nap 1
 narrow 1
@@ -1957,6 +1997,7 @@ nonprofit 1
 nonverbal 1
 norm 1
 notebook 1
+nuanced 1
 nugget 1
 numb 1
 numb idiot 1
@@ -1990,6 +2031,7 @@ on the spot 1
 on the verge of 1
 ontological 1
 openness 1
+operative 1
 optimistic 1
 optimization 1
 optimum 1
@@ -2027,6 +2069,7 @@ overplay 1
 overreactivity 1
 overstate 1
 overthink 1
+overwhelmed 1
 overwhelming 1
 oxygenated 1
 pack up 1
@@ -2050,6 +2093,7 @@ passionately 1
 patchwork 1
 pathetic 1
 patriarchy 1
+pattern 1
 pay off 1
 pedal 1
 pedigree 1
@@ -2085,6 +2129,7 @@ pillar 1
 ping-ponging around in 1
 pinnacle 1
 piss 1
+pitfall 1
 plague 1
 plan out 1
 planet 1
@@ -2108,6 +2153,7 @@ poised 1
 poison 1
 poke 1
 poke around 1
+political 1
 pollster 1
 polyglot 1
 poop 1
@@ -2120,12 +2166,14 @@ portal 1
 portfolio 1
 positive psychology 1
 post-millennial 1
+potentially 1
 power-vacuuming 1
 powerfully 1
 powerhouse 1
 powerlessness 1
 practically 1
 pre-meditation 1
+precious 1
 precipice 1
 precisely 1
 predator 1
@@ -2145,6 +2193,7 @@ presidential 1
 press 1
 pressurize 1
 preventable 1
+preventative 1
 previously 1
 priest 1
 primarily 1
@@ -2172,7 +2221,6 @@ promote 1
 prompt 1
 propel 1
 prophecy 1
-proposal 1
 propose 1
 prosody 1
 prospect 1
@@ -2187,7 +2235,6 @@ psychology 1
 pull away 1
 pull back 1
 pull on 1
-pull out 1
 pulp 1
 punch 1
 punchline 1
@@ -2200,6 +2247,8 @@ put you in the shoes of 1
 qualification 1
 qualified 1
 quantum 1
+quantum mechanics 1
+quarter 1
 queer 1
 quest 1
 quicksand 1
@@ -2247,6 +2296,7 @@ recuperate 1
 redeclare 1
 redemption 1
 redemptive 1
+redistribute 1
 redistribution 1
 reel 1
 reevaluate 1
@@ -2263,7 +2313,6 @@ regulation 1
 rehabilitation 1
 rein 1
 reinforcement 1
-reinvent 1
 reinvention 1
 rejection 1
 rekindle 1
@@ -2274,6 +2323,7 @@ reluctance 1
 reluctant 1
 remark 1
 reminisce 1
+reminiscing 1
 renovate 1
 rental 1
 repetition 1
@@ -2353,6 +2403,7 @@ rut 1
 ruthlessly 1
 sabotage 1
 safeguard 1
+sail 1
 saliva sample 1
 salivate 1
 salvation 1
@@ -2384,6 +2435,7 @@ scrub 1
 sculpture 1
 seal off 1
 secondary 1
+secretly 1
 sector 1
 securely 1
 sedentary 1
@@ -2528,6 +2580,7 @@ sponge 1
 sponsorship 1
 spontaneous 1
 spontaneously 1
+spotaneous 1
 spray 1
 spurt 1
 squash 1
@@ -2537,6 +2590,7 @@ squence 1
 squirm 1
 squwal 1
 stab 1
+stable 1
 stack up 1
 stadium 1
 staggered 1
@@ -2547,7 +2601,6 @@ stamp 1
 stance 1
 stand up 1
 start off 1
-start out 1
 startle 1
 startup 1
 stasis 1
@@ -2565,6 +2618,7 @@ steep 1
 steer 1
 stem the inflow 1
 stemming 1
+stereotype 1
 sterling 1
 stick to your guns 1
 stick with 1
@@ -2581,7 +2635,6 @@ stoicism 1
 stool 1
 storage 1
 storm out 1
-storyline 1
 storytelling 1
 stove 1
 straightforward 1
@@ -2591,6 +2644,7 @@ strap 1
 stratosperic 1
 stress out 1
 stressful 1
+stretch 1
 strick 1
 strip 1
 stroke 1
@@ -2617,6 +2671,7 @@ suburb 1
 suck it up 1
 suitcase 1
 sunscreen 1
+sunset 1
 superficial 1
 superpower 1
 supervisor 1
@@ -2624,6 +2679,7 @@ supply 1
 supposedly 1
 suppression 1
 surgical 1
+surprised 1
 surrender 1
 surround 1
 sustain 1
@@ -2650,6 +2706,7 @@ systematic 1
 systematically 1
 taboo 1
 tackle 1
+tactic 1
 tactics 1
 take a roll on 1
 take into account 1
@@ -2784,10 +2841,12 @@ undergo 1
 underneath my belt 1
 underperform 1
 underprice 1
+underrated 1
 undersirable 1
 undertake 1
 underwear 1
 undeterred 1
+undisturbed 1
 unearned 1
 unfamiliar 1
 unfathomably 1
@@ -2836,12 +2895,14 @@ variable 1
 variation 1
 varied 1
 vastness 1
+vegetarian 1
 veiled 1
 velvety 1
 vendor 1
 vengeance 1
 vent 1
 ventilatory 1
+venture 1
 verify 1
 vessel 1
 viable 1
@@ -2885,6 +2946,7 @@ whiff 1
 whiskey 1
 whisper 1
 whistle-blower 1
+whiz 1
 whopping 1
 wild goose chase 1
 wildfire 1
@@ -2895,7 +2957,6 @@ wishy-washy 1
 withdrawn 1
 wither 1
 withstand 1
-wobbly 1
 worthwhile 1
 wrap 1
 wrinkled 1

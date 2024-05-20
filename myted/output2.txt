@@ -73,6 +73,7 @@ aggressive
 agile
 agility
 agitate
+agitated
 agriculture
 aimless
 airplanes
@@ -128,6 +129,7 @@ anticipated
 anticipation
 antidote
 antique
+anxious
 apartheid
 apathy
 apologize
@@ -168,6 +170,7 @@ assignment
 assimilation
 associate
 association
+assume
 assumption
 astounded
 asymmetric
@@ -243,6 +246,7 @@ bible
 bicker
 bickering
 bin liner
+binary
 bind
 binding
 binge
@@ -317,6 +321,7 @@ burden
 burnout
 bust
 bustle
+by chance
 by-product
 byproduct
 cadet
@@ -334,6 +339,7 @@ capital
 capitalism
 captivate
 captivity
+capture
 carastrophe
 carb
 carbohydrate
@@ -368,6 +374,7 @@ cede
 ceiling
 celebrate
 celebrity
+celibate
 cellular
 cement
 cereal
@@ -430,6 +437,7 @@ clobber
 closure
 coastal
 cocaine
+cockroach
 cofounder
 cognition
 cognitive
@@ -447,6 +455,7 @@ column
 coma
 combination
 come in handy
+come up with
 command
 comment
 commit
@@ -514,6 +523,7 @@ consensus
 consent
 consequence
 conservative
+considerate
 consistency
 consistent
 consolidate
@@ -553,6 +563,7 @@ conversation
 conversely
 convert
 conviction
+cook up
 coordinate
 coordination
 cope with
@@ -580,6 +591,7 @@ courtyard
 cousin
 crack
 cradle
+craft
 cram
 cram for an exam
 crank
@@ -758,6 +770,7 @@ distensible
 distinguish
 distort
 distract
+distracted
 distraction
 district
 disturb
@@ -885,8 +898,10 @@ enthusiasm
 enthusiastic
 enthusiastically
 entrant
+entrepreneur
 entrepreneurial
 entrepreneurial sphere
+entrepreneurship
 entry
 envelop
 envious
@@ -987,6 +1002,7 @@ fall behind
 fall prey to sth
 falsetto
 familiarity
+familiarize
 fan fiction
 fangirls
 fantastic
@@ -994,6 +1010,7 @@ fantasy
 fare the best
 fart around
 fascinated
+fascinating
 fatalism
 fatality
 fateful
@@ -1004,6 +1021,7 @@ favorably
 favoritism
 federal deficit
 feedback
+fellowship
 fence
 fertile ecosystems
 fertility
@@ -1078,6 +1096,7 @@ frailty
 frame
 framework
 frankly
+frantic
 fraud
 fraught
 fray
@@ -1106,6 +1125,7 @@ gadget
 gamble
 gang up with
 garage
+garbage
 gases
 gather
 gear
@@ -1153,6 +1173,7 @@ gossip
 grab
 grace
 gracefully
+graciousness
 grad
 grammar
 grant
@@ -1183,6 +1204,7 @@ gubernatorial
 guidance counselor
 guidebook
 gurney
+gust
 gut instinct
 habityated
 hack
@@ -1319,6 +1341,7 @@ in the midst of
 inadvertent
 inadvertently
 inaugural
+incense
 incessant
 incidence
 inclusion
@@ -1360,6 +1383,7 @@ infraction
 infrastructure
 ingenious
 ingrained
+ingredient
 inherent
 inherently
 inherite
@@ -1372,6 +1396,7 @@ inject
 innocent
 innovation
 innovative
+innovator
 inordinate
 insane
 insanely
@@ -1400,6 +1425,7 @@ intangible
 integral
 integration
 integrity
+intellectual
 intelligence
 intense
 intensely
@@ -1426,6 +1452,7 @@ intimidating
 intooverdrive
 intramural
 intricate
+intrigued
 intrinsically
 introspect
 introspective
@@ -1435,6 +1462,7 @@ intrusive
 intuition
 intuitive
 intuitively
+inundate
 invaluable
 invasion
 invent
@@ -1469,6 +1497,7 @@ joint
 jot down
 journalism
 journey
+judgement
 juggle
 junior
 justify
@@ -1492,12 +1521,14 @@ ladder
 laid-back
 landmass
 languishing
+laptop
 launch the company
 laxative
 leadership
 leak
 lean in
 lean over
+leftover
 legacy
 legal
 legions of
@@ -1510,6 +1541,7 @@ lens
 leotard
 lesion
 lethal
+lever
 leverage
 leveraged
 levity
@@ -1699,6 +1731,7 @@ motivation
 motivational
 motor
 motto
+mountaintop
 mounting
 mud
 muddling
@@ -1714,6 +1747,7 @@ mutter
 myriad
 myth
 nag
+nagging
 namely
 nap
 narrative
@@ -1764,6 +1798,7 @@ nonverbal
 norm
 nostalgia
 notebook
+nuanced
 nugget
 numb
 numb idiot
@@ -1800,6 +1835,7 @@ on the spot
 on the verge of
 ontological
 openness
+operative
 oppression
 optimal
 optimistic
@@ -1842,6 +1878,7 @@ overplay
 overreactivity
 overstate
 overthink
+overwhelmed
 overwhelming
 oxygen
 oxygenated
@@ -1872,6 +1909,7 @@ passionately
 patchwork
 pathetic
 patriarchy
+pattern
 pay off
 pedal
 pedigree
@@ -1921,6 +1959,7 @@ ping-ponging around in
 pinnacle
 piss
 pitch
+pitfall
 plague
 plan out
 planet
@@ -1944,6 +1983,7 @@ poised
 poison
 poke
 poke around
+political
 pollster
 polyglot
 poop
@@ -1957,12 +1997,14 @@ portfolio
 positive psychology
 post-millennial
 potential
+potentially
 power-vacuuming
 powerfully
 powerhouse
 powerlessness
 practically
 pre-meditation
+precious
 precipice
 precisely
 predator
@@ -1985,6 +2027,7 @@ pressurize
 prestigious
 pretend
 preventable
+preventative
 previously
 priest
 primarily
@@ -2053,6 +2096,8 @@ put you in the shoes of
 qualification
 qualified
 quantum
+quantum mechanics
+quarter
 queer
 quest
 questionnaire
@@ -2114,6 +2159,7 @@ redeclare
 redeem
 redemption
 redemptive
+redistribute
 redistribution
 reel
 reevaluate
@@ -2151,6 +2197,7 @@ reluctant
 remark
 remarkable
 reminisce
+reminiscing
 renovate
 renowned
 rental
@@ -2247,6 +2294,7 @@ sabotage
 sacred
 sacrifice
 safeguard
+sail
 sake
 saliva sample
 salivate
@@ -2286,6 +2334,7 @@ scrub
 sculpture
 seal off
 secondary
+secretly
 sector
 securely
 sedentary
@@ -2444,6 +2493,7 @@ sponge
 sponsorship
 spontaneous
 spontaneously
+spotaneous
 spray
 sprint
 spurt
@@ -2454,6 +2504,7 @@ squence
 squirm
 squwal
 stab
+stable
 stack
 stack up
 stadium
@@ -2487,6 +2538,7 @@ steep
 steer
 stem the inflow
 stemming
+stereotype
 sterling
 stick to your guns
 stick with
@@ -2518,6 +2570,7 @@ strategy
 stratosperic
 stress out
 stressful
+stretch
 strick
 strip
 stroke
@@ -2552,6 +2605,7 @@ suicide
 suitcase
 summit
 sunscreen
+sunset
 superficial
 superiority
 superpower
@@ -2562,6 +2616,7 @@ suppress
 suppression
 surgery
 surgical
+surprised
 surrender
 surround
 susceptible
@@ -2593,6 +2648,7 @@ systematic
 systematically
 taboo
 tackle
+tactic
 tactics
 take a roll on
 take into account
@@ -2760,10 +2816,12 @@ underlying
 underneath my belt
 underperform
 underprice
+underrated
 undersirable
 undertake
 underwear
 undeterred
+undisturbed
 undo
 unearned
 unfamiliar
@@ -2821,6 +2879,7 @@ variable
 variation
 varied
 vastness
+vegetarian
 veiled
 vein
 velvety
@@ -2828,6 +2887,7 @@ vendor
 vengeance
 vent
 ventilatory
+venture
 verify
 versus
 vessel
@@ -2880,6 +2940,7 @@ whiff
 whiskey
 whisper
 whistle-blower
+whiz
 whopping
 widespread
 wild goose chase
