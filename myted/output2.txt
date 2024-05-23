@@ -21,6 +21,7 @@ abstractly
 absurb
 absurdity
 abundant
+abundantly
 abuse
 abusive
 accelerator
@@ -132,12 +133,14 @@ antique
 anxious
 apartheid
 apathy
+aphasia
 apologize
 appearently
 appetite
 applause
 applicability
 appreciate
+apprehensive
 approach
 appropriately
 approval
@@ -161,6 +164,7 @@ ask for hand
 aspiration
 aspire
 assassin
+assassinate
 assemble
 assembly
 assertive
@@ -198,6 +202,7 @@ authority
 automate
 automatic
 automatically
+autopilot
 available
 average
 aversive
@@ -287,6 +292,7 @@ bound
 boundary
 boxer
 brag
+brainstorming
 brainwave
 brat
 breadwinner
@@ -318,6 +324,7 @@ bump into
 bump up
 bundle
 burden
+bureaucrat
 burnout
 bust
 bustle
@@ -330,6 +337,7 @@ calendar
 calf
 call the acount
 campaign
+campaigner
 candidate
 canoeing
 capable
@@ -438,6 +446,7 @@ closure
 coastal
 cocaine
 cockroach
+cocktail
 cofounder
 cognition
 cognitive
@@ -456,6 +465,7 @@ coma
 combination
 come in handy
 come up with
+comfort
 command
 comment
 commit
@@ -464,6 +474,7 @@ commitment
 committed
 committee
 communist state
+comparable
 comparison
 compassion
 compassionate demeanor
@@ -500,6 +511,7 @@ conclude
 concrete
 conduct
 cone
+conference
 confess
 confession
 confetti
@@ -533,6 +545,7 @@ constant
 constantly
 constrain
 constrict
+construct
 constructive
 consume
 consummate
@@ -587,6 +600,7 @@ counterintuitive
 counterpart
 courageous
 courteous
+courtroom
 courtyard
 cousin
 crack
@@ -600,12 +614,14 @@ crappy
 crave
 craw
 credential
+credentialed
 credit card
 creditor
 creepy
 cringe
 critical
 critical period
+croissant
 crop up
 crowd-sourcing
 crucial
@@ -621,6 +637,7 @@ culinary
 culminate
 cultivate
 curate
+curly
 curse
 curvaceous
 curve
@@ -631,6 +648,7 @@ cycle through
 cyclone
 cynic
 cytokined
+damn
 dampen
 daunting
 daydream
@@ -648,6 +666,7 @@ dedicated
 deem
 default
 defeat
+defect
 defensive
 defensiveness
 defer
@@ -734,6 +753,7 @@ diligent
 dime
 dimension
 diminish
+dinosaur
 dip
 directed
 disadvantaged
@@ -764,6 +784,7 @@ displace
 disrespectful
 disrupt
 disruption
+disruptive
 dissatisfaction
 dissociate
 distensible
@@ -791,6 +812,8 @@ domestic
 dominance
 dominant
 donation
+donut
+doodlt
 doom
 doomscrolling
 doorstep
@@ -817,6 +840,7 @@ drift off
 drift off into
 driveway
 drop out
+dropout
 drought
 drown
 drummer
@@ -1020,6 +1044,7 @@ fatshionista
 favorably
 favoritism
 federal deficit
+feeble
 feedback
 fellowship
 fence
@@ -1059,6 +1084,7 @@ flee
 fleeting
 flesh
 flexibility
+flimsy
 flinch
 flip
 flip-flop
@@ -1126,6 +1152,7 @@ gamble
 gang up with
 garage
 garbage
+garbagement
 gases
 gather
 gear
@@ -1134,6 +1161,7 @@ generalized
 generate
 generation
 genetically
+genius
 genre
 genuine
 get back up
@@ -1259,6 +1287,7 @@ holiness
 holistic
 hometown
 homicidal
+honesty
 honor
 hook
 hook on
@@ -1269,12 +1298,15 @@ hormone
 horrify
 horrifying
 horror
+hospice
+hospitalization
 hostage
 household
 housewares
 huddle
 humanity
 humble
+humbling
 humiliate
 humiliating
 humiliation
@@ -1305,10 +1337,12 @@ identity crisis
 idiosyncratic
 idiot
 ignite
+illusion
 illusory
 illustrate
 imaginary
 imaginative
+immediate
 immerse in
 immersed
 immersion
@@ -1331,7 +1365,9 @@ implode
 import
 impose
 impostor
+impoverished
 improvisation
+impulse
 impulsive
 in context
 in favor of
@@ -1411,11 +1447,13 @@ insight into
 insightful
 insomnia
 inspiration
+inspirational
 instantly
 instinct
 instinctively
 institution
 institutional
+institutionalize
 instrument
 insulin
 insurance
@@ -1519,6 +1557,7 @@ label
 laboratory
 ladder
 laid-back
+lament
 landmass
 languishing
 laptop
@@ -1622,6 +1661,7 @@ marine
 marriage
 marshal
 marshmallow
+marvel
 masculine
 massage
 massive
@@ -1652,6 +1692,7 @@ meidate
 melancholy
 melodramatic
 memoir
+memorable
 memorial
 memory-consolidation
 menstruate
@@ -1680,6 +1721,7 @@ mildly
 military
 millenium
 millennial
+millisecond
 mimic
 mind-blowing
 mindfully
@@ -1742,6 +1784,7 @@ murder
 muscle
 muscular
 musical instrument
+mustache
 mutation
 mutter
 myriad
@@ -1799,6 +1842,7 @@ norm
 nostalgia
 notebook
 nuanced
+nudge
 nugget
 numb
 numb idiot
@@ -1907,6 +1951,7 @@ partner with
 passionate
 passionately
 patchwork
+paternalistic
 pathetic
 patriarchy
 pattern
@@ -1928,6 +1973,7 @@ permanent
 perpetual
 perpetuate
 perplex
+perplexed
 perseverance
 persistence
 persistent
@@ -1935,6 +1981,7 @@ personality
 perspective
 pervasive
 pesky
+pessimistic
 pesticide
 pet peeves
 phase
@@ -1966,6 +2013,7 @@ planet
 plant your feet
 plaque
 plasma
+plateau
 plateaus
 platitude
 play it safe
@@ -1984,6 +2032,8 @@ poison
 poke
 poke around
 political
+politician
+poll
 pollster
 polyglot
 poop
@@ -2063,6 +2113,7 @@ prompt
 propagate
 propel
 prophecy
+proponent
 proposal
 propose
 prosody
@@ -2169,6 +2220,7 @@ refresher
 refrigerator
 refuge
 refugee
+regenerate
 regenerative
 region
 register
@@ -2220,8 +2272,10 @@ resilience
 resilient
 resist
 resolution
+resonant
 resonate
 resort
+resounding
 resource
 respectively
 respiration
@@ -2313,6 +2367,8 @@ scalp
 scan
 scandal
 scar
+scarce
+scarcity
 scattered
 scenario
 scheme
@@ -2431,6 +2487,7 @@ slaughterhouse
 slavery
 sleep deprivation
 sleepovers
+sleeve
 slide
 slight
 slightly
@@ -2451,6 +2508,7 @@ snack
 snap
 sneaky
 snippet
+snooze
 snuff out
 soak up
 soap opera
@@ -2481,8 +2539,10 @@ spearhead
 specialize
 specifically
 spectator
+spectrum
 spell
 spike
+spiky
 spine
 spiral
 spiritual
@@ -2494,6 +2554,7 @@ sponsorship
 spontaneous
 spontaneously
 spotaneous
+spouse
 spray
 sprint
 spurt
@@ -2501,6 +2562,7 @@ squash
 squeaky
 squeal
 squence
+squiggle
 squirm
 squwal
 stab
@@ -2566,6 +2628,7 @@ straightforward
 stranded
 strangle
 strap
+strategic
 strategy
 stratosperic
 stress out
@@ -2589,16 +2652,19 @@ submit
 subscribe
 subscribe to
 subsequent
+subsequently
 subside
 subskill
 substance
 substantial
+substantially
 substitute
 substitution
 subtract
 suburb
 suck it up
 suffocate
+sugarcane
 sugarcoat
 suicidal
 suicide
@@ -2644,6 +2710,7 @@ symbolic
 symmetrical
 symptom
 synchronize
+syndicated
 systematic
 systematically
 taboo
@@ -2725,6 +2792,7 @@ time perspective
 timeline
 timetable
 timidness
+tinker
 tinly
 tiny
 tissue
@@ -2734,6 +2802,7 @@ tolerance
 toolbox
 toolkit
 toot
+top up
 torment
 torture
 totally
@@ -2750,6 +2819,7 @@ tragedy
 tragic
 trajectory
 transaction
+transactor
 transcendence
 transcendental
 transcribe
@@ -2766,6 +2836,7 @@ treadmill
 treasure
 treatment
 tremulous
+triangle
 tribal
 trick
 trick into
@@ -2888,6 +2959,7 @@ vengeance
 vent
 ventilatory
 venture
+verbally
 verify
 versus
 vessel
@@ -2956,10 +3028,12 @@ wither
 withstand
 wobbly
 womb
+worldview
 worship
 worthwhile
 wrap
 wrinkled
+xenophobia
 yank
 yearbook
 yeast
