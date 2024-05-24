@@ -19,12 +19,14 @@ automatically 5
 concept 5
 conduct 5
 discipline 5
+enormous 5
 essential 5
 essentially 5
 inevitable 5
 isolated 5
 psychologist 5
 radical 5
+reveal 5
 scenario 5
 alert 4
 analogy 4
@@ -43,9 +45,9 @@ dopamine 4
 dramatically 4
 embarrassed 4
 endure 4
-enormous 4
 episode 4
 executive 4
+fabulous 4
 fantastic 4
 grief 4
 incredibly 4
@@ -68,8 +70,8 @@ perspective 4
 pitch 4
 prestigious 4
 privilege 4
+proposal 4
 remarkable 4
-reveal 4
 ridiculous 4
 status quo 4
 strategy 4
@@ -127,7 +129,6 @@ excessive 3
 exhaustive 3
 external 3
 extraordinary 3
-fabulous 3
 flip 3
 flourish 3
 frustration 3
@@ -166,7 +167,6 @@ prime 3
 procrastination 3
 profound 3
 progressively 3
-proposal 3
 pull out 3
 realm 3
 rehab 3
@@ -320,6 +320,7 @@ drain 2
 drop out 2
 dull 2
 electrode 2
+eliminate 2
 empowering 2
 emptiness 2
 engage in 2
@@ -810,6 +811,7 @@ be thrilled to 1
 be vulnerable to 1
 be wrapped up in 1
 beady 1
+befall 1
 beget 1
 behind the scenes 1
 beleaguered 1
@@ -927,6 +929,7 @@ celebrity 1
 celibate 1
 cellular 1
 cement 1
+centrality 1
 cerebral 1
 certified 1
 chameleon 1
@@ -1017,6 +1020,7 @@ concentration 1
 conceptualize 1
 concert 1
 conclude 1
+conclusion 1
 cone 1
 conference 1
 confession 1
@@ -1299,7 +1303,6 @@ electric jolt 1
 electrical 1
 element 1
 elevated 1
-eliminate 1
 emanate 1
 embankment 1
 embark 1
@@ -1405,7 +1408,9 @@ exploratory 1
 exponential 1
 extended 1
 extol 1
+extracurricular 1
 extraneous 1
+extremely 1
 extremism 1
 extricate 1
 exuberance 1
@@ -1752,6 +1757,7 @@ inhibition 1
 initial 1
 initiate 1
 inject 1
+injustice 1
 innovative 1
 inordinate 1
 insanity 1
@@ -1893,6 +1899,7 @@ long-lasting 1
 long-term memory 1
 longitudinal 1
 longtime 1
+lottery 1
 lowercase 1
 loyalty 1
 lucid 1
@@ -2174,6 +2181,7 @@ per se 1
 percentage 1
 percentile 1
 peril 1
+perish 1
 permafrost 1
 perpetual 1
 perplex 1
@@ -2311,6 +2319,7 @@ pull on 1
 pulp 1
 punch 1
 punchline 1
+puncture 1
 purposeless 1
 pursue 1
 push back 1
@@ -2339,6 +2348,7 @@ rare 1
 rarefied 1
 rarely 1
 rash 1
+ratchet up 1
 ratio 1
 ration 1
 rational 1
@@ -2525,6 +2535,7 @@ self-perceived 1
 self-referential 1
 selfie 1
 selves 1
+semester 1
 semicolon 1
 senior 1
 sensitive 1
@@ -3032,6 +3043,7 @@ withstand 1
 worldview 1
 worthwhile 1
 wrap 1
+wrecking 1
 wrinkled 1
 xenophobia 1
 yank 1

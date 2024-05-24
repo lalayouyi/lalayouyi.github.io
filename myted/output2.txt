@@ -238,6 +238,7 @@ be thrilled to
 be vulnerable to
 be wrapped up in
 beady
+befall
 beget
 behind the scenes
 beleaguered
@@ -385,6 +386,7 @@ celebrity
 celibate
 cellular
 cement
+centrality
 cereal
 cerebral
 certified
@@ -508,6 +510,7 @@ concept
 conceptualize
 concert
 conclude
+conclusion
 concrete
 conduct
 cone
@@ -1009,8 +1012,10 @@ extended
 extent
 external
 extol
+extracurricular
 extraneous
 extraordinary
+extremely
 extremism
 extricate
 exuberance
@@ -1429,6 +1434,7 @@ initial
 initially
 initiate
 inject
+injustice
 innocent
 innovation
 innovative
@@ -1619,6 +1625,7 @@ long-term memory
 longitudinal
 longtime
 loop
+lottery
 lowercase
 loyalty
 lucid
@@ -1968,6 +1975,7 @@ perception
 perfectionism
 performance
 peril
+perish
 permafrost
 permanent
 perpetual
@@ -2137,6 +2145,7 @@ pull out
 pulp
 punch
 punchline
+puncture
 purge
 purposeless
 pursue
@@ -2175,6 +2184,7 @@ rarefied
 rarely
 rash
 rat
+ratchet up
 ratio
 ration
 rational
@@ -2411,6 +2421,7 @@ self-perception
 self-referential
 selfie
 selves
+semester
 semicolon
 senior
 senior thesis
@@ -3032,6 +3043,7 @@ worldview
 worship
 worthwhile
 wrap
+wrecking
 wrinkled
 xenophobia
 yank
