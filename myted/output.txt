@@ -73,6 +73,7 @@ privilege 4
 proposal 4
 remarkable 4
 ridiculous 4
+self-esteem 4
 status quo 4
 strategy 4
 tap into 4
@@ -129,6 +130,7 @@ excessive 3
 exhaustive 3
 external 3
 extraordinary 3
+flaw 3
 flip 3
 flourish 3
 frustration 3
@@ -153,6 +155,7 @@ kindergarten 3
 leadership 3
 mainstream 3
 mantra 3
+misconception 3
 nightmare 3
 obstacle 3
 paradox 3
@@ -177,7 +180,6 @@ resilience 3
 restlessness 3
 ritual 3
 scientifically 3
-self-esteem 3
 serotonin 3
 stake 3
 start out 3
@@ -240,6 +242,7 @@ brilliant 2
 broadcast 2
 brutal 2
 bump into 2
+bundle 2
 bust 2
 by chance 2
 campaign 2
@@ -270,6 +273,7 @@ concrete 2
 confess 2
 conflict 2
 conscious 2
+consistent 2
 consume 2
 contemporary 2
 content 2
@@ -307,6 +311,7 @@ diagnose 2
 diagnostic 2
 dictate 2
 dilemma 2
+dimension 2
 discern 2
 disparity 2
 distinguish 2
@@ -331,6 +336,7 @@ estimate 2
 exaggeration 2
 excel 2
 exception 2
+excerpt 2
 excessively 2
 exclude 2
 exhausting 2
@@ -340,7 +346,6 @@ factor 2
 fascinating 2
 fellowship 2
 filter 2
-flaw 2
 flexibility 2
 flounder 2
 folk 2
@@ -438,7 +443,6 @@ mind-blowing 2
 mindset 2
 miracle 2
 miraculously 2
-misconception 2
 misery 2
 mission 2
 moderate 2
@@ -483,6 +487,7 @@ pretend 2
 prominent 2
 promotion 2
 propagate 2
+protagonist 2
 provoke 2
 psychiatric 2
 psychotherapy 2
@@ -499,6 +504,7 @@ rave 2
 rebel 2
 recession 2
 recipe 2
+reconcile 2
 recurrent 2
 redeem 2
 redistribute 2
@@ -538,6 +544,7 @@ skeptical 2
 slumber 2
 snap 2
 solid 2
+sophomore 2
 specifically 2
 spike 2
 spit 2
@@ -590,6 +597,7 @@ tumor 2
 turn out 2
 tweak 2
 tyranny 2
+unapologetically 2
 undo 2
 unfold 2
 uniqueness 2
@@ -682,6 +690,7 @@ airplanes 1
 akin 1
 alertness 1
 algorithm 1
+alienate 1
 align 1
 alley 1
 alongside 1
@@ -880,7 +889,6 @@ bully 1
 bullying 1
 bumblebee 1
 bump up 1
-bundle 1
 burden 1
 bureaucrat 1
 burnout 1
@@ -1043,7 +1051,6 @@ consent 1
 conservative 1
 considerate 1
 consistency 1
-consistent 1
 consolidate 1
 consolidation 1
 conspiracy 1
@@ -1064,6 +1071,8 @@ continuation 1
 contour 1
 contouring 1
 contraction 1
+contradiction 1
+contradictory 1
 contributing 1
 contributor 1
 controversial 1
@@ -1206,7 +1215,7 @@ digitize 1
 dilate 1
 diligent 1
 dime 1
-dimension 1
+dimensional 1
 dinosaur 1
 dip 1
 directed 1
@@ -1295,6 +1304,7 @@ ebbs and flows 1
 eccentric 1
 economic 1
 ecstatic 1
+editorial 1
 effectiveness 1
 elastic 1
 elated 1
@@ -1323,6 +1333,7 @@ empathetic 1
 empathy 1
 emphasize 1
 empower 1
+empowerment 1
 emulate 1
 encapsulate 1
 encode 1
@@ -1386,7 +1397,6 @@ examine 1
 exccs 1
 exceedingly 1
 excellence 1
-excerpt 1
 excitement 1
 exclusive 1
 exclusively 1
@@ -1441,6 +1451,7 @@ favorably 1
 favoritism 1
 federal deficit 1
 feeble 1
+feminist 1
 fence 1
 fertile ecosystems 1
 fertility 1
@@ -1688,6 +1699,7 @@ ignite 1
 illusion 1
 illusory 1
 illustrate 1
+illustration 1
 imaginative 1
 immediate 1
 immerse in 1
@@ -1716,6 +1728,7 @@ in favor of 1
 in spite of onself 1
 in the hole 1
 in the midst of 1
+inability 1
 inadvertent 1
 inaugural 1
 incense 1
@@ -1991,6 +2004,7 @@ miraculous 1
 mirror 1
 miserably 1
 misfit 1
+misinterpret 1
 miss doing sth 1
 misspeak 1
 misstep 1
@@ -2022,6 +2036,7 @@ mounting 1
 mud 1
 muddling 1
 mulberry 1
+multifaceted 1
 multiple 1
 mural 1
 murder 1
@@ -2183,6 +2198,7 @@ percentile 1
 peril 1
 perish 1
 permafrost 1
+permission 1
 perpetual 1
 perplex 1
 perplexed 1
@@ -2264,6 +2280,8 @@ preliminary 1
 preliminary round 1
 premature 1
 prematurely 1
+premier 1
+premise 1
 preoccupy 1
 prescribe 1
 prescription 1
@@ -2305,7 +2323,6 @@ proponent 1
 propose 1
 prosody 1
 prospect 1
-protagonist 1
 protest 1
 protestation 1
 protocol 1
@@ -2370,7 +2387,6 @@ reclaim 1
 recluse 1
 recognize 1
 recollection 1
-reconcile 1
 reconfirm 1
 record 1
 recuperate 1
@@ -2397,6 +2413,7 @@ reinforcement 1
 reinvention 1
 rejection 1
 rekindle 1
+relatable 1
 relatively 1
 relevant 1
 religion 1
@@ -2552,6 +2569,7 @@ settings 1
 settle down 1
 sewer 1
 sexism 1
+sexuality 1
 shadow 1
 shadowy 1
 shake off 1
@@ -2640,7 +2658,6 @@ solicit 1
 solitude 1
 somehow 1
 sophisticated 1
-sophomore 1
 sort of 1
 sour sb on sth 1
 sourdough 1
@@ -2912,7 +2929,6 @@ ultrasound 1
 umami 1
 unabated 1
 unapologetic 1
-unapologetically 1
 unbeknownst 1
 unbothered 1
 unconsciously 1

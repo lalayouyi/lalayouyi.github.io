@@ -83,6 +83,7 @@ alcoholism
 alert
 alertness
 algorithm
+alienate
 align
 alley
 ally
@@ -568,6 +569,8 @@ contour
 contouring
 contract
 contraction
+contradiction
+contradictory
 contrast
 contribute
 contributing
@@ -755,6 +758,7 @@ dilemma
 diligent
 dime
 dimension
+dimensional
 diminish
 dinosaur
 dip
@@ -866,6 +870,7 @@ ebbs and flows
 eccentric
 economic
 ecstatic
+editorial
 effectiveness
 ego
 elastic
@@ -900,6 +905,7 @@ empathy
 emphasize
 empower
 empowering
+empowerment
 emptiness
 emulate
 encapsulate
@@ -1052,6 +1058,7 @@ federal deficit
 feeble
 feedback
 fellowship
+feminist
 fence
 fertile ecosystems
 fertility
@@ -1345,6 +1352,7 @@ ignite
 illusion
 illusory
 illustrate
+illustration
 imaginary
 imaginative
 immediate
@@ -1379,6 +1387,7 @@ in favor of
 in spite of onself
 in the hole
 in the midst of
+inability
 inadvertent
 inadvertently
 inaugural
@@ -1744,6 +1753,7 @@ miserable
 miserably
 misery
 misfit
+misinterpret
 miss doing sth
 mission
 misspeak
@@ -1785,6 +1795,7 @@ mounting
 mud
 muddling
 mulberry
+multifaceted
 multiple
 mural
 murder
@@ -1978,6 +1989,7 @@ peril
 perish
 permafrost
 permanent
+permission
 perpetual
 perpetuate
 perplex
@@ -2073,6 +2085,8 @@ preliminary
 preliminary round
 premature
 prematurely
+premier
+premise
 preoccupy
 prescribe
 prescription
@@ -2249,6 +2263,7 @@ reinvention
 reject
 rejection
 rekindle
+relatable
 relationship
 relatively
 relentless
@@ -2441,6 +2456,7 @@ settings
 settle down
 sewer
 sexism
+sexuality
 shadow
 shadowy
 shake off
