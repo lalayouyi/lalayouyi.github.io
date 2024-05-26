@@ -9,10 +9,12 @@ a sort of
 a spectator sport
 a stack of
 a state of
+a streak of
 a string of
 a twist and turn
 a wedge of
 abacus
+abdominal
 abduct
 abnormality
 absorption
@@ -222,6 +224,7 @@ backstage
 bacterial meningitis
 badge
 bait
+bale
 banish
 banshee
 baptize
@@ -247,6 +250,7 @@ belly
 belonging
 benevolent
 benign
+bet
 bias
 biased
 bible
@@ -330,6 +334,7 @@ bureaucrat
 burnout
 bust
 bustle
+buzz
 by chance
 by-product
 byproduct
@@ -477,6 +482,7 @@ commitment
 committed
 committee
 communist state
+commute
 comparable
 comparison
 compassion
@@ -484,6 +490,7 @@ compassionate demeanor
 compelling
 competence
 competent
+competition
 competitive
 compilation
 compile
@@ -586,6 +593,7 @@ cook up
 coordinate
 coordination
 cope with
+cord
 cornerstone
 corporation
 correlate
@@ -1110,6 +1118,7 @@ fluid
 flunk out
 fly in the face of
 fly off the handle of sb
+focus on
 foggy
 fold
 fold up
@@ -1202,9 +1211,11 @@ glow
 glow eith pride
 glowing
 gnaw
+go all out
 go down the rabbit hole
 go hand in hand
 go off
+go through with
 gold digger
 gooey
 goofy
@@ -1217,6 +1228,7 @@ graciousness
 grad
 grammar
 grant
+graphic
 grasp
 gratification
 gravitate
@@ -1237,10 +1249,12 @@ grizzly
 grocery
 growth mindset
 grudge
+grueling
 gruff
 grumpy
 guardian
 gubernatorial
+guidance
 guidance counselor
 guidebook
 gurney
@@ -1250,6 +1264,7 @@ habityated
 hack
 haikus
 hail
+halfway
 hallmark
 hallowed
 hallucinate
@@ -1270,12 +1285,14 @@ harvest
 haunt
 have a leg up in
 have tunnel vision
+hay
 head-on
 headfirst
 heartbeat
 heartbroken
 heartburning
 heckle
+helicopter
 hell
 helm
 hemoglobin
@@ -1305,6 +1322,7 @@ hook
 hook on
 hook up
 hoops
+hop
 hormonal
 hormone
 horrify
@@ -1385,6 +1403,7 @@ impulsive
 in context
 in favor of
 in spite of onself
+in terms of
 in the hole
 in the midst of
 inability
@@ -1418,6 +1437,7 @@ inept
 inequality
 inevitable
 inevitably
+infant
 infinite
 infinity
 inflammation
@@ -1553,8 +1573,11 @@ journey
 judgement
 juggle
 junior
+junior year
 justify
+keep in mind
 keepsake
+kick in
 kick mu ass
 kick off
 kickbox
@@ -1594,6 +1617,7 @@ lengthy
 lens
 leotard
 lesion
+let alone
 lethal
 lever
 leverage
@@ -1625,6 +1649,7 @@ literature
 litter
 livelihood
 liver
+loader
 lobby
 lock down
 locust
@@ -1954,6 +1979,7 @@ parable
 parading
 paradox
 parallelogram
+paralympic
 paralysis
 paralyze
 paralyzed
@@ -2119,6 +2145,7 @@ pro
 procedural
 procedure
 procrastination
+prodding
 productive
 productivity
 profile
@@ -2291,6 +2318,7 @@ resent
 resequencing
 reservation
 reserve
+reset
 resident
 residue
 resilience
@@ -2347,6 +2375,7 @@ robbery
 robust
 roll
 roll around
+roll back into
 romance
 romantic
 roof
@@ -2375,6 +2404,7 @@ sacrifice
 safeguard
 sail
 sake
+salary
 saliva sample
 salivate
 salvation
@@ -2561,15 +2591,18 @@ span
 spark
 sparkle
 sparkly
+spastic
 speaking ill of
 spearhead
 specialize
+specialty
 specifically
 spectator
 spectrum
 spell
 spike
 spiky
+spinal
 spine
 spiral
 spiritual
@@ -2625,8 +2658,10 @@ staycation
 steak
 steep
 steer
+steering
 stem the inflow
 stemming
+stereo
 stereotype
 sterling
 stick to your guns
@@ -2651,6 +2686,7 @@ storm out
 storyline
 storytelling
 stove
+straighten
 straightforward
 stranded
 strangle
@@ -2840,6 +2876,7 @@ tournament
 toxic
 toxicity
 track
+tractor
 trade
 traditionally
 tragedy
@@ -2850,6 +2887,7 @@ transactor
 transcendence
 transcendental
 transcribe
+transfer
 transformative
 transient
 transition
@@ -2917,6 +2955,7 @@ underprice
 underrated
 undersirable
 undertake
+underway
 underwear
 undeterred
 undisturbed
@@ -2989,6 +3028,7 @@ venture
 verbally
 verify
 versus
+vertebrae
 vessel
 viable
 vicious
@@ -3003,6 +3043,7 @@ virginity
 virtually
 virtue
 visceral
+visible
 visualization
 visualize
 vocabulary
@@ -3034,6 +3075,7 @@ well-being
 well-earned
 well-found
 well-regarded
+wheelchair
 whereas
 whiff
 whiskey
@@ -3055,10 +3097,12 @@ wither
 withstand
 wobbly
 womb
+workout
 worldview
 worship
 worthwhile
 wrap
+wrap around
 wrecking
 wrinkled
 xenophobia
