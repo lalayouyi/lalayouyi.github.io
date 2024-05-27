@@ -21,6 +21,7 @@ absorption
 abstinence
 abstractly
 absurb
+absurd
 absurdity
 abundant
 abundantly
@@ -225,6 +226,7 @@ bacterial meningitis
 badge
 bait
 bale
+banality
 banish
 banshee
 baptize
@@ -256,6 +258,7 @@ biased
 bible
 bicker
 bickering
+bifurcation
 bin liner
 binary
 bind
@@ -334,6 +337,7 @@ bureaucrat
 burnout
 bust
 bustle
+buttress
 buzz
 by chance
 by-product
@@ -374,6 +378,7 @@ cash-trapped
 casino game
 cast
 casting
+castle
 casually
 catagory
 catapult
@@ -381,6 +386,7 @@ catastrophe
 catastrophic
 catchy
 category
+catfight
 cathartic
 cautious
 caveat
@@ -435,6 +441,7 @@ circulate
 circulatory
 circumstance
 circus
+civic
 civil
 civilization
 clarify
@@ -531,6 +538,7 @@ confirm
 conflate
 conflict
 conformity
+confound
 confront
 congenitally
 congregation
@@ -632,6 +640,7 @@ credentialed
 credit card
 creditor
 creepy
+criminal
 cringe
 critical
 critical period
@@ -684,6 +693,7 @@ defect
 defensive
 defensiveness
 defer
+deferential
 defiant
 deficit
 defining moments
@@ -770,6 +780,7 @@ dimensional
 diminish
 dinosaur
 dip
+dire
 directed
 disadvantaged
 disappointed
@@ -866,6 +877,7 @@ dude
 dull
 dullness
 dumb
+dumbfounded
 dump
 durable
 duration
@@ -880,7 +892,9 @@ economic
 ecstatic
 editorial
 effectiveness
+efficacy
 ego
+elaborate
 elastic
 elated
 elect
@@ -930,6 +944,7 @@ enhance
 enjoyable
 ennui
 enormous
+enraged
 enriching
 ensnare
 ensue
@@ -1067,6 +1082,7 @@ feeble
 feedback
 fellowship
 feminist
+feminity
 fence
 fertile ecosystems
 fertility
@@ -1165,6 +1181,7 @@ fundraiser
 funeral
 funk
 furious
+fury
 fuse
 futile
 fuzzy
@@ -1178,6 +1195,7 @@ gases
 gather
 gear
 gender
+gendered
 generalized
 generate
 generation
@@ -1199,6 +1217,7 @@ give out
 give somebody a run for its money
 gizmo
 glamorous
+gleefully
 glittering
 glittery
 gloat
@@ -1275,6 +1294,7 @@ handy
 hang
 hang out
 happen overnight
+harasser
 harb
 hardship
 hardy
@@ -1378,6 +1398,7 @@ immerse in
 immersed
 immersion
 immigrant
+imminent
 immune
 immune system
 immune system dysfunction
@@ -1391,6 +1412,7 @@ impending
 impenetrable
 imperfection
 implement
+implicate
 implication
 implode
 import
@@ -1426,6 +1448,7 @@ indecision
 indicate
 indict
 indifference
+indignity
 individual
 individualized
 induce
@@ -1491,6 +1514,7 @@ institutional
 institutionalize
 instrument
 insulin
+insult
 insurance
 insurmountable
 intact
@@ -1574,6 +1598,7 @@ judgement
 juggle
 junior
 junior year
+justified
 justify
 keep in mind
 keepsake
@@ -1597,6 +1622,7 @@ ladder
 laid-back
 lament
 landmass
+lane
 languishing
 laptop
 launch the company
@@ -1679,6 +1705,7 @@ magnetic
 magnificent
 magnified
 mainstream
+maintenance
 make ends meet
 make one's mark
 make sth the norm
@@ -1698,12 +1725,14 @@ marathon
 marble
 march
 margin
+marginalized
 marine
 marriage
 marshal
 marshmallow
 marvel
 masculine
+masculinity
 massage
 massive
 masterpiece
@@ -1753,6 +1782,7 @@ methodical
 metric
 metrics
 mic
+microcosm
 microscale
 microscope
 midlife
@@ -1779,12 +1809,14 @@ miserably
 misery
 misfit
 misinterpret
+misrepresentation
 miss doing sth
 mission
 misspeak
 misstep
 misunderstand
 mobility
+mockery
 moderate
 modified
 modify
@@ -1820,6 +1852,7 @@ mounting
 mud
 muddling
 mulberry
+mull
 multifaceted
 multiple
 mural
@@ -1830,6 +1863,7 @@ musical instrument
 mustache
 mutation
 mutter
+mutually
 myriad
 myth
 nag
@@ -1892,6 +1926,7 @@ numb idiot
 numbness
 numerous
 nun
+nurture
 nutrient
 nutrition
 nutritional
@@ -1923,6 +1958,7 @@ on the verge of
 ontological
 openness
 operative
+oppositional
 oppression
 optimal
 optimistic
@@ -1970,6 +2006,7 @@ overwhelming
 oxygen
 oxygenated
 pack up
+palatable
 panacea
 pandemic
 panel
@@ -1997,11 +2034,13 @@ passionately
 patchwork
 paternalistic
 pathetic
+patriarchal
 patriarchy
 pattern
 pay off
 pedal
 pedigree
+penalize
 peninsula
 penultimate
 per se
@@ -2044,6 +2083,7 @@ phrase
 phrasebook
 physically
 physician
+physiological
 piano recital
 pickle
 piece together
@@ -2104,8 +2144,10 @@ precious
 precipice
 precisely
 predator
+predatory
 predictor
 predisposition
+preemptively
 prejudice
 preliminary
 preliminary round
@@ -2190,6 +2232,7 @@ puncture
 purge
 purposeless
 pursue
+purview
 push back
 put the question to rest
 put up
@@ -2219,6 +2262,7 @@ radical collaboration
 rage
 raid
 rally
+rampant
 randomly
 rare
 rarefied
@@ -2300,6 +2344,7 @@ reluctance
 reluctant
 remark
 remarkable
+remarkably
 reminisce
 reminiscing
 renovate
@@ -2310,6 +2355,7 @@ replenish
 representation
 repress
 repression
+reproduce
 reproductive
 repute
 resell
@@ -2341,6 +2387,7 @@ resurrect
 resurrection
 resuscitation
 retain
+retaliation
 retention
 rethink
 retire
@@ -2361,6 +2408,7 @@ revv up
 reward system
 rhythm
 rhythmic
+ribbon
 ridiculous
 riffraff
 rig
@@ -2389,6 +2437,7 @@ royal
 rubber
 rug
 rule out
+ruminate
 rumination
 rummage
 rumor
@@ -2504,6 +2553,7 @@ shortsightedess
 shove
 shred
 shriek
+shrill
 shrine
 shrink
 shrug
@@ -2754,6 +2804,8 @@ suspend
 sustain
 sustainable
 sustainably
+sustained
+swallow
 swank
 swap
 swear
@@ -2785,8 +2837,11 @@ take into account
 take off
 take sb for a ride
 takeaway
+tale
 tally
+tame
 tamp down
+tangle
 tanked
 tap into
 tape
@@ -2843,6 +2898,7 @@ throat
 throne
 throughout
 throw in the towel on
+thrum
 thumb
 thyroid
 tidily
@@ -2900,6 +2956,7 @@ traumatize
 treadmill
 treasure
 treatment
+tremendous
 tremulous
 triangle
 tribal
@@ -2998,6 +3055,7 @@ ups and downs
 upscale
 upside
 upstart
+uptake
 urban tribe
 urge
 utility
@@ -3025,6 +3083,7 @@ vengeance
 vent
 ventilatory
 venture
+veranda
 verbally
 verify
 versus
