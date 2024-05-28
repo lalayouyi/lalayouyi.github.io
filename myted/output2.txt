@@ -17,6 +17,7 @@ abacus
 abdominal
 abduct
 abnormality
+absolutely
 absorption
 abstinence
 abstractly
@@ -59,6 +60,7 @@ admission
 admittedly
 adolescence
 adolescent
+adore
 adrenaline
 adrift
 adulthood
@@ -136,6 +138,7 @@ antidote
 antique
 anxious
 apartheid
+apathetic
 apathy
 aphasia
 apologize
@@ -281,6 +284,7 @@ bliss
 blogger
 blunt
 blur
+blurred
 body building
 body sensation
 boil down
@@ -331,6 +335,7 @@ bullying
 bumblebee
 bump into
 bump up
+bunch
 bundle
 burden
 bureaucrat
@@ -402,6 +407,7 @@ centrality
 cereal
 cerebral
 certified
+chamber
 chameleon
 champagne
 championship
@@ -459,6 +465,7 @@ clip
 clobber
 closure
 coastal
+coauthor
 cocaine
 cockroach
 cocktail
@@ -634,6 +641,7 @@ crank
 cranky
 crappy
 crave
+craving
 craw
 credential
 credentialed
@@ -644,6 +652,7 @@ criminal
 cringe
 critical
 critical period
+critique
 croissant
 crop up
 crowd-sourcing
@@ -660,6 +669,7 @@ culinary
 culminate
 cultivate
 curate
+curator
 curly
 curse
 curvaceous
@@ -681,6 +691,7 @@ dead center
 deadly
 deal with
 decent
+decenter
 deceptively
 decimal
 deck
@@ -1001,6 +1012,7 @@ evolutionarily-conserved
 evolutionary
 evolve
 ex-con
+exacerbate
 exaggerate
 exaggerated
 exaggeration
@@ -1075,6 +1087,7 @@ fateful
 fatigue
 fatphobia
 fatshionista
+favorable
 favorably
 favoritism
 federal deficit
@@ -1193,6 +1206,7 @@ garbage
 garbagement
 gases
 gather
+gauge
 gear
 gender
 gendered
@@ -1477,6 +1491,7 @@ infrastructure
 ingenious
 ingrained
 ingredient
+inhabit
 inherent
 inherently
 inherite
@@ -1538,6 +1553,7 @@ interpret
 interpretation
 interrupt
 intersperse
+intertwin
 intervene
 intervention
 intestine
@@ -1627,6 +1643,7 @@ languishing
 laptop
 launch the company
 laxative
+layer
 leadership
 leak
 lean in
@@ -1857,6 +1874,7 @@ multifaceted
 multiple
 mural
 murder
+murky
 muscle
 muscular
 musical instrument
@@ -1960,6 +1978,7 @@ openness
 operative
 oppositional
 oppression
+optic
 optimal
 optimistic
 optimization
@@ -1969,6 +1988,7 @@ organic
 organism
 organizational
 organizational psychologist
+organize
 oriented
 ostensibly
 osteoporosis
@@ -2049,7 +2069,9 @@ percentage
 percentile
 perception
 perfectionism
+perfectionist
 performance
+performative
 peril
 perish
 permafrost
@@ -2197,6 +2219,7 @@ profound
 profoundly
 progressively
 prohibitive
+projection
 prominent
 promote
 promotion
@@ -2307,6 +2330,7 @@ redemption
 redemptive
 redistribute
 redistribution
+redo
 reel
 reevaluate
 reflect
@@ -2315,6 +2339,7 @@ refresher
 refrigerator
 refuge
 refugee
+regardless
 regenerate
 regenerative
 region
@@ -2546,6 +2571,7 @@ shareholder
 shatter
 shepherd
 shield
+shiny
 shockingly
 shoelace
 shortcut
@@ -2622,6 +2648,7 @@ soap opera
 sob
 sober
 sociable
+social media
 socialization
 socially responsible
 soft tissue layers
@@ -2833,6 +2860,7 @@ tackle
 tactic
 tactics
 take a roll on
+take care of
 take into account
 take off
 take sb for a ride
@@ -3167,6 +3195,7 @@ wrinkled
 xenophobia
 yank
 yearbook
+yearn
 yeast
 yield
 yield to
