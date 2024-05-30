@@ -1,4 +1,3 @@
-// 加载 JSON 文件
 fetch('./output_word.json')
 .then(response => response.json())
     .then(data => {
@@ -55,10 +54,9 @@ fetch('./output_word.json')
             }
             const randomWord = shuffledWords[currentIndex];
             currentIndex++;
-            leavenum = TEDlength-currentIndex;
+            leavenum = TEDlength - currentIndex;
             displayResult([randomWord])
-    
-            // const remainingWordsCount = shuffledWords.length - currentIndex;
+
             const flag = document.getElementById('flag');
             const message = document.getElementById('message');
             flag.style.display = 'block';
@@ -66,7 +64,7 @@ fetch('./output_word.json')
         });
 
         chongxuan.addEventListener('click', () => {
-            shuffledWords.length = 0
+            shuffledWords.length = 0;
             randomBtn.click();
         });
 
@@ -100,13 +98,9 @@ fetch('./output_word.json')
             }
             return shuffled;
         }
+
+        phraseBtn.click();
     })
     .catch(error => {
         console.error('加载 JSON 文件出错：', error);
     });
-    
-(function() {
-    window.addEventListener('load', function() {
-        phraseBtn.click();
-    });
-})();
