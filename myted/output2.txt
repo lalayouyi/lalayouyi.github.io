@@ -208,6 +208,7 @@ aurgeon
 authentic
 authentically
 authenticity
+authoritarian
 authority
 automate
 automatic
@@ -732,9 +733,11 @@ demanding
 demean
 dementia
 democracy
+democratic
 demolish
 demon
 demonstrate
+demonstration
 demoralize
 denial
 dense
@@ -760,6 +763,7 @@ dessert
 destination
 destiny
 destructive
+detain
 detect
 detection
 deteriorate
@@ -925,6 +929,7 @@ electric jolt
 electrical
 electrode
 element
+elevate
 elevated
 eliminate
 emanate
@@ -1010,6 +1015,7 @@ establish
 estate
 estimate
 estimated
+eternal
 ethic
 ethical
 ethnic
@@ -1053,7 +1059,7 @@ exhausting
 exhaustive
 exhibit
 exhibition
-exiled
+exile
 existence
 existential
 expedition
@@ -1597,6 +1603,7 @@ inventory
 inversely
 investigate
 invigorate
+invincible
 invisible
 invoke
 involuntarily
@@ -1863,6 +1870,7 @@ mold
 molecule
 momentary
 momentum
+momument
 monitor
 monk
 monogamomus
@@ -2233,6 +2241,7 @@ privileged
 pro
 procedural
 procedure
+proclaim
 procrastination
 prodding
 productive
@@ -2262,6 +2271,7 @@ protest
 protestation
 protocol
 provide
+province
 provoke
 psychiatric
 psycho
@@ -2358,6 +2368,7 @@ redistribute
 redistribution
 redo
 reel
+reelect
 reevaluate
 reflect
 reframe
@@ -2368,6 +2379,7 @@ refugee
 regardless
 regenerate
 regenerative
+regime
 region
 register
 regress
@@ -2464,6 +2476,7 @@ ridiculous
 riffraff
 rig
 rig up
+rightfully
 rigid
 rigidity
 rigor
@@ -2687,6 +2700,7 @@ soldier on
 solely
 solicit
 solid
+solidarity
 solitude
 somehow
 sophisticated
@@ -2901,6 +2915,7 @@ tale
 tally
 tame
 tamp down
+tangible
 tangle
 tanked
 tap into
