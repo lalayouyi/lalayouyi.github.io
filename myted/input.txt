@@ -4546,7 +4546,6 @@ overwhelmed 90
 puppet 90
 pitfall 90
 thread 90
-doomscrolling 90
 acquaintance 90
 upgraded 90
 luxury 90

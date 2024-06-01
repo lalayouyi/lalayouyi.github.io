@@ -367,7 +367,6 @@ divorce 2
 documentary 2
 domestic 2
 dominance 2
-doomscrolling 2
 drain 2
 dramatic 2
 drop out 2
@@ -1404,6 +1403,7 @@ donut 1
 doodlt 1
 doom 1
 doomed 1
+doomscrolling 1
 doorstep 1
 dork 1
 dorky 1
