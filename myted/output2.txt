@@ -45,6 +45,7 @@ achievement
 acknowledge
 acne
 acoustics
+acquaintance
 activate
 activation
 activism
@@ -75,6 +76,7 @@ affection
 affirm
 affliction
 affluent
+afloat
 aftermath
 afterward
 aggressive
@@ -86,12 +88,14 @@ agriculture
 aimless
 airplanes
 akin
+albatross
 alcoholism
 alert
 alertness
 algorithm
 alienate
 align
+alkaline
 alley
 ally
 alongside
@@ -119,6 +123,8 @@ analogy
 analysis
 anatomy
 and so forth
+anecdotal
+anecdote
 anemia
 anesthesia
 anesthetize
@@ -152,6 +158,7 @@ appointment
 appreciate
 apprehensive
 approach
+approachable
 appropriately
 approval
 approximately
@@ -188,6 +195,7 @@ assume
 assumption
 astounded
 asymmetric
+asymmetry
 at any given time
 at large
 at odds
@@ -215,12 +223,14 @@ automatic
 automatically
 autopilot
 available
+avenue
 average
 aversive
 awe
 awesome
 awful
 awkward
+awry
 ayllable
 babysit
 back and forth
@@ -239,6 +249,7 @@ banish
 banshee
 baptize
 barely
+barista
 barometric
 bartender
 baseline
@@ -353,6 +364,7 @@ buzz
 by chance
 by-product
 byproduct
+bystander
 cadet
 cage
 calendar
@@ -528,12 +540,14 @@ compose
 compound
 comprehensive
 compress
+comprise
 compromise
 compromised
 compulsive
 compulsively
 conceivable
 conceive
+concentrate
 concentrated
 concentration
 concept
@@ -618,6 +632,7 @@ coordination
 cope with
 cord
 cornerstone
+corporate
 corporation
 correlate
 correspond
@@ -656,6 +671,7 @@ credentialed
 credit card
 creditor
 creepy
+crew
 criminal
 cringe
 critical
@@ -671,10 +687,12 @@ crunch
 crunchy
 crushing
 crystal
+cubicle
 cuddly
 cue
 culinary
 culminate
+culprit
 cultivate
 curate
 curator
@@ -691,6 +709,8 @@ cynic
 cytokined
 damn
 dampen
+darken the door
+daunted
 daunting
 daydream
 daze
@@ -748,6 +768,7 @@ depleted
 depletion
 deposite
 depressant
+depressing
 depression
 deprivation
 deprive
@@ -815,14 +836,17 @@ discern
 discerning
 discipline
 disciplined
+disclosure
 disconcerting
 disconfirmation
 discount
+discourage
 discrepancy
 discriminate
 discrimination
 disdain
 disenchant
+disinformation
 dismantle
 dismay
 dismiss
@@ -836,10 +860,12 @@ disrupt
 disruption
 disruptive
 dissatisfaction
+dissertation
 dissociate
 distensible
 distinguish
 distort
+distortion
 distract
 distracted
 distraction
@@ -866,6 +892,7 @@ donation
 donut
 doodlt
 doom
+doomed
 doomscrolling
 doorstep
 dopamine
@@ -883,6 +910,7 @@ drain
 dramatic
 dramatically
 dranining
+drastically
 dread
 dreadful
 dredge
@@ -952,6 +980,7 @@ emotional intelligence
 emotionally
 empathetic
 empathy
+emphasis
 emphasize
 empower
 empowering
@@ -966,6 +995,7 @@ endorsement
 endure
 energizing
 engage in
+engage with
 engagement
 engaging
 enhance
@@ -1051,6 +1081,7 @@ exclusive
 exclusively
 excruciating
 excruciatingly
+excuse
 excute
 execute
 execution
@@ -1063,6 +1094,7 @@ exile
 existence
 existential
 expedition
+expel
 experiment
 experimentation
 expertise
@@ -1146,9 +1178,11 @@ flashback
 flashing
 flashlight
 flat-lined
+flavor
 flaw
 flawed
 flawless
+fledge
 flee
 fleeting
 flesh
@@ -1181,7 +1215,7 @@ forge ahead
 fork off
 fork over
 former
-formulas
+formula
 formulate
 fortify
 foster
@@ -1227,6 +1261,7 @@ garbagement
 gases
 gather
 gauge
+gawk
 gear
 gender
 gendered
@@ -1342,9 +1377,11 @@ have tunnel vision
 hay
 head-on
 headfirst
+headline
 heartbeat
 heartbroken
 heartburning
+heave-ho
 heckle
 helicopter
 hell
@@ -1357,6 +1394,7 @@ hesitant
 hiccup
 hideous
 hierarchy
+hieroglyphics
 highlight
 hightail
 hilarious
@@ -1379,6 +1417,7 @@ hoops
 hop
 hormonal
 hormone
+horrified
 horrify
 horrifying
 horror
@@ -1444,6 +1483,7 @@ impassive
 impede
 impending
 impenetrable
+imperceptible
 imperfection
 implement
 implicate
@@ -1503,6 +1543,7 @@ inflate
 inflation
 inflection
 influencer
+information asymmetry
 informational
 informative
 informed
@@ -1562,6 +1603,7 @@ intelligence
 intense
 intensely
 intensity
+intentionally
 interaction
 interconnect
 interfere
@@ -1584,6 +1626,7 @@ intimidate
 intimidating
 intooverdrive
 intramural
+intranet
 intricate
 intrigued
 intrinsically
@@ -1629,6 +1672,7 @@ jewel
 jewelry
 jittery
 joint
+jolly
 jot down
 journalism
 journey
@@ -1665,6 +1709,7 @@ landmass
 lane
 languishing
 laptop
+latitude
 launch the company
 laxative
 layer
@@ -1700,6 +1745,7 @@ ligament
 lightbulb
 lighthouse
 likability
+like a duck to water
 likelihood
 limb
 lime
@@ -1724,6 +1770,7 @@ log
 logistic
 long-lasting
 long-term memory
+longitude
 longitudinal
 longtime
 loop
@@ -1739,6 +1786,7 @@ lunchroom
 lurch along
 lurk
 luxuriate
+luxury
 maddening
 magical
 magician
@@ -1752,8 +1800,10 @@ make ends meet
 make one's mark
 make sense of
 make sth the norm
+make up
 make-or-break
 malignant
+manageable
 mandala
 mandate
 mangrove
@@ -1819,6 +1869,7 @@ mess around
 messy
 metabolic
 metabolism
+metallic
 metaphor
 method
 methodical
@@ -1855,6 +1906,7 @@ misery
 misfit
 misinterpret
 misrepresentation
+misrepresented
 miss doing sth
 mission
 misspeak
@@ -1887,6 +1939,7 @@ morally
 morbidity
 morsel
 mortality
+mortgage
 motel
 motion
 motivation
@@ -1906,15 +1959,19 @@ murder
 murky
 muscle
 muscular
+muse over
 musical instrument
 mustache
 mutation
 mutter
 mutually
 myriad
+mystery
 myth
+mythical
 nag
 nagging
+naked
 namely
 nap
 narrative
@@ -1965,6 +2022,7 @@ nonverbal
 norm
 nostalgia
 notebook
+novelty
 nuanced
 nudge
 nugget
@@ -1985,6 +2043,7 @@ obliquely
 observe
 obsessed
 obsessed with
+obsession
 obsessive
 obsessively
 obstacle
@@ -2117,6 +2176,7 @@ persistence
 persistent
 personality
 perspective
+persuade
 pervasive
 pesky
 pessimistic
@@ -2197,6 +2257,7 @@ pre-meditation
 precious
 precipice
 precisely
+preconceived
 predator
 predatory
 predictor
@@ -2287,6 +2348,7 @@ pulp
 punch
 punchline
 puncture
+puppet
 purge
 purposeless
 pursue
@@ -2342,6 +2404,7 @@ readiness
 real-estate
 realm
 reap
+reappraisal
 reassuring
 rebel
 rebound
@@ -2442,6 +2505,7 @@ resource
 respectively
 respiration
 restlessness
+restoration
 restorative
 restrict
 restructuring
@@ -2464,6 +2528,7 @@ reverse
 reversible
 revise
 revive
+revolt
 revolting
 revolutionary
 revolutionize
@@ -2481,6 +2546,7 @@ rigid
 rigidity
 rigor
 rinse
+rip
 ritual
 rob
 robbery
@@ -2516,10 +2582,12 @@ sacred
 sacrifice
 safeguard
 sail
+sailing
 sake
 salary
 saliva sample
 salivate
+salty
 salvation
 sample
 sanctuary
@@ -2531,6 +2599,7 @@ sauce
 saucer
 saver
 savor
+savory
 scale
 scalp
 scan
@@ -2586,7 +2655,9 @@ semester
 semicolon
 senior
 senior thesis
+sensation
 sensitive
+sensitivity
 sensory
 separately
 separation
@@ -2619,6 +2690,7 @@ shockingly
 shoelace
 shortcut
 shortsightedess
+shout
 shove
 shred
 shriek
@@ -2641,6 +2713,7 @@ silly
 similarity
 simmer
 simplicity
+simplify
 simplistic
 simulation
 simultaneously
@@ -2733,6 +2806,7 @@ spit
 spleen
 splurge
 sponge
+sponsor
 sponsorship
 spontaneous
 spontaneously
@@ -2821,10 +2895,12 @@ stress out
 stressful
 stretch
 strick
+strife
 strip
 stroke
 structure
 struggle with
+stub
 stuck
 stuff
 stumble
@@ -2849,6 +2925,7 @@ substitution
 subtract
 suburb
 suck it up
+sucrose
 suffocate
 sugarcane
 sugarcoat
@@ -2890,6 +2967,7 @@ sweet spot
 swell
 swelling
 swerve
+swipe
 swirl
 switch
 swoon
@@ -2948,9 +3026,11 @@ tendency
 tender
 tenement
 tenet
+tens of
 tension
 tenure
 terminal
+territory
 terrorist
 terse
 textbook
@@ -2967,6 +3047,7 @@ therapy
 thereafter
 think through
 thousand
+thousands of
 thread
 threatened
 threshold
@@ -2996,6 +3077,8 @@ tissue
 titan
 toddler
 tolerance
+tolerate
+tongue
 toolbox
 toolkit
 toot
@@ -3007,6 +3090,7 @@ tote
 totern
 touch up
 tournament
+tout
 toxic
 toxicity
 track
@@ -3027,6 +3111,7 @@ transient
 transition
 translation
 transmission
+transparency
 transport
 trauma
 traumatic
@@ -3084,8 +3169,10 @@ under the same roof
 under-employed
 underestimate
 undergo
+undergrad
 underlying
 underneath my belt
+underpaid
 underperform
 underprice
 underrated
@@ -3113,6 +3200,7 @@ unleavened
 unlink
 unmoor
 unpack
+unpacking
 unprecedented
 unrelated
 unreserved
@@ -3128,6 +3216,7 @@ untimely
 unwavering
 up to you
 upbeat
+upgraded
 uplift
 uppercut
 uproot
@@ -3166,6 +3255,7 @@ venture
 veranda
 verbally
 verify
+verse
 versus
 vertebrae
 vessel
@@ -3239,10 +3329,12 @@ wobbly
 womb
 workout
 worldview
+worm
 worship
 worthwhile
 wrap
 wrap around
+wreck
 wrecking
 wretched
 wrinkled
@@ -3257,5 +3349,6 @@ yielding
 yoga
 zany
 zealously
+zen
 zombie
 zoom back
