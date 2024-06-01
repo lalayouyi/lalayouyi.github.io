@@ -66,9 +66,9 @@ function openSouGouSearch(word) {
     const iframe = document.createElement('iframe');
     iframe.src = `https://fanyi.sogou.com/text?keyword=${encodeURIComponent(word)}`;
     iframe.style.position = 'fixed';
-    iframe.style.top = '10%';
-    iframe.style.left = '10%';
-    iframe.style.width = '80%';
+    iframe.style.top = '11.5%';
+    iframe.style.left = '20%';
+    iframe.style.width = '57%';
     iframe.style.height = '85%';
     iframe.style.border = '2px solid #bfc1a9';
     iframe.style.zIndex = '9999';
@@ -82,8 +82,8 @@ function openSouGouSearch(word) {
     closeButton.style.position = 'fixed';
     closeButton.style.width = '20px';
     closeButton.style.height = '20px';
-    closeButton.style.top = '8%';
-    closeButton.style.right = '8%';
+    closeButton.style.top = '12.8%';
+    closeButton.style.right = '24.5%';
     closeButton.style.zIndex = '10000';
     closeButton.style.border = '1.2px solid #bfc1a9';
     closeButton.style.borderRadius = '50%'; 
