@@ -370,6 +370,7 @@ cage
 calendar
 calf
 call the acount
+camel
 campaign
 campaigner
 candidate
@@ -609,6 +610,7 @@ contestant
 context
 context-dependent
 continuation
+continuously
 contour
 contouring
 contract
@@ -697,11 +699,13 @@ cultivate
 curate
 curator
 curly
+curricula
 curse
 curvaceous
 curve
 curved
 custodian
+customary
 cut a path through
 cycle through
 cyclone
@@ -1000,10 +1004,12 @@ engagement
 engaging
 enhance
 enjoyable
+enlist
 ennui
 enormous
 enraged
 enriching
+enroll
 ensnare
 ensue
 entailment
@@ -1049,6 +1055,7 @@ eternal
 ethic
 ethical
 ethnic
+ethnicity
 eucalyptus
 evaluation
 evaluative
@@ -1243,6 +1250,7 @@ fugitive
 fulfill
 fulfilling
 full-blown
+functional
 fundamental
 fundraiser
 funeral
@@ -1279,6 +1287,7 @@ get it together
 get sucked in
 get trapped in
 getaway
+getup
 giant
 gibberish
 give away
@@ -1701,6 +1710,7 @@ kitchen
 knuchlehead
 lab coat
 label
+labor
 laboratory
 ladder
 laid-back
@@ -1832,7 +1842,9 @@ masterpiece
 mastery
 match
 material
+maternal
 mathematics
+matriculation
 mattering
 maturity
 max out credit card
@@ -2206,6 +2218,7 @@ pinnacle
 piss
 pitch
 pitfall
+pivotal
 plague
 plan out
 planet
@@ -2574,6 +2587,7 @@ rumor
 run for
 run in one's family
 run off the rails
+rural
 rush after
 rut
 ruthlessly
@@ -2756,6 +2770,7 @@ smack
 smuggle
 snack
 snap
+sneak
 sneaky
 snippet
 snooze
@@ -3124,6 +3139,7 @@ tremulous
 triangle
 triathlon
 tribal
+tribe
 trick
 trick into
 tricky
@@ -3177,6 +3193,7 @@ underperform
 underprice
 underrated
 undersirable
+understaffed
 undertake
 underway
 underwear
