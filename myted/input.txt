@@ -1285,7 +1285,7 @@ lethal 22
 supposedly 22
 compassionate demeanor 22
 vomit 22
-appearently 22
+apparently 22
 tear 22
 tear oneself away from sth 22
 tear sth open 22
@@ -4633,3 +4633,53 @@ thoughtful 92
 sacrificial 92
 collapse 92
 obligation 92
+bilingual 93
+monolingual 93
+typically 93
+proportion 93
+varying 93
+multilingual 93
+subtitle 93
+immigrate 93
+simultaneously 93
+subordinate 93
+compound 93
+linguistic 93
+proficient 93
+glimpse 93
+hemisphere 93
+concept 93
+coordinate 93
+apparent 93
+dominant 93
+analytical 93
+lateralization 93
+hypothesis 93
+plasticity 93
+acquisition 93
+holistic 93
+lateralize 93
+conversely 93
+neuron 93
+synapse 93
+exhibit 93
+bias 93
+rational 93
+confront 93
+density 93
+dementia 93
+intuitive 93
+handicap 93
+onset 93
+cognitive 93
+dorsolateral 93
+bilingualism 93
+prefrontal cortex 93
+distinguish 93
+flawed 93
+trigger 93
+potentially 93
+executive 93
+switch 93
+irrelevant 93
+leap 93

@@ -46,6 +46,7 @@ acknowledge
 acne
 acoustics
 acquaintance
+acquisition
 activate
 activation
 activism
@@ -121,6 +122,7 @@ amplify
 amputate
 analogy
 analysis
+analytical
 anatomy
 and so forth
 anecdotal
@@ -150,7 +152,8 @@ apathetic
 apathy
 aphasia
 apologize
-appearently
+apparent
+apparently
 appetite
 applause
 applicability
@@ -280,6 +283,8 @@ bible
 bicker
 bickering
 bifurcation
+bilingual
+bilingualism
 bin liner
 binary
 bind
@@ -772,6 +777,7 @@ demonstration
 demoralize
 denial
 dense
+density
 deny
 deoxygenate
 dependable
@@ -912,6 +918,7 @@ dopamine
 dork
 dorky
 dormant
+dorsolateral
 double down
 double standard
 downright
@@ -1308,6 +1315,7 @@ give somebody a run for its money
 gizmo
 glamorous
 gleefully
+glimpse
 glittering
 glittery
 gloat
@@ -1378,6 +1386,7 @@ hallmark
 hallowed
 hallucinate
 hallucination
+handicap
 handmade
 handshake
 handy
@@ -1407,6 +1416,7 @@ heckle
 helicopter
 hell
 helm
+hemisphere
 hemoglobin
 herb
 herbicide
@@ -1492,6 +1502,7 @@ immerse in
 immersed
 immersion
 immigrant
+immigrate
 imminent
 immune
 immune system
@@ -1731,6 +1742,8 @@ landmass
 lane
 languishing
 laptop
+lateralization
+lateralize
 latitude
 launch the company
 laxative
@@ -1739,6 +1752,7 @@ leadership
 leak
 lean in
 lean over
+leap
 leftover
 legacy
 legal
@@ -1775,6 +1789,7 @@ limitation
 limitless
 linger
 linguist
+linguistic
 lipase
 lipoprotein
 literacy
@@ -1951,6 +1966,7 @@ monitor
 monk
 monogamomus
 monogamy
+monolingual
 monopoly
 monotone
 monotonic
@@ -1977,6 +1993,7 @@ muddling
 mulberry
 mull
 multifaceted
+multilingual
 multiple
 mural
 murder
@@ -2086,6 +2103,7 @@ on a daily basis
 on the intellectual level
 on the spot
 on the verge of
+onset
 ontological
 openness
 operative
@@ -2238,6 +2256,7 @@ planet
 plant your feet
 plaque
 plasma
+plasticity
 plateau
 plateaus
 platitude
@@ -2289,6 +2308,7 @@ predatory
 predictor
 predisposition
 preemptively
+prefrontal cortex
 prejudice
 preliminary
 preliminary round
@@ -2335,6 +2355,7 @@ prodding
 productive
 productivity
 professional
+proficient
 profile
 profitability
 profitable
@@ -2351,6 +2372,7 @@ propagate
 propel
 prophecy
 proponent
+proportion
 proposal
 propose
 prosody
@@ -2948,6 +2970,7 @@ subconsciously
 subjectively
 submerged
 submit
+subordinate
 subscribe
 subscribe to
 subsequent
@@ -2959,6 +2982,7 @@ substantial
 substantially
 substitute
 substitution
+subtitle
 subtract
 suburb
 suck it up
@@ -3012,6 +3036,7 @@ sword
 symbolic
 symmetrical
 symptom
+synapse
 synchronize
 syndicated
 systematic
@@ -3191,6 +3216,7 @@ twist
 typhoid
 typhoon
 typical
+typically
 tyranny
 ultimate
 ultimately
@@ -3284,6 +3310,7 @@ vantage
 variable
 variation
 varied
+varying
 vastness
 vegetarian
 veiled
