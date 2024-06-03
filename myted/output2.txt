@@ -182,6 +182,7 @@ aspiration
 aspire
 assassin
 assassinate
+assault
 assemble
 assembly
 assertive
@@ -437,6 +438,7 @@ chapstick
 chapter
 characteristic
 check up
+checkpoint
 chemical
 chemoreceptor
 chemotherapy
@@ -445,6 +447,7 @@ chew over
 chic
 chill out
 chin
+choiceless
 choir
 choke
 cholesterol
@@ -499,6 +502,7 @@ coincidentally
 collaboration
 collaborative
 collaborator
+collapse
 colleague
 collective
 collectively
@@ -523,6 +527,7 @@ comparison
 compassion
 compassionate demeanor
 compelling
+compensate
 competence
 competent
 competition
@@ -633,6 +638,7 @@ coordinate
 coordination
 cope with
 cord
+core
 cornerstone
 corporate
 corporation
@@ -642,6 +648,7 @@ correspondence
 corrode
 cortex
 cortical
+cosign
 cosmetics
 cosmic
 cosmically
@@ -848,6 +855,7 @@ discourage
 discrepancy
 discriminate
 discrimination
+discriminatory
 disdain
 disenchant
 disinformation
@@ -892,6 +900,7 @@ domain
 domestic
 dominance
 dominant
+domino
 donation
 donut
 doodlt
@@ -1149,6 +1158,7 @@ fatshionista
 favorable
 favorably
 favoritism
+fearfully
 federal deficit
 feeble
 feedback
@@ -1168,6 +1178,7 @@ figure out
 file one's taxes
 filter
 filthy
+financial
 financially
 fingertip
 finite
@@ -1213,6 +1224,7 @@ foggy
 fold
 fold up
 folk
+follow suit
 footballer
 footprint
 foreclose
@@ -2119,6 +2131,7 @@ overload
 overlook
 overpass
 overplay
+overrated
 overreactivity
 overstate
 overthink
@@ -2281,6 +2294,7 @@ preliminary
 preliminary round
 premature
 prematurely
+premed major
 premier
 premise
 preoccupy
@@ -2320,6 +2334,7 @@ procrastination
 prodding
 productive
 productivity
+professional
 profile
 profitability
 profitable
@@ -2492,6 +2507,7 @@ rental
 repetition
 replenish
 representation
+representative
 repress
 repression
 reproduce
@@ -2594,6 +2610,7 @@ ruthlessly
 sabotage
 sacred
 sacrifice
+sacrificial
 safeguard
 sail
 sailing
@@ -2690,6 +2707,7 @@ sexism
 sexuality
 shadow
 shadowy
+shady
 shake off
 shame
 shape
@@ -2701,6 +2719,7 @@ shepherd
 shield
 shiny
 shockingly
+shoddy
 shoelace
 shortcut
 shortsightedess
@@ -2745,6 +2764,7 @@ skeptical
 skepticism
 sketch
 skimp
+skydiving
 slam
 slather
 slaughterhouse
@@ -2789,6 +2809,7 @@ solely
 solicit
 solid
 solidarity
+solidly
 solitude
 somehow
 sophisticated
@@ -2925,6 +2946,7 @@ stupidity
 subconscious
 subconsciously
 subjectively
+submerged
 submit
 subscribe
 subscribe to
@@ -3061,6 +3083,7 @@ therapist
 therapy
 thereafter
 think through
+thoughtful
 thousand
 thousands of
 thread
@@ -3150,6 +3173,7 @@ triumph
 triumphantly
 trivialize
 troop
+troublemaker
 truism
 trunk
 trustee
@@ -3173,6 +3197,7 @@ ultimately
 ultrasound
 umami
 unabated
+unafraid
 unapologetic
 unapologetically
 unbeknownst
@@ -3367,5 +3392,6 @@ yoga
 zany
 zealously
 zen
+ziplining
 zombie
 zoom back
