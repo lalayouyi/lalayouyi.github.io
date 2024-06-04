@@ -229,6 +229,7 @@ authority
 automate
 automatic
 automatically
+automation
 autonomy
 autopilot
 available
@@ -749,6 +750,7 @@ daydream
 daze
 deactivate
 dead center
+deadening
 deadly
 deal with
 decent
@@ -784,6 +786,7 @@ delusion
 delusional
 demanding
 demean
+demeaning
 dementia
 democracy
 democratic
@@ -809,10 +812,12 @@ deprive
 deprived
 deprogram
 deregulation
+derive
 descend
 descent
 describe
 description
+descriptive
 deserve of
 desperately
 dessert
@@ -904,6 +909,7 @@ dissertation
 dissociate
 distensible
 distinguish
+distinguished
 distort
 distortion
 distract
@@ -918,6 +924,7 @@ diversity
 divided society
 divine
 diving coach
+division
 divisive
 divorce
 doable
@@ -928,6 +935,7 @@ domain
 domestic
 dominance
 dominant
+domination
 domino
 donation
 donut
@@ -1565,10 +1573,12 @@ in terms of
 in the hole
 in the midst of
 inability
+inadequacy
 inadvertent
 inadvertently
 inaugural
 incense
+incentivize
 incessant
 incidence
 inclusion
@@ -1665,6 +1675,7 @@ integration
 integrity
 intellectual
 intelligence
+intend
 intense
 intensely
 intensity
@@ -1917,6 +1928,7 @@ maturity
 max out credit card
 mayhem
 maze
+meaningful
 meaningfully
 measurable
 measurably
@@ -1943,6 +1955,7 @@ mentally
 mentor
 mentorship
 merch
+merely
 merge
 mess around
 messy
@@ -2099,6 +2112,7 @@ nominate
 nonbinary
 nonetheless
 nonexistent
+nonmaterial
 nonprofit
 nonverbal
 norm
@@ -2131,6 +2145,7 @@ obsessive
 obsessively
 obstacle
 obtain
+obviousness
 occasional
 occation
 occupation
@@ -2598,6 +2613,7 @@ reserve
 reset
 resident
 residue
+resignation
 resilience
 resilient
 resist
@@ -2635,6 +2651,7 @@ revise
 revive
 revolt
 revolting
+revolution
 revolutionary
 revolutionize
 revv up
@@ -2895,6 +2912,7 @@ sophisticated
 sophomore
 sopping
 sort of
+soulless
 sound mind
 sour sb on sth
 sourdough
@@ -2914,6 +2932,7 @@ spectrum
 spell
 spike
 spiky
+spin
 spinal
 spine
 spiral
@@ -2987,6 +3006,7 @@ stillness
 stilt
 stimulant
 stimulate
+stimulating
 stimulation
 stimuli
 stinky
@@ -3045,6 +3065,7 @@ substitution
 subtitle
 subtract
 suburb
+suck
 suck it up
 sucrose
 suffocate
@@ -3108,6 +3129,7 @@ tactic
 tactics
 take a roll on
 take care of
+take for granted
 take into account
 take off
 take sb for a ride
@@ -3371,6 +3393,7 @@ validate
 validation
 valley
 values-aligned
+vanish
 vantage
 variable
 variation
@@ -3425,6 +3448,7 @@ walk done memory lane
 wannabe
 ward
 wardrobe
+warehouse
 warp
 waterfall
 waterlogged
