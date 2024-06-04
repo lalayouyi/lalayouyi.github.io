@@ -92,7 +92,7 @@ const mapData1 = [
     { "name": 91, "value": "学习即自由", "category": "个人成长" },
     { "name": 92, "value": "学会走出自己的舒适区", "category": "个人成长" },
     { "name": 93, "value": "学外语真的可以让你更聪明", "category": "生活方式与习惯" },
-    { "name": 94, "value": "我不想要孩子不再告诉我，我会改变主意", "category": "社交与关系" },
+    { "name": 94, "value": "我不想要孩子！别再告诉我我会改变主意", "category": "社交与关系" },
     { "name": 95, "value": "我们为什么要工作", "category": "生活方式与习惯" },
     { "name": 96, "value": "更年期如何影响大脑", "category": "健康与健身" },
     { "name": 97, "value": "演奏乐器对大脑的好处", "category": "健康与健身" },

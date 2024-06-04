@@ -19,6 +19,7 @@ abduct
 abnormality
 absolutely
 absorption
+abstain
 abstinence
 abstractly
 absurb
@@ -37,6 +38,7 @@ acclimatization
 accommodate
 accomplish
 accomplishment
+accord
 accountable
 accountant
 accurately
@@ -80,6 +82,7 @@ affluent
 afloat
 aftermath
 afterward
+agenda
 aggressive
 agile
 agility
@@ -154,6 +157,7 @@ aphasia
 apologize
 apparent
 apparently
+appeal
 appetite
 applause
 applicability
@@ -225,6 +229,7 @@ authority
 automate
 automatic
 automatically
+autonomy
 autopilot
 available
 avenue
@@ -272,6 +277,7 @@ befall
 beget
 behind the scenes
 beleaguered
+belittling
 belly
 belonging
 benevolent
@@ -296,6 +302,7 @@ biology
 bitty
 blah
 blamethrower
+blatant
 bleak
 blend
 blend in
@@ -367,6 +374,7 @@ bust
 bustle
 buttress
 buzz
+buzzword
 by chance
 by-product
 byproduct
@@ -407,6 +415,7 @@ carving
 cash-trapped
 casino game
 cast
+cast aside
 casting
 castle
 casually
@@ -450,6 +459,7 @@ chemotherapy
 chest
 chew over
 chic
+childbearing
 chill out
 chin
 choiceless
@@ -480,6 +490,7 @@ civil
 civilization
 clarify
 cleave
+clench
 click
 click-through rates
 client
@@ -492,6 +503,7 @@ clinically
 clip
 clobber
 closure
+clown
 coastal
 coauthor
 cocaine
@@ -525,6 +537,7 @@ commit suicide
 commitment
 committed
 committee
+commonness
 communist state
 commute
 comparable
@@ -567,6 +580,7 @@ concert
 conclude
 conclusion
 concrete
+condescending
 conduct
 cone
 conference
@@ -577,6 +591,7 @@ configure
 confirm
 conflate
 conflict
+conform
 conformity
 confound
 confront
@@ -606,6 +621,7 @@ constrain
 constrict
 construct
 constructive
+consultation
 consume
 consummate
 consumption
@@ -693,6 +709,7 @@ critical period
 critique
 croissant
 crop up
+cross-examined
 crowd-sourcing
 crucial
 cruel
@@ -797,6 +814,7 @@ descent
 describe
 description
 deserve of
+desperately
 dessert
 destination
 destiny
@@ -806,6 +824,7 @@ detect
 detection
 deteriorate
 determine
+determined
 detour
 detractor
 devalue
@@ -864,6 +883,7 @@ discrimination
 discriminatory
 disdain
 disenchant
+disheartened
 disinformation
 dismantle
 dismay
@@ -873,6 +893,8 @@ disorder
 disparity
 disperse
 displace
+disregard
+disrespect
 disrespectful
 disrupt
 disruption
@@ -1003,6 +1025,7 @@ empathy
 emphasis
 emphasize
 empower
+empowered
 empowering
 empowerment
 emptiness
@@ -1109,6 +1132,7 @@ excute
 execute
 execution
 executive
+exhaust
 exhausting
 exhaustive
 exhibit
@@ -1122,9 +1146,11 @@ experiment
 experimentation
 expertise
 explicit
+explicitly
 exploratory
 exponential
 extended
+extension
 extent
 external
 extol
@@ -1191,6 +1217,7 @@ fingertip
 finite
 fire up
 firmly
+firsthand
 fit in
 fix
 fix sb with eyes
@@ -1236,6 +1263,7 @@ footballer
 footprint
 foreclose
 foreclosure
+forego
 forehead
 forge ahead
 fork off
@@ -1268,6 +1296,7 @@ fuel
 fugitive
 fulfill
 fulfilling
+fulfillment
 full-blown
 functional
 fundamental
@@ -1420,6 +1449,7 @@ hemisphere
 hemoglobin
 herb
 herbicide
+hereditary
 heroic
 hesitant
 hiccup
@@ -1564,14 +1594,17 @@ indulgence
 industrialize
 inept
 inequality
+inevitability
 inevitable
 inevitably
 infant
+infect
 infinite
 infinity
 inflammation
 inflammatory
 inflate
+inflated
 inflation
 inflection
 influencer
@@ -1640,11 +1673,13 @@ interaction
 interconnect
 interfere
 intergalactic
+interlaced
 intermittent
 internalize
 internship
 interpret
 interpretation
+interrogative
 interrupt
 intersperse
 intertwin
@@ -1697,6 +1732,7 @@ isolation
 issue
 jail
 janitor
+jaw
 jealousy
 jeopardy
 jet
@@ -1730,6 +1766,7 @@ kill time
 kind of
 kindergarten
 kitchen
+knowingly
 knuchlehead
 lab coat
 label
@@ -1831,8 +1868,10 @@ magnet
 magnetic
 magnificent
 magnified
+magnitude
 mainstream
 maintenance
+majority
 make ends meet
 make one's mark
 make sense of
@@ -1870,6 +1909,7 @@ mastery
 match
 material
 maternal
+maternity
 mathematics
 matriculation
 mattering
@@ -2002,6 +2042,7 @@ muscle
 muscular
 muse over
 musical instrument
+musing
 mustache
 mutation
 mutter
@@ -2079,6 +2120,7 @@ nutritional
 obesity
 objective
 objectively
+objectivity
 obligation
 obliquely
 observe
@@ -2088,6 +2130,7 @@ obsession
 obsessive
 obsessively
 obstacle
+obtain
 occasional
 occation
 occupation
@@ -2095,6 +2138,7 @@ octogenarian
 oddly
 odds
 off chance
+offended
 offline
 offstage
 oftentimes
@@ -2174,6 +2218,7 @@ paralyze
 paralyzed
 paranoid
 parasitic
+parenthood
 partial
 participant
 participate
@@ -2184,11 +2229,13 @@ partner with
 passionate
 passionately
 patchwork
+paternalism
 paternalistic
 pathetic
 patriarchal
 patriarchy
 pattern
+pave
 pay off
 payroll
 pedal
@@ -2292,12 +2339,14 @@ portfolio
 positive psychology
 post-millennial
 potential
+potential surgeon
 potentially
 power-vacuuming
 powerfully
 powerhouse
 powerlessness
 practically
+practitioner
 pre-meditation
 precious
 precipice
@@ -2309,6 +2358,7 @@ predictor
 predisposition
 preemptively
 prefrontal cortex
+pregnancy
 prejudice
 preliminary
 preliminary round
@@ -2333,6 +2383,7 @@ preventative
 previously
 priest
 primarily
+primary
 primate
 prime
 primitive
@@ -2382,6 +2433,7 @@ protest
 protestation
 protocol
 provide
+provider
 province
 provoke
 psychiatric
@@ -2449,6 +2501,7 @@ rationality
 ravage
 rave
 raw
+reactionary
 reactive
 readiness
 real-estate
@@ -2480,6 +2533,7 @@ redemptive
 redistribute
 redistribution
 redo
+reeducate
 reel
 reelect
 reevaluate
@@ -2693,6 +2747,7 @@ segregated
 seizure
 self-aware
 self-conscious
+self-determination
 self-discipline
 self-esteem
 self-fulfilling
@@ -2726,6 +2781,7 @@ settings
 settle down
 sewer
 sexism
+sexist
 sexuality
 shadow
 shadowy
@@ -2809,6 +2865,7 @@ slum
 slumber
 slumped
 smack
+smallpox
 smuggle
 snack
 snap
@@ -2838,6 +2895,7 @@ sophisticated
 sophomore
 sopping
 sort of
+sound mind
 sour sb on sth
 sourdough
 spaghetti
@@ -2904,6 +2962,7 @@ state
 statement
 static
 stationary
+statistic
 statistical
 status quo
 stave off
@@ -2918,6 +2977,7 @@ stem the inflow
 stemming
 stereo
 stereotype
+sterilize
 sterling
 stick to your guns
 stick with
@@ -3006,6 +3066,7 @@ suppress
 suppression
 surgery
 surgical
+surgically
 surprised
 surrender
 surround
@@ -3124,6 +3185,7 @@ thrum
 thumb
 thyroid
 tidily
+tie up loose ends
 tightness
 tightrope
 tilt
@@ -3193,6 +3255,7 @@ trick into
 tricky
 trigger
 trillion
+trip up
 tripled
 triumph
 triumphantly
@@ -3203,6 +3266,7 @@ truism
 trunk
 trustee
 trustworthy
+tubal ligation
 tubular
 tug
 tumble off
@@ -3236,6 +3300,7 @@ under the same roof
 under-employed
 underestimate
 undergo
+undergoing
 undergrad
 underlying
 underneath my belt
@@ -3333,6 +3398,7 @@ vicious
 victimized
 victorious
 videotape
+vilify
 vindicate
 vindication
 violate
@@ -3362,6 +3428,7 @@ wardrobe
 warp
 waterfall
 waterlogged
+waver
 wax
 weapon
 wear and tear
@@ -3372,10 +3439,12 @@ weirdly
 well-being
 well-earned
 well-found
+well-informed
 well-regarded
 wheelchair
 whereas
 whiff
+whim
 whiskey
 whisper
 whistle-blower
@@ -3394,6 +3463,7 @@ withdrawal
 withdrawn
 wither
 withstand
+witness
 wobbly
 womb
 workout
