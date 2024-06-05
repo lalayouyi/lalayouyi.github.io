@@ -1,5 +1,6 @@
 Merriam-Webster diction
 a bunch of
+a category of
 a couple of
 a dose of
 a fine line
@@ -100,6 +101,7 @@ algorithm
 alienate
 align
 alkaline
+alleviate
 alley
 ally
 alongside
@@ -158,6 +160,7 @@ apologize
 apparent
 apparently
 appeal
+appear to
 appetite
 applause
 applicability
@@ -182,6 +185,7 @@ arsonist
 artery
 artwork
 as a consequence
+as opposed to
 ascend
 ash
 ask for hand
@@ -201,6 +205,7 @@ associate
 association
 assume
 assumption
+astonishingly
 astounded
 asymmetric
 asymmetry
@@ -220,6 +225,7 @@ attic
 attributable
 audit
 audition
+auditory
 aurgeon
 authentic
 authentically
@@ -250,6 +256,7 @@ backbone
 background
 backstage
 backward
+backyard
 bacterial meningitis
 badge
 bait
@@ -576,6 +583,7 @@ concentrate
 concentrated
 concentration
 concept
+conceptual
 conceptualize
 concert
 conclude
@@ -636,6 +644,7 @@ contented
 contestant
 context
 context-dependent
+contextual
 continuation
 continuously
 contour
@@ -667,9 +676,11 @@ corporation
 correlate
 correspond
 correspondence
+corresponding
 corrode
 cortex
 cortical
+cortices
 cosign
 cosmetics
 cosmic
@@ -949,6 +960,7 @@ dork
 dorky
 dormant
 dorsolateral
+dosage
 double down
 double standard
 downright
@@ -990,6 +1002,7 @@ dwindle
 dynamic
 dysfunction
 eating disorders
+ebb
 ebbs and flows
 eccentric
 economic
@@ -1045,11 +1058,13 @@ endorse
 endorsement
 endure
 energizing
+engage
 engage in
 engage with
 engagement
 engaging
 enhance
+enhancement
 enjoyable
 enlist
 ennui
@@ -1098,6 +1113,7 @@ establish
 estate
 estimate
 estimated
+estrogen
 eternal
 ethic
 ethical
@@ -1242,6 +1258,7 @@ flavor
 flaw
 flawed
 flawless
+flax
 fledge
 flee
 fleeting
@@ -1269,6 +1286,7 @@ folk
 follow suit
 footballer
 footprint
+forbid
 foreclose
 foreclosure
 forego
@@ -1276,9 +1294,11 @@ forehead
 forge ahead
 fork off
 fork over
+formation
 former
 formula
 formulate
+formulation
 fortify
 foster
 fracture
@@ -1406,6 +1426,7 @@ grudge
 grueling
 gruff
 grumpy
+guarantee
 guardian
 gubernatorial
 guidance
@@ -1493,6 +1514,7 @@ horror
 hospice
 hospitalization
 hostage
+hot flash
 household
 housewares
 huddle
@@ -1636,6 +1658,7 @@ inhibition
 initial
 initially
 initiate
+initiative
 inject
 injustice
 innocent
@@ -1685,11 +1708,14 @@ interconnect
 interfere
 intergalactic
 interlaced
+interlinked
 intermittent
 internalize
 internship
+interplay
 interpret
 interpretation
+interrelated
 interrogative
 interrupt
 intersperse
@@ -1720,6 +1746,7 @@ inundate
 invaluable
 invasion
 invent
+invention
 inventory
 inversely
 investigate
@@ -1755,6 +1782,7 @@ jolly
 jot down
 journalism
 journey
+jubilee
 judgement
 judicious
 juggle
@@ -1789,6 +1817,7 @@ lament
 landmass
 lane
 languishing
+lapse
 laptop
 lateralization
 lateralize
@@ -1808,6 +1837,7 @@ legions of
 legislation
 legitimate
 legitimize
+legume
 leisure time
 lengthy
 lens
@@ -1825,6 +1855,7 @@ liberating
 lick
 life hack
 lifelong
+lifespan
 ligament
 lightbulb
 lighthouse
@@ -1855,6 +1886,7 @@ log
 logistic
 long-lasting
 long-term memory
+longevity
 longitude
 longitudinal
 longtime
@@ -1945,10 +1977,12 @@ mega
 meidate
 melancholy
 melodramatic
+melody
 memoir
 memorable
 memorial
 memory-consolidation
+menopause
 menstruate
 mentality
 mentally
@@ -2174,6 +2208,7 @@ optimistic
 optimization
 optimum
 orator
+orchestra
 organic
 organism
 organizational
@@ -2196,6 +2231,7 @@ outrageous
 outset
 outstrip
 outwork
+ovary
 overall
 overanalyze
 overcome
@@ -2501,6 +2537,7 @@ rage
 raid
 rally
 rampant
+randomized
 randomly
 rare
 rarefied
@@ -2536,6 +2573,7 @@ reclaim
 recluse
 recognize
 recollection
+recommendation
 reconcile
 reconfirm
 record
@@ -2603,6 +2641,7 @@ repress
 repression
 reproduce
 reproductive
+reproductive system
 repute
 resell
 resemble
@@ -2641,6 +2680,7 @@ rethink
 retire
 retirement
 retreat
+retrieve
 retrospect
 retrospectively
 reveal
@@ -2844,6 +2884,7 @@ simplicity
 simplify
 simplistic
 simulation
+simultaneous
 simultaneously
 sin
 singular
@@ -3027,6 +3068,7 @@ stranded
 strangle
 strap
 strategic
+strategize
 strategy
 stratosperic
 stress out
@@ -3082,6 +3124,7 @@ superiority
 superpower
 supervisor
 supply
+supportive
 supposedly
 suppress
 suppression
@@ -3110,6 +3153,7 @@ sweet spot
 swell
 swelling
 swerve
+swing
 swipe
 swirl
 switch
@@ -3178,6 +3222,7 @@ terminal
 territory
 terrorist
 terse
+testosterone
 textbook
 texture
 the daily grind
@@ -3328,6 +3373,7 @@ underlying
 underneath my belt
 underpaid
 underperform
+underperformer
 underprice
 underrated
 undersirable
@@ -3343,6 +3389,7 @@ unfamiliar
 unfathomably
 unfold
 unfulfilled
+unified
 uniform
 unintentional
 uniqueness
