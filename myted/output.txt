@@ -3,8 +3,8 @@ literally 12
 circumstance 9
 commitment 9
 trigger 9
+cognitive 8
 vulnerable 8
-cognitive 7
 concept 7
 enormous 7
 feedback 7
@@ -27,6 +27,8 @@ stigma 6
 toxic 6
 automatically 5
 calendar 5
+chronic 5
+combination 5
 compassion 5
 conduct 5
 crucial 5
@@ -41,7 +43,9 @@ inevitable 5
 intensity 5
 internalize 5
 isolated 5
+meditation 5
 negative 5
+potentially 5
 profound 5
 psychologist 5
 radical 5
@@ -51,9 +55,7 @@ alert 4
 analogy 4
 authority 4
 bias 4
-chronic 4
 clarify 4
-combination 4
 commit 4
 complicated 4
 constant 4
@@ -61,12 +63,14 @@ constantly 4
 conventional 4
 dementia 4
 depression 4
+diagnosis 4
 disrupt 4
 distraction 4
 dopamine 4
 embarrassed 4
 endure 4
 episode 4
+external 4
 extraordinary 4
 fabulous 4
 fantastic 4
@@ -85,16 +89,15 @@ intrigued 4
 investigate 4
 kidney 4
 loop 4
-meditation 4
 mindfulness 4
 misconception 4
 miserable 4
 molecule 4
+multiple 4
 neurotransmitter 4
 pandemic 4
 perspective 4
 pitch 4
-potentially 4
 prestigious 4
 privilege 4
 proposal 4
@@ -122,6 +125,7 @@ antidote 3
 appetite 3
 architecture 3
 assemble 3
+association 3
 authentic 3
 awesome 3
 binary 3
@@ -130,6 +134,7 @@ blunt 3
 buffer 3
 bump into 3
 capital 3
+cardiovascular 3
 cereal 3
 channel 3
 cholesterol 3
@@ -146,6 +151,8 @@ concrete 3
 consciously 3
 consequence 3
 consistent 3
+contemporary 3
+content 3
 context 3
 contribute 3
 conversation 3
@@ -154,17 +161,18 @@ deprivation 3
 destination 3
 destructive 3
 diagnose 3
-diagnosis 3
 dialogue 3
 dictate 3
 diminish 3
 disappointed 3
 discriminate 3
 distinguish 3
+diversity 3
 dread 3
 dumb 3
 dynamic 3
 ego 3
+elastic 3
 eliminate 3
 embrace 3
 empower 3
@@ -176,8 +184,8 @@ ethical 3
 exaggeration 3
 excessive 3
 exhaustive 3
-external 3
 flaw 3
+flexibility 3
 flip 3
 flourish 3
 frustration 3
@@ -208,7 +216,6 @@ meidate 3
 memoir 3
 monotonous 3
 mortality 3
-multiple 3
 negotiate 3
 neural 3
 nightmare 3
@@ -216,6 +223,7 @@ nuanced 3
 obstacle 3
 oppression 3
 paradox 3
+participant 3
 perceive 3
 perception 3
 performance 3
@@ -302,7 +310,6 @@ arousal 2
 artery 2
 aspire 2
 assembly 2
-association 2
 assumption 2
 atmosphere 2
 audit 2
@@ -314,6 +321,7 @@ benign 2
 biased 2
 bind 2
 biological 2
+blend 2
 blessing 2
 blind 2
 bold 2
@@ -335,7 +343,6 @@ capitalism 2
 captivity 2
 capture 2
 carbohydrate 2
-cardiovascular 2
 catastrophic 2
 category 2
 ceiling 2
@@ -356,6 +363,7 @@ cockroach 2
 collectively 2
 column 2
 comparison 2
+component 2
 compose 2
 compound 2
 compulsive 2
@@ -367,10 +375,9 @@ conscious 2
 consciousness 2
 consent 2
 conservative 2
+constrict 2
 consume 2
-contemporary 2
 contempt 2
-content 2
 contract 2
 contrast 2
 conversely 2
@@ -406,6 +413,7 @@ determine 2
 devastated 2
 devastation 2
 diagnostic 2
+differentiate 2
 dilemma 2
 dimension 2
 discern 2
@@ -418,7 +426,6 @@ disparity 2
 distract 2
 distracted 2
 district 2
-diversity 2
 divorce 2
 documentary 2
 domestic 2
@@ -430,7 +437,6 @@ drop out 2
 dull 2
 duration 2
 economist 2
-elastic 2
 electrode 2
 elevate 2
 empathy 2
@@ -460,7 +466,6 @@ fellowship 2
 filter 2
 firmly 2
 flawed 2
-flexibility 2
 flounder 2
 focus on 2
 fold up 2
@@ -558,6 +563,7 @@ lever 2
 liberating 2
 lick 2
 life hack 2
+ligament 2
 limitation 2
 linguistic 2
 literal 2
@@ -614,7 +620,6 @@ oxygen 2
 panel 2
 paralyze 2
 partial 2
-participant 2
 participation 2
 payroll 2
 pedigree 2
@@ -642,6 +647,7 @@ protagonist 2
 protest 2
 provoke 2
 psychiatric 2
+psychological 2
 psychotherapy 2
 purge 2
 quantum mechanics 2
@@ -682,6 +688,7 @@ rig 2
 rig up 2
 rigid 2
 rob 2
+robust 2
 romantic 2
 rookie 2
 sacred 2
@@ -711,6 +718,7 @@ sophomore 2
 specifically 2
 spectrum 2
 spike 2
+spiritual 2
 spit 2
 spouse 2
 sprint 2
@@ -1041,7 +1049,6 @@ blah 1
 blamethrower 1
 blatant 1
 bleak 1
-blend 1
 blend in 1
 blindside 1
 blip 1
@@ -1193,6 +1200,7 @@ coastal 1
 coauthor 1
 cocaine 1
 cocktail 1
+codify 1
 cofounder 1
 cognition 1
 cognitive entrenchment 1
@@ -1200,6 +1208,7 @@ cognitively 1
 coincidence 1
 coincidentally 1
 collaborative 1
+collagen 1
 collapse 1
 collective 1
 coma 1
@@ -1228,7 +1237,6 @@ complementary 1
 complex 1
 complexity 1
 complication 1
-component 1
 comprehensive 1
 compress 1
 comprise 1
@@ -1245,6 +1253,7 @@ conceptualize 1
 concert 1
 conclude 1
 conclusion 1
+conclusive 1
 condescending 1
 cone 1
 confession 1
@@ -1269,7 +1278,6 @@ consolidate 1
 consolidation 1
 conspiracy 1
 constrain 1
-constrict 1
 construct 1
 constructive 1
 consultation 1
@@ -1277,6 +1285,7 @@ consummate 1
 consumption 1
 contact 1
 contagious 1
+contemplation 1
 contemptuous 1
 contented 1
 contestant 1
@@ -1448,7 +1457,7 @@ dictator 1
 dictionary 1
 die a slow death 1
 die down 1
-differentiate 1
+diffusion 1
 dig out 1
 digestive system 1
 digitize 1
@@ -1890,6 +1899,7 @@ guidance 1
 guidance counselor 1
 guidebook 1
 gurney 1
+gymnastic 1
 habityated 1
 hack 1
 haikus 1
@@ -2034,6 +2044,7 @@ incidence 1
 inclusion 1
 inclusive 1
 inconsiderately 1
+incorporate 1
 incur 1
 incurable 1
 indecision 1
@@ -2209,7 +2220,6 @@ liberate 1
 liberated 1
 lifelong 1
 lifespan 1
-ligament 1
 lightbulb 1
 lighthouse 1
 likability 1
@@ -2274,6 +2284,7 @@ manipulate 1
 manipulation 1
 manipulator 1
 manner 1
+manual 1
 marble 1
 march 1
 margin 1
@@ -2303,6 +2314,7 @@ measurably 1
 measured 1
 mediation 1
 medicine 1
+meditative 1
 meditator 1
 meetinghouse 1
 mega 1
@@ -2382,6 +2394,7 @@ mulberry 1
 mull 1
 multifaceted 1
 multilingual 1
+multitude 1
 mural 1
 murder 1
 murky 1
@@ -2541,6 +2554,7 @@ participate 1
 participle 1
 partner 1
 partner with 1
+passageway 1
 passionate 1
 passionately 1
 patchwork 1
@@ -2630,6 +2644,7 @@ portal 1
 portfolio 1
 positive psychology 1
 post-millennial 1
+posture 1
 potential surgeon 1
 power-vacuuming 1
 powerfully 1
@@ -2705,7 +2720,6 @@ provide 1
 provider 1
 province 1
 psycho 1
-psychological 1
 psychology 1
 pull away 1
 pull back 1
@@ -2715,6 +2729,7 @@ punch 1
 punchline 1
 puncture 1
 puppet 1
+pure 1
 purposeless 1
 pursue 1
 purview 1
@@ -2781,12 +2796,14 @@ reel 1
 reelect 1
 reevaluate 1
 reflect 1
+reflex 1
 refresher 1
 refrigerator 1
 refuge 1
 regenerate 1
 regenerative 1
 regime 1
+regimented 1
 region 1
 register 1
 regress 1
@@ -2800,7 +2817,9 @@ rejection 1
 rekindle 1
 relatable 1
 relatively 1
+relaxation 1
 relevant 1
+reliably 1
 religion 1
 reluctance 1
 reluctant 1
@@ -2838,6 +2857,7 @@ resource 1
 respiration 1
 restoration 1
 restorative 1
+restraining 1
 restructuring 1
 resurrect 1
 resurrection 1
@@ -2870,7 +2890,6 @@ rigor 1
 rinse 1
 rip 1
 robbery 1
-robust 1
 roll 1
 roll around 1
 roll back into 1
@@ -3094,7 +3113,6 @@ spiky 1
 spin 1
 spinal 1
 spine 1
-spiritual 1
 spleen 1
 splurge 1
 sponge 1
@@ -3179,6 +3197,7 @@ stumble upon 1
 stumbling 1
 stupidity 1
 subconsciously 1
+subjective 1
 subjectively 1
 submerged 1
 submit 1
@@ -3274,6 +3293,7 @@ tempt 1
 tenacious 1
 tendency 1
 tender 1
+tendon 1
 tenement 1
 tenet 1
 tens of 1
@@ -3292,6 +3312,7 @@ the pros and cons 1
 theater 1
 theorize 1
 theorize on 1
+therapeutic 1
 thereafter 1
 think through 1
 thoughtful 1
@@ -3546,6 +3567,7 @@ wrap 1
 wrap around 1
 wreck 1
 wrecking 1
+wrestling 1
 wretched 1
 wrinkled 1
 xenophobia 1
