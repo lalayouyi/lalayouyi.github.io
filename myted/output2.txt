@@ -80,6 +80,7 @@ affection
 affirm
 affliction
 affluent
+affordable
 afloat
 aftermath
 afterward
@@ -93,6 +94,7 @@ agriculture
 aimless
 airplanes
 akin
+alarmingly
 albatross
 alcoholism
 alert
@@ -105,6 +107,7 @@ alleviate
 alley
 ally
 alongside
+alphabet
 alphas
 altar
 alter
@@ -129,6 +132,7 @@ analogy
 analysis
 analytical
 anatomy
+anchor
 and so forth
 anecdotal
 anecdote
@@ -378,6 +382,7 @@ bundle
 burden
 bureaucrat
 burnout
+burst
 bust
 bustle
 buttress
@@ -587,6 +592,7 @@ concentration
 concept
 conceptual
 conceptualize
+concerning
 concert
 conclude
 conclusion
@@ -708,6 +714,7 @@ cram
 cram for an exam
 crank
 cranky
+cranny
 crappy
 crave
 craving
@@ -772,6 +779,7 @@ decent
 decenter
 deceptively
 decimal
+decimation
 deck
 declarative
 dedicated
@@ -784,6 +792,7 @@ defensiveness
 defer
 deferential
 defiant
+deficiency
 deficit
 defining moments
 definite
@@ -793,7 +802,9 @@ definitive
 deforestation
 degraded
 deliberate practice
+deliberately
 delicate
+delightful
 deliver
 delivery
 delta
@@ -914,6 +925,7 @@ disorder
 disparity
 disperse
 displace
+disquieting
 disregard
 disrespect
 disrespectful
@@ -1028,6 +1040,7 @@ element
 elevate
 elevated
 eliminate
+elixir
 emanate
 embankment
 embark
@@ -1098,6 +1111,7 @@ epic
 epically
 epicenter
 epidemic
+epidemiological
 epidemiology
 epiphany
 episode
@@ -1172,8 +1186,10 @@ existential
 expedition
 expel
 experiment
+experimental
 experimentation
 expertise
+explanatory
 explicit
 explicitly
 exploratory
@@ -1234,6 +1250,7 @@ fertilizer
 feud
 fiber
 fictional
+fiendishly
 fierce
 fiercely
 figure out
@@ -1570,12 +1587,14 @@ immersion
 immigrant
 immigrate
 imminent
+immortality
 immune
 immune system
 immune system dysfunction
 impact
 impair
 impaire
+impairment
 impart
 impassive
 impede
@@ -1595,6 +1614,7 @@ improvisation
 impulse
 impulsive
 in context
+in contrast
 in favor of
 in spite of onself
 in terms of
@@ -1631,6 +1651,7 @@ indulge
 indulge in
 indulgence
 industrialize
+industrialized
 inept
 inequality
 inevitability
@@ -2075,6 +2096,7 @@ morally
 morbidity
 morsel
 mortality
+mortally
 mortgage
 motel
 motion
@@ -2116,6 +2138,7 @@ nap
 narrative
 narrow
 narrowcast
+naturalistic
 nausea
 nauseous
 navigate
@@ -2157,13 +2180,16 @@ nonbinary
 nonetheless
 nonexistent
 nonmaterial
+nonnegotiable
 nonprofit
 nonverbal
+nook
 norm
 nostalgia
 notebook
 novelty
 nuanced
+nucleic
 nudge
 nugget
 numb
@@ -2399,6 +2425,7 @@ portable
 portal
 portfolio
 positive psychology
+possession
 post-millennial
 posture
 potential
@@ -2461,6 +2488,7 @@ pristine
 privilege
 privileged
 pro
+probable
 procedural
 procedure
 proclaim
@@ -2491,6 +2519,7 @@ proposal
 propose
 prosody
 prospect
+prostate
 protagonist
 protest
 protestation
@@ -2701,6 +2730,7 @@ retreat
 retrieve
 retrospect
 retrospectively
+reunite
 reveal
 revenge
 reverse
@@ -2912,6 +2942,7 @@ sit still
 sit up
 sitcom
 sitting
+sizable
 skeletal
 skeleton
 skeptical
@@ -2945,6 +2976,7 @@ smallpox
 smuggle
 snack
 snap
+snapshot
 sneak
 sneaky
 snippet
@@ -2952,12 +2984,14 @@ snooze
 snuff out
 soak up
 soap opera
+soapbox
 sob
 sober
 sociable
 social media
 socialization
 socially responsible
+societal
 soft tissue layers
 soldier on
 solely
@@ -2986,6 +3020,7 @@ spearhead
 specialize
 specialty
 specifically
+spectacular
 spectator
 spectrum
 spell
@@ -3129,6 +3164,7 @@ suburb
 suck
 suck it up
 sucrose
+sufficiently
 suffocate
 sugarcane
 sugarcoat
@@ -3141,6 +3177,7 @@ sunset
 superficial
 superiority
 superpower
+supervision
 supervisor
 supply
 supportive
@@ -3242,6 +3279,7 @@ terminal
 territory
 terrorist
 terse
+testicle
 testosterone
 textbook
 texture
@@ -3312,7 +3350,9 @@ trade
 traditionally
 tragedy
 tragic
+tragically
 trajectory
+transact
 transaction
 transactor
 transcendence
@@ -3322,6 +3362,7 @@ transfer
 transformative
 transient
 transition
+translate
 translation
 transmission
 transparency
@@ -3386,6 +3427,7 @@ uncoordinated
 undeniably
 under the same roof
 under-employed
+underappreciated
 underestimate
 undergo
 undergoing
@@ -3427,6 +3469,7 @@ unpacking
 unprecedented
 unrelated
 unreserved
+unscathed
 unsetting
 unsolicited
 unsophisticated
@@ -3442,6 +3485,7 @@ upbeat
 upgraded
 uplift
 uppercut
+upregulate
 uproot
 ups and downs
 upscale
@@ -3483,6 +3527,7 @@ verify
 verse
 versus
 vertebrae
+vertical
 vessel
 viable
 vicious
@@ -3495,6 +3540,7 @@ vindication
 violate
 viral
 virginity
+virile
 virtually
 virtue
 visceral
@@ -3505,6 +3551,7 @@ vocabulary
 vodka
 void
 volcano
+voltage
 volumn
 voluptuous
 vomit
@@ -3512,6 +3559,7 @@ vow
 vulnerable
 waffle
 waitress
+wakefulness
 walk done memory lane
 wannabe
 ward
@@ -3533,6 +3581,7 @@ well-earned
 well-found
 well-informed
 well-regarded
+wellness
 wheelchair
 whereas
 whiff
