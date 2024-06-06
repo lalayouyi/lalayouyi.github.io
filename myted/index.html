@@ -11,13 +11,29 @@
     <!-- 左边 -->
     <div class="count">
         <div class="wordcount">
-            <div id="cloudtitle">咱就是说，<span>成就感拉满</span>！</div>
-            <div id="line"></div>
+            <div id="LINE">
+                <div id="cloudtitle">TED学习进度与<span>单词增长</span>统计图</div>
+                <p style="font-size: 0.9vw; color: #575656;">
+                    蓝色折线展示<span style="color: #2966cf; font-size: 0.9vw;">单词总数</span>随TED阅读篇数增加的<span style="color: #2966cf; font-size: 0.9vw;">累计</span>增长。<br>
+                    黄色折线记录<span style="color: #2966cf; font-size: 0.9vw;">每篇</span>TED视频对应的<span style="color: #2966cf; font-size: 0.9vw;">新增</span>单词数。<br>
+                    <span style="color: #4676ca; font-size: 0.9vw;">特殊点说明</span>
+                    第78篇和第100篇分别与74篇和24篇重复！
+                </p>
+                <div id="line"></div>
+            </div>
+            <div id="LINE2">
+                <div id="cloudtitle">TED100篇打卡<span>燃尽图</span></div>
+                <p style="font-size: 0.9vw; color: #575656;">
+                    燃尽图用于<span style="color: #2966cf; font-size: 0.9vw;">追踪</span>TED100天打卡挑战的进度。<br>
+                    两条曲线分别代表<span style="color: #2966cf; font-size: 0.9vw;">预计剩余</span>和<span style="color: #2966cf; font-size: 0.9vw;">实际剩余</span>的阅读篇数。<br>
+                    粉色散点展示<span style="color: #2966cf; font-size: 0.9vw;">当天阅读篇数</span>。
+                </p>
+                <div id="line2"></div>
+            </div>
         </div>  
-        <div id="totalcount"></div>
         <div class="wordcount2">
             <div id="cloudtitle">单词们的词频<span>词云</span></div>
-            <p style="font-size: 0.9vw; color: #575656;">电脑端点击可<span style="color: #ecbc41; font-size: 1vw;">查看大图</span>。</p>
+            <p style="font-size: 0.9vw; color: #575656;">电脑端点击可<span style="color: #2966cf; font-size: 1vw;">查看大图</span>。</p>
             <div id="image">
                 <img src="./images/wordcloud.png" 
                 alt="词云图" 
@@ -28,9 +44,11 @@
                 onclick="showLargeImage(this)">
             </div>
         </div>  
+        <div id="totalcount"></div>
         <!-- 打卡号 -->
         <div id="cloudtitle">TED打卡号<span>分类查询</span></div>
-        <p style="font-size: 0.9vw; color: #575656;">查询到对应的打卡号，可自行查找对应TED资源，<br>也欢迎光临小红书号<span style="color: #ecbc41; font-size: 1vw;">3884751039</span>。</p>
+        <p style="font-size: 0.9vw; color: #575656;">查询到对应的<span style="color: #2966cf; font-size: 1vw;">打卡号</span>后，可在右一的<span style="color: #2966cf; font-size: 1vw;">小红书上</span>查找对应TED资源
+            <br>（每篇TED笔记包含PDF原文、单词注解、音频及精华提炼），<br>小红书号<span style="color: #2966cf; font-size: 1vw;">3884751039</span>，ID名：<span style="color: #2966cf; font-size: 1vw;">右一同学</span></p>
         <div class="mainbox">
             <div id="categorycontainer">
                 <select id="categorySelect" onchange="showTED()">
@@ -46,7 +64,7 @@
         </div>
         <!-- 易混词 -->
         <div id="cloudtitle">那些讨厌的<span>易混词</span></div>
-        <p style="font-size: 0.9vw; color: #575656;">点击<span style="color: #ecbc41; font-size: 1vw;">左</span>半部分<span style="color: #ecbc41; font-size: 1vw;">上</span>翻，点击<span style="color: #ecbc41; font-size: 1vw;">右</span>半部分<span style="color: #ecbc41; font-size: 1vw;">下</span>翻。</p>
+        <p style="font-size: 0.9vw; color: #575656;">点击<span style="color: #2966cf; font-size: 1vw;">左</span>半部分<span style="color: #2966cf; font-size: 1vw;">上</span>翻，点击<span style="color: #2966cf; font-size: 1vw;">右</span>半部分<span style="color: #2966cf; font-size: 1vw;">下</span>翻。</p>
         <div class="flashcard-container">
             <div class="flashcard">
               <h3>compliment</h3>
@@ -210,6 +228,7 @@
     <script src="./js/left.js"></script>  
     <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
     <script src="./js/line.js"></script> 
+    <script src="./js/line2.js"></script> 
     <script src="./js/yihun.js"></script> 
     <script src="./js/TED打卡号.js"></script>
 </body>
