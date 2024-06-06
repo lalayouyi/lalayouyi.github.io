@@ -4,9 +4,7 @@ clinical 1
 session 1
 slouchy 1
 arsonist 1
-twentysomething 1
 supervisor 1
-knuchlehead 1
 push back 1
 developmental downtime 1
 sweet spot 1
@@ -37,7 +35,6 @@ rob 1
 flip 1
 enormous 1
 incompatible 1
-post-millennial 1
 midlife crisis 1
 sibling 1
 identify 1
@@ -60,7 +57,6 @@ identity crisis 1
 identity capital 1
 urban tribe 1
 huddle 1
-under-employed 1
 neighbor 1
 settle down 1
 grab 1
@@ -68,7 +64,6 @@ marriage 1
 consciously 1
 kill time 1
 cousin 1
-mindfully 1
 airplanes 1
 take off 1
 slight 1
@@ -96,7 +91,6 @@ calendar 2
 thousand 2
 vow 2
 in the hole 2
-unlink 2
 click 2
 carry around 2
 abacus 2
@@ -111,7 +105,6 @@ democracy 3
 peril 3
 reluctant 3
 squeaky 3
-real-estate 3
 stock 3
 throne 3
 estate 3
@@ -152,7 +145,6 @@ stupidity 3
 broaden 3
 descent 3
 a fine line 3
-shortsightedess 3
 hoops 3
 driveway 3
 grit your teeth 3
@@ -191,7 +183,6 @@ come in handy 3
 internalize 3
 perspective 3
 frame 3
-defensiveness 3
 freshman 3
 selves 3
 sketch 3
@@ -318,7 +309,6 @@ rehab 5
 staycation 5 
 jail 5
 abusive 5
-epically 5
 epic 5
 underneath my belt 5
 flunk out 5
@@ -366,7 +356,6 @@ evergreen 5
 chronology 5
 reinvent 5
 portal 5
-weird-ass 5
 myth 5
 slightly 5
 reinvent 5
@@ -379,7 +368,6 @@ demanding 6
 quiz 6
 give out 6
 ratio 6
-stratosperic 6
 decimal 6
 parallelogram 6
 concept 6
@@ -446,7 +434,6 @@ loop 7
 swerve 7
 adaptability 7
 surrender 7
-hyperbolically 7
 scrappy 7
 grizzly 7
 filthy 7
@@ -468,7 +455,6 @@ rack up 7
 fold 7
 riffraff 7
 amend 7
-archenemiy 7
 takeaway 7
 overextend 7
 stock 7
@@ -504,7 +490,6 @@ resilient 7
 miraculously 7
 cliffhanger 7
 partial 8
-shareable 8
 ultimately 8
 idiosyncratic 8
 undertake 8
@@ -570,7 +555,6 @@ exaggerated 8
 discriminate 8
 outgrow 8
 conscious 8
-occation 8
 intimacy 8
 momentary 8
 worthwhile 8
@@ -651,7 +635,6 @@ cigarette 10
 prioritize 10
 toddler 10
 slide 10
-squwal 10
 identical 10
 frustration 10
 setback 10
@@ -679,7 +662,6 @@ alcoholism 10
 cardiovascular disease 10
 compassion 10
 chew over 10
-unsetting 10
 diagnose 10
 chemotherapy 10
 distraction 10
@@ -742,7 +724,6 @@ epiphany 11
 sneaky 11
 a bunch of 11
 stay aware of 11
-squence 12
 yielding 12
 wishy-washy 12
 fall prey to sth 12
@@ -752,7 +733,6 @@ marshmallow 12
 pledge 12
 enormous 12
 yield to 12
-catagory 12
 biased 12
 time perspective 12
 automatically 12
@@ -763,7 +743,6 @@ paradox 12
 namely 12
 anticipated 12
 consequence 12
-present-hedonistic 12
 flexibility 12
 fatalism 12
 optimal 12
@@ -780,7 +759,6 @@ suicidal 12
 terrorist 12
 alert 12
 profound 12
-dranining 13
 instantly 13
 chronologically 13
 basically 13
@@ -813,7 +791,6 @@ unfulfilled 14
 babysit 14
 bold 14
 exuberance 14
-timidness 14
 conformity 14
 suitcase 14
 blend in 14
@@ -855,7 +832,6 @@ spaghetti 14
 freestanding 14
 kindergarten 14
 tape 14
-excute 14
 stay down 14
 undeterred 14
 life hack 15
@@ -929,7 +905,7 @@ heckle 15
 spike 15
 tape 15
 hypothesis 15
-meidate 15
+mediate 15
 residue 15
 impostor 15
 fraud 15
@@ -955,7 +931,6 @@ coincidence 16
 methodical 16
 ups and downs 16
 reel 16
-self-paralysis 16
 episode 16
 recipe 16
 run in one's family 16
@@ -984,7 +959,6 @@ wind down 16
 stimulant 16
 depressant 16
 simplicity 16
-pre-meditation 16
 scenario 16
 incessant 16
 evil 16
@@ -1011,7 +985,6 @@ play up 16
 atrocious 16
 status quo 16
 intangible 16
-self-medicating 16
 implode 16
 fray 16
 reversible 16
@@ -1049,7 +1022,6 @@ gravitate 17
 headfirst 17
 play it safe 17
 negotiate 17
-habityated 17
 federal deficit 17
 energizing 17
 routinely 17
@@ -1079,7 +1051,7 @@ imperfection 17
 leverage 17
 embed 17
 incredibly 17
-meidate 18
+mediate 18
 self-aware 18
 substantial 18
 commitment 18
@@ -1100,7 +1072,6 @@ massage 19
 therapist 19
 detour 19
 bacterial meningitis 19
-vaccine-preventable 19
 coma 19
 spleen 19
 kidney 19
@@ -1141,7 +1112,6 @@ involuntarily 20
 sword 20
 suspend 20
 ceiling 20
-subskill 20
 ideally 20
 substantial 20
 plateaus 20
@@ -1149,7 +1119,6 @@ adequate 20
 solicit 20
 deliberate practice 20
 poke around 20
-aurgeon 20
 spiral 20
 concert 20
 growth mindset 20
@@ -1157,7 +1126,6 @@ catastrophic 20
 tightrope 20
 net underneath 20
 championship 20
-undersirable 20
 inadvertently 20
 narrow 20
 exploratory 20
@@ -1218,7 +1186,6 @@ retrospect 21
 stigma 21
 ambivalence 21
 perpetuate 21
-unbothered 21
 chic 21
 ensnare 21
 plot 21
@@ -1231,10 +1198,8 @@ senior thesis 21
 alternative 21
 overwhelming 21
 unsolicited 21
-tinly 21
 veiled 21
 obsessed 21
-harb 21
 issue 21
 run off the rails 21
 ultimately 21
@@ -1247,7 +1212,6 @@ hometown 21
 roster 21
 excruciatingly 21
 ridiculous 21
-likability 21
 perceive 21
 weird 21
 simulation 21
@@ -1297,7 +1261,6 @@ shrine 22
 scroll 22
 protagonist 22
 fugitive 22
-totern 22
 unthinkable 22
 state 22
 fan fiction 22
@@ -1321,7 +1284,6 @@ diagnose 22
 womb 22
 dysfunction 22
 hysterectomy 22
-redeclare 22
 enthusiasm 22
 rationality 22
 creepy 22
@@ -1379,9 +1341,7 @@ subsequent 23
 credit card 24
 footprint 24
 coincidentally 24
-flat-lined 24
 rig up 24
-crowd-sourcing 24
 gear 24
 utility 24
 entry 24
@@ -1413,7 +1373,6 @@ luxuriate 25
 grip 25
 tyranny 25
 electrical 25
-fixed-mindset 25
 validation 25
 constant 25
 bridge 25
@@ -1449,9 +1408,7 @@ sweat 26
 exhausting 26
 retreat 26
 drift off into 26
-evolutionarily-conserved 26
 reinforcement 26
-context-dependent 26
 trigger 26
 nerd 26
 rebel 26
@@ -1490,7 +1447,6 @@ simplistic 26
 therapy 26
 self-referential 26
 default 26
-meditator 26
 distraction 26
 hypothesis 26
 ironically 26
@@ -1548,7 +1504,6 @@ vantage 28
 counterpart 28
 adherent 28
 cradle 28
-cosmically 28
 association 28
 tenet 28
 genuine 28
@@ -1590,7 +1545,6 @@ porn 29
 ingrained 29
 snack 29
 accommodate 29
-distensible 29
 deprived 29
 hormone 29
 refrigerator 29
@@ -1655,7 +1609,6 @@ anemia 31
 kidney 31
 self-perception 31
 disruption 31
-self-perceived 31
 flaw 31
 chaos 31
 combination 31
@@ -1743,7 +1696,7 @@ stasis 32
 lengthy 32
 limb 32
 alert 32
-disbetes 32
+diabetes 32
 dip 32
 premature 32
 contribute 32
@@ -1885,7 +1838,6 @@ at table 35
 client 35
 disparity 35
 presentation 35
-nonbinary 35
 discrepancy 35
 mic 35
 interrupt 35
@@ -1898,7 +1850,6 @@ traditionally 35
 exclude 35
 excel 35
 platitude 35
-make-or-break 35
 behind the scenes 35
 thread 35
 imaginative 35
@@ -1928,7 +1879,6 @@ conscious 36
 subconscious 36
 primitive 36
 theorize 36
-millenium 36
 record 36
 wax 36
 quest 36
@@ -2069,7 +2019,6 @@ anticipate 38
 electrode 38
 brainwave 38
 hyperactive 38
-hypoactive 38
 threshold 38
 rig up 38
 isolate 38
@@ -2099,14 +2048,12 @@ amity 38
 amass 38
 benevolent 38
 fixation 38
-resequencing 38
 sequence 38
 privilege 38
 hideous 38
 assemble 38
 snuff out 38
 bronze 38
-merch 38
 descend 38
 compulsive 38
 symmetrical 38
@@ -2131,7 +2078,6 @@ restlessness 39
 recurrent 39
 suicide 39
 the naked eye 39
-microscale 39
 transmission 39
 depletion 39
 intangible 39
@@ -2180,7 +2126,6 @@ vicious 40
 meditation 40
 mindfulness 40
 fantastic 40
-overreactivity 40
 cognitive 40
 neural 40
 tamp down 40
@@ -2236,7 +2181,6 @@ submit 41
 stand up 41
 authority 41
 whistle-blower 41
-carastrophe 41
 willfully 41
 essential 41
 set free 41
@@ -2263,7 +2207,6 @@ declarative 42
 procedural 42
 consolidation 42
 transcribe 42
-neuroplasticity 42
 effectiveness 42
 reveal 42
 sensory 42
@@ -2293,13 +2236,12 @@ replenish 43
 inconvenience 43
 inflammation 43
 hallucination 43
-diabets 43
+diabetes 43
 obesity 43
 chronically 43
 deprive 43
 untimely 43
 consistent 43
-inherite 43
 mutation 43
 nightmarish 43
 sleep deprivation 43
@@ -2347,7 +2289,6 @@ furious 44
 devastated 44
 weirdly 44
 legitimize 44
-neurochemically 44
 distinguish 44
 suspect 44
 serotonin 44
@@ -2377,7 +2318,6 @@ reconcile 44
 collaborative 44
 entailment 44
 commitment 44
-monogamomus 44
 essentially 44
 implication 44
 aesthetic 44
@@ -2470,7 +2410,6 @@ initially 46
 soak up 46
 circuit 46
 neural network 46
-memory-consolidation 46
 hippocampus 46
 informational 46
 wrinkled 46
@@ -2524,7 +2463,6 @@ dense 47
 nutrient 47
 spike 47
 detect 47
-intooverdrive 47
 overconsumption 47
 hook on 47
 a wedge of 47
@@ -2544,7 +2482,6 @@ fiber 48
 cellular 48
 microscope 48
 inflammatory 48
-cytokined 48
 immune system 48
 plant your feet 48
 belly 48
@@ -2606,7 +2543,6 @@ contrast 50
 relatively 50
 reap 50
 hemoglobin 50
-ventilatory 50
 acclimatization 50
 plasma 50
 acclimate 50
@@ -2625,7 +2561,7 @@ be immune to sth 50
 coastal 51
 landmass 51
 sediment 51
-deposite 51
+deposit 51
 fertile ecosystems 51
 agriculture 51
 cyclone 51
@@ -2635,7 +2571,6 @@ marine 51
 sediment 51
 resident 51
 ebbs and flows 51
-ever-shifting 51
 impede 51
 erratic 51
 permafrost 51
@@ -2745,7 +2680,6 @@ complicated 53
 glamorous 53
 fare the best 53
 bickering 53
-heartburning 53
 feud 53
 hold the grudge 53
 call the acount 53
@@ -2797,7 +2731,6 @@ sin 55
 negativity 55
 complain 55
 misery 55
-blamethrower 55
 dreadful 55
 viral 55
 penultimate 55
@@ -2825,7 +2758,6 @@ timbre 55
 prosody 55
 monotonous 55
 monotone 55
-monotonic 55
 statement 55
 restrict 55
 emphasize 55
@@ -2835,9 +2767,7 @@ delivery 55
 broadcast 55
 pitch 55
 slightly 55
-volumn 55
 startle 55
-inconsiderately 55
 impose 55
 sign out 55
 champagne 55
@@ -2933,7 +2863,6 @@ racism 57
 disorder 57
 spark 57
 narrative 57
-self-medicate 57
 retire 57
 masculine 57
 soldier on 57
@@ -3027,7 +2956,6 @@ fabulous 59
 diabetes 59
 carb 59
 insidious 59
-fatphobia 59
 oppression 59
 patriarchy 59
 greedy 59
@@ -3060,13 +2988,11 @@ delusional 59
 exclude 59
 radical 59
 isolating 59
-unapologetic 59
 dominant 59
 flourish 59
 holistic 59
 blogger 59
 facet 59
-fatshionista 59
 perceive 59
 flesh 59
 fierce 59
@@ -3074,7 +3000,6 @@ subscribe 59
 narrative 59
 marathon 59
 yoga 59
-kickboxing 59
 status quo 59
 antidote 59
 contouring 59
@@ -3099,7 +3024,7 @@ prestigious 59
 mainstream 59
 mildly 59
 flowery 59
-unapologetic 59
+apologetic 59
 associate 59
 literally 59
 controversial 59
@@ -3113,7 +3038,6 @@ cast 59
 confront 59
 bias 59
 epidemic 59
-absurb 59
 evoke 59
 indulge 59
 reluctance 59
@@ -3152,7 +3076,6 @@ crystal 60
 royal 60
 contemporary 60
 obstacle 60
-unapologetically 60
 dismissive 60
 abusive 60
 wardrobe 60
@@ -3163,7 +3086,6 @@ jet 60
 spit 60
 authenticity 60
 bully 60
-lightbulb 61
 productivity 61
 captivate 61
 rhythm 61
@@ -3222,7 +3144,6 @@ automate 62
 prestigious 62
 metrics 62
 sector 62
-cash-trapped 62
 monopoly 62
 portfolio 62
 pedigree 62
@@ -3260,8 +3181,6 @@ encounter 63
 inadvertent 63
 scientifically 63
 miserable 63
-kickbox 63
-sweat-inducing 63
 grant 63
 literature 63
 transformative 63
@@ -3274,7 +3193,6 @@ susceptible 63
 thumb 63
 aerobic 63
 cognitive 63
-power-vacuuming 63
 optimum 63
 certified 63
 prescription 63
@@ -3293,7 +3211,6 @@ extraordinary 64
 a sort of 64
 staggered 64
 peninsula 64
-exccs 64
 at large 64
 psychology 64
 slightly 64
@@ -3406,7 +3323,6 @@ dread 65
 discern 65
 flashing 65
 rage 65
-values-aligned 65
 signpost 65
 caveat 65
 frustration 65
@@ -3494,7 +3410,6 @@ temporarily 67
 vulnerable 67
 grocery 67
 explicit 67
-overanalyze 67
 unconsciously 67
 accurately 67
 subconsciously 67
@@ -3542,9 +3457,7 @@ run for 68
 implement 68
 scale 68
 scroll 69
-doomscrolling 69
 organizational 69
-languishing 69
 emptiness 69
 stagnation 69
 ennui 69
@@ -3629,7 +3542,6 @@ immersed 69
 antidote 69
 rethink 69
 fire up 69
-ayllable 69
 void 69                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 heartbeat 70
 otherwise 70
@@ -3694,7 +3606,6 @@ contagious 71
 suppress 71
 mimic 71
 repress 71
-impaire 71
 theorize on 71
 feedback 71
 electric jolt 71
@@ -3721,7 +3632,6 @@ slather 72
 liberating 72
 beleaguered 72
 paradox 72
-unfathomably 72
 simultaneously 72
 acne 72
 weird 72
@@ -3781,7 +3691,6 @@ undisturbed 73
 stable 73
 individual 73
 considerate 73
-spotaneous 73
 whiz 73
 distracted 73
 meditation 73
@@ -3847,7 +3756,6 @@ capture 74
 loop 74
 fellowship 74
 disappointed 74
-graciousness 74
 cook up 74
 leadership 74
 quarter 74
@@ -3903,7 +3811,6 @@ autopilot 75
 croissant 75
 damn 75
 plateau 75
-doodlt 75
 bump into 75
 regenerate 75
 institutionalize 75
@@ -3966,10 +3873,8 @@ scenario 76
 impoverished 76
 estimate 76
 nudge 76
-garbagement 76
 resume 76
 strategic 76
-transactor 76
 brainstorming 76
 disruptive 76
 radical 76
@@ -4031,7 +3936,6 @@ capture 78
 loop 78
 fellowship 78
 disappointed 78
-graciousness 78
 cook up 78
 leadership 78
 quarter 78
@@ -4096,7 +4000,7 @@ editorial 80
 excerpt 80
 permission 80
 self-esteem 80
-unapologetically 80
+apologetically 80
 flaw 80
 infant 81
 salary 81
@@ -4197,7 +4101,6 @@ deferential 82
 imminent 82
 criminal 82
 gendered 82
-feminity 82
 remarkably 82
 binary 82
 oppositional 82
@@ -4209,7 +4112,6 @@ shrill 82
 tale 82
 hormonal 82
 nag 82
-harasser 82
 predatory 82
 retaliation 82
 confound 82
@@ -4223,7 +4125,6 @@ reproduce 82
 banality 82
 elaborate 82
 platitude 82
-preemptively 82
 microcosm 82
 blunt 82
 castle 82
@@ -4271,7 +4172,6 @@ perfectionist 83
 layer 83
 bunch 83
 exacerbate 83
-decenter 83
 insecurity 83
 adore 83
 blurred 83
@@ -4279,7 +4179,6 @@ absolutely 83
 shiny 83
 slightly 83
 substance 83
-intertwin 83
 spectrum 83
 navigate 83
 negotiate 83
@@ -4372,7 +4271,6 @@ meditate 84
 schedule 84
 substitute 84
 focus on 84
-momument 85
 humiliate 85
 authoritarian 85
 demonstration 85
@@ -4590,7 +4488,6 @@ collectively 91
 troublemaker 92
 critique 92
 domino 92
-choiceless 92
 shoddy 92
 shady 92
 follow suit 92
@@ -4600,7 +4497,6 @@ premed major 92
 semester 92
 dictate 92
 concrete 92
-ziplining 92
 incredible 92
 submerged 92
 skydiving 92
@@ -4614,7 +4510,6 @@ disrupt 92
 core 92
 moisturize 92
 firmly 92
-cosign 92
 conference 92
 compensate 92
 financial 92
@@ -4653,12 +4548,10 @@ coordinate 93
 apparent 93
 dominant 93
 analytical 93
-lateralization 93
 hypothesis 93
 plasticity 93
 acquisition 93
 holistic 93
-lateralize 93
 conversely 93
 neuron 93
 synapse 93
@@ -4672,7 +4565,6 @@ intuitive 93
 handicap 93
 onset 93
 cognitive 93
-dorsolateral 93
 bilingualism 93
 prefrontal cortex 93
 distinguish 93
@@ -4795,7 +4687,6 @@ incredibly 95
 profound 95
 majority 95
 monotonous 95
-nonmaterial 95
 warehouse 95
 characteristic 95
 automation 95
@@ -4845,7 +4736,6 @@ interaction 96
 reproductive system 96
 hormone 96
 crucial 96
-meidate 96
 testosterone 96
 estrogen 96
 hot flash 96
@@ -4909,7 +4799,6 @@ astonishingly 97
 hemisphere 97
 linguistic 97
 executive 97
-strategize 97
 cognitive 97
 a category of 97
 interlinked 97
@@ -5058,7 +4947,6 @@ sufficiently 99
 disquieting 99
 erode 99
 fabric 99
-upregulate 99
 inflammation 99
 cardiovascular 99
 profile 99
@@ -5068,7 +4956,6 @@ deficiency 99
 in contrast 99
 unscathed 99
 alphabet 99
-nucleic 99
 narrative 99
 regularity 99
 anchor 99
@@ -5080,7 +4967,6 @@ cranny 99
 temper 99
 temperature 99
 optimal 99
-nonnegotiable 99
 catastrophic 99
 immortality 99
 decimation 99
@@ -5100,9 +4986,7 @@ prioritize 99
 credit card 100
 footprint 100
 coincidentally 100
-flat-lined 100
 rig up 100
-crowd-sourcing 100
 gear 100
 utility 100
 entry 100

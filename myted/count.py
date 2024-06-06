@@ -64,9 +64,15 @@ def count_word_frequency(input_file, output_txt_file, output_word_json_file, out
 
     # 将所有单词按字母顺序写入输出文本文件中
     all_words = list(word_count.keys())
-    all_words.sort()
+    # 过滤掉长度大于1的词组
+    single_words = [word for word in all_words if len(word.split()) == 1]
+    # 按字母顺序排序
+    single_words.sort()
+    # 打开输出文本文件进行写入
     with open(output_txt_file_sorted, 'w') as file_txt_sorted:
-        file_txt_sorted.write('\n'.join(all_words) + '\n')
+        # 写入单个单词，每个单词占一行
+        for word in single_words:
+            file_txt_sorted.write(word + '\n')
 
 # 定义输入文件和输出文件的名称
 input_file = "input.txt"

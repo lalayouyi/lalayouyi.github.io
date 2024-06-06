@@ -1,19 +1,3 @@
-Merriam-Webster diction
-a bunch of
-a category of
-a couple of
-a dose of
-a fine line
-a needle in a haystack
-a neural network
-a sort of
-a spectator sport
-a stack of
-a state of
-a streak of
-a string of
-a twist and turn
-a wedge of
 abacus
 abdominal
 abduct
@@ -23,7 +7,6 @@ absorption
 abstain
 abstinence
 abstractly
-absurb
 absurd
 absurdity
 abundant
@@ -111,7 +94,6 @@ alphabet
 alphas
 altar
 alter
-alter ego
 alternate
 alternative
 altitude
@@ -122,7 +104,6 @@ ambiguity
 ambition
 ambivalence
 amend
-amino acid
 amity
 amphitheatre
 amplification
@@ -133,7 +114,6 @@ analysis
 analytical
 anatomy
 anchor
-and so forth
 anecdotal
 anecdote
 anemia
@@ -160,11 +140,12 @@ apartheid
 apathetic
 apathy
 aphasia
+apologetic
+apologetically
 apologize
 apparent
 apparently
 appeal
-appear to
 appetite
 applause
 applicability
@@ -178,7 +159,6 @@ approval
 approximately
 arbitrary
 archaeologist
-archenemiy
 architect
 architecture
 arena
@@ -188,11 +168,8 @@ arousal
 arsonist
 artery
 artwork
-as a consequence
-as opposed to
 ascend
 ash
-ask for hand
 aspiration
 aspire
 assassin
@@ -213,12 +190,6 @@ astonishingly
 astounded
 asymmetric
 asymmetry
-at any given time
-at large
-at odds
-at stake
-at table
-at the table
 athlete
 atmosphere
 atrocious
@@ -230,7 +201,6 @@ attributable
 audit
 audition
 auditory
-aurgeon
 authentic
 authentically
 authenticity
@@ -251,17 +221,12 @@ awesome
 awful
 awkward
 awry
-ayllable
 babysit
-back and forth
-back sth up
-back to back
 backbone
 background
 backstage
 backward
 backyard
-bacterial meningitis
 badge
 bait
 bale
@@ -277,17 +242,9 @@ baseline
 basement
 basically
 bask
-be diagnosed with
-be immune to sth
-be obsessed with
-be punked
-be thrilled to
-be vulnerable to
-be wrapped up in
 beady
 befall
 beget
-behind the scenes
 beleaguered
 belittling
 belly
@@ -303,7 +260,6 @@ bickering
 bifurcation
 bilingual
 bilingualism
-bin liner
 binary
 bind
 binding
@@ -313,11 +269,9 @@ biologically
 biology
 bitty
 blah
-blamethrower
 blatant
 bleak
 blend
-blend in
 blessing
 blind
 blindside
@@ -327,12 +281,8 @@ blogger
 blunt
 blur
 blurred
-body building
-body sensation
-boil down
 boiling
 bold
-bolt toghther
 bomb
 bombard
 boob
@@ -351,7 +301,6 @@ brainstorming
 brainwave
 brat
 breadwinner
-break up with
 breakup
 breast
 breathe
@@ -359,15 +308,12 @@ breed
 bricklayer
 bridge
 brilliant
-bring to its knees
 broadcast
 broaden
 bronze
 brood
-brood on
 brunt
 brutal
-buckle up
 budget
 buffer
 bulky
@@ -375,8 +321,6 @@ bullet
 bully
 bullying
 bumblebee
-bump into
-bump up
 bunch
 bundle
 burden
@@ -388,7 +332,6 @@ bustle
 buttress
 buzz
 buzzword
-by chance
 by-product
 byproduct
 bystander
@@ -396,7 +339,6 @@ cadet
 cage
 calendar
 calf
-call the acount
 camel
 campaign
 campaigner
@@ -410,33 +352,24 @@ capitalism
 captivate
 captivity
 capture
-carastrophe
 carb
 carbohydrate
 carbon
-carbon emission
 carbonate
 card-carrying
 cardiovascular
-cardiovascular disease
 caricature
 carotid
 carpenter
-carry around
 cartilage
 carving
-cash-trapped
-casino game
 cast
-cast aside
 casting
 castle
 casually
-catagory
 catapult
 catastrophe
 catastrophic
-catch up with
 catchy
 category
 catfight
@@ -464,18 +397,14 @@ chaos
 chapstick
 chapter
 characteristic
-check up
 checkpoint
 chemical
 chemoreceptor
 chemotherapy
 chest
-chew over
 chic
 childbearing
-chill out
 chin
-choiceless
 choir
 choke
 cholesterol
@@ -483,7 +412,6 @@ chore
 choreography
 chronic
 chronically
-chrono-synclastic infundibulum
 chronological
 chronologically
 chronology
@@ -492,7 +420,6 @@ chunk
 chunky
 cigarette
 circadian
-circadian rhythm
 circuit
 circulate
 circulatory
@@ -505,10 +432,8 @@ clarify
 cleave
 clench
 click
-click-through rates
 client
 cliffhanger
-climb a mountain
 climber
 clingy
 clinical
@@ -526,7 +451,6 @@ codify
 cofounder
 cognition
 cognitive
-cognitive entrenchment
 cognitively
 coincidence
 coincidentally
@@ -541,24 +465,19 @@ collectively
 column
 coma
 combination
-come in handy
-come up with
 comfort
 command
 comment
 commercial
 commit
-commit suicide
 commitment
 committed
 committee
 commonness
-communist state
 commute
 comparable
 comparison
 compassion
-compassionate demeanor
 compelling
 compensate
 competence
@@ -617,7 +536,6 @@ congenitally
 congregation
 congresswoman
 conjure
-connective tissue
 conscious
 consciously
 consciousness
@@ -653,7 +571,6 @@ content
 contented
 contestant
 context
-context-dependent
 contextual
 continuation
 continuously
@@ -669,15 +586,12 @@ contributing
 contributor
 controversial
 conventional
-conventional wisdom
 conversation
 conversely
 convert
 conviction
-cook up
 coordinate
 coordination
-cope with
 cord
 core
 cornerstone
@@ -691,14 +605,11 @@ corrode
 cortex
 cortical
 cortices
-cosign
 cosmetics
 cosmic
-cosmically
 cosmos
 counsel
 counseling
-count on
 counteract
 counterintuitive
 counterpart
@@ -711,7 +622,6 @@ crack
 cradle
 craft
 cram
-cram for an exam
 crank
 cranky
 cranny
@@ -721,19 +631,15 @@ craving
 craw
 credential
 credentialed
-credit card
 creditor
 creepy
 crew
 criminal
 cringe
 critical
-critical period
 critique
 croissant
-crop up
 cross-examined
-crowd-sourcing
 crucial
 cruel
 crumble
@@ -758,25 +664,18 @@ curve
 curved
 custodian
 customary
-cut a path through
-cycle through
 cyclone
 cynic
-cytokined
 damn
 dampen
-darken the door
 daunted
 daunting
 daydream
 daze
 deactivate
-dead center
 deadening
 deadly
-deal with
 decent
-decenter
 deceptively
 decimal
 decimation
@@ -788,20 +687,17 @@ default
 defeat
 defect
 defensive
-defensiveness
 defer
 deferential
 defiant
 deficiency
 deficit
-defining moments
 definite
 definitely
 definition
 definitive
 deforestation
 degraded
-deliberate practice
 deliberately
 delicate
 delightful
@@ -829,7 +725,7 @@ deoxygenate
 dependable
 depleted
 depletion
-deposite
+deposit
 depressant
 depressing
 depression
@@ -844,7 +740,6 @@ descent
 describe
 description
 descriptive
-deserve of
 desperately
 dessert
 destination
@@ -863,10 +758,8 @@ devastate
 devastated
 devastating
 devastation
-developmental downtime
 deviation
 diabetes
-diabets
 diagnose
 diagnosis
 diagnostic
@@ -877,12 +770,8 @@ diary
 dictate
 dictator
 dictionary
-die a slow death
-die down
 differentiate
 diffusion
-dig out
-digestive system
 digitize
 dilate
 dilemma
@@ -898,7 +787,6 @@ directed
 disadvantaged
 disappointed
 disaster
-disbetes
 disc
 discern
 discerning
@@ -935,7 +823,6 @@ disruptive
 dissatisfaction
 dissertation
 dissociate
-distensible
 distinguish
 distinguished
 distort
@@ -946,12 +833,9 @@ distraction
 district
 disturb
 ditch
-dive into
 diverse
 diversity
-divided society
 divine
-diving coach
 division
 divisive
 divorce
@@ -967,44 +851,31 @@ domination
 domino
 donation
 donut
-doodlt
 doom
 doomed
-doomscrolling
 doorstep
 dopamine
 dork
 dorky
 dormant
-dorsolateral
 dosage
-double down
-double standard
 downright
 downward
-dozens of
 draft
-drag on
 drain
 dramatic
 dramatically
-dranining
 drastically
 dread
 dreadful
 dredge
 drift
-drift off
-drift off into
 driveway
-drop out
 dropout
 drought
 drown
 drummer
-dry up
 dub
-duct tape
 dude
 dull
 dullness
@@ -1014,13 +885,10 @@ dump
 durable
 duration
 dust
-dust yourself off
 dwindle
 dynamic
 dysfunction
-eating disorders
 ebb
-ebbs and flows
 eccentric
 economic
 economist
@@ -1033,7 +901,6 @@ elaborate
 elastic
 elated
 elect
-electric jolt
 electrical
 electrode
 element
@@ -1044,7 +911,6 @@ elixir
 emanate
 embankment
 embark
-embark on
 embarrassed
 embarrassment
 embed
@@ -1055,9 +921,6 @@ emerge
 emergency
 emerging
 emission
-emotion regulation
-emotional agility
-emotional intelligence
 emotionally
 empathetic
 empathy
@@ -1077,8 +940,6 @@ endorsement
 endure
 energizing
 engage
-engage in
-engage with
 engagement
 engaging
 enhance
@@ -1100,7 +961,6 @@ enthusiastically
 entrant
 entrepreneur
 entrepreneurial
-entrepreneurial sphere
 entrepreneurship
 entry
 envelop
@@ -1108,7 +968,6 @@ envious
 environmental
 enzyme
 epic
-epically
 epicenter
 epidemic
 epidemiological
@@ -1141,13 +1000,11 @@ ethnicity
 eucalyptus
 evaluation
 evaluative
-ever-shifting
 evergreen
 everlasting
 evil
 evoke
 evolutionarily
-evolutionarily-conserved
 evolutionary
 evolve
 ex-con
@@ -1156,7 +1013,6 @@ exaggerate
 exaggerated
 exaggeration
 examine
-exccs
 exceedingly
 excel
 excellence
@@ -1171,7 +1027,6 @@ exclusively
 excruciating
 excruciatingly
 excuse
-excute
 execute
 execution
 executive
@@ -1214,37 +1069,27 @@ factor
 faculty
 faintest
 fairly
-fall behind
-fall prey to sth
 falsetto
 familiarity
 familiarize
-fan fiction
 fangirls
 fantastic
 fantasy
-fare the best
-fart around
 fascinated
 fascinating
 fatalism
 fatality
 fateful
 fatigue
-fatphobia
-fatshionista
 favorable
 favorably
 favoritism
 fearfully
-federal deficit
 feeble
 feedback
 fellowship
 feminist
-feminity
 fence
-fertile ecosystems
 fertility
 fertilizer
 feud
@@ -1253,29 +1098,21 @@ fictional
 fiendishly
 fierce
 fiercely
-figure out
-file one's taxes
 filter
 filthy
 financial
 financially
 fingertip
 finite
-fire up
 firmly
 firsthand
-fit in
 fix
-fix sb with eyes
 fixate
 fixation
-fixed-mindset
 flash
-flash card
 flashback
 flashing
 flashlight
-flat-lined
 flavor
 flaw
 flawed
@@ -1297,15 +1134,9 @@ flowery
 fluctuate
 fluency
 fluid
-flunk out
-fly in the face of
-fly off the handle of sb
-focus on
 foggy
 fold
-fold up
 folk
-follow suit
 footballer
 footprint
 forbid
@@ -1313,9 +1144,6 @@ foreclose
 foreclosure
 forego
 forehead
-forge ahead
-fork off
-fork over
 formation
 former
 formula
@@ -1360,10 +1188,8 @@ futile
 fuzzy
 gadget
 gamble
-gang up with
 garage
 garbage
-garbagement
 gases
 gather
 gauge
@@ -1378,19 +1204,10 @@ genetically
 genius
 genre
 genuine
-get back up
-get caught up
-get decked out
-get it together
-get sucked in
-get trapped in
 getaway
 getup
 giant
 gibberish
-give away
-give out
-give somebody a run for its money
 gizmo
 glamorous
 gleefully
@@ -1404,15 +1221,8 @@ glorify
 glorious
 glory
 glow
-glow eith pride
 glowing
 gnaw
-go all out
-go down the rabbit hole
-go hand in hand
-go off
-go through with
-gold digger
 gooey
 goofy
 gorgeous
@@ -1420,7 +1230,6 @@ gossip
 grab
 grace
 gracefully
-graciousness
 grad
 grammar
 grant
@@ -1439,11 +1248,9 @@ grill
 grim
 grip
 grit
-grit your teeth
 gritty
 grizzly
 grocery
-growth mindset
 grudge
 grueling
 gruff
@@ -1452,13 +1259,10 @@ guarantee
 guardian
 gubernatorial
 guidance
-guidance counselor
 guidebook
 gurney
 gust
-gut instinct
 gymnastic
-habityated
 hack
 haikus
 hail
@@ -1472,10 +1276,6 @@ handmade
 handshake
 handy
 hang
-hang out
-happen overnight
-harasser
-harb
 hardship
 hardy
 harness
@@ -1483,15 +1283,12 @@ harsh
 harshly
 harvest
 haunt
-have a leg up in
-have tunnel vision
 hay
 head-on
 headfirst
 headline
 heartbeat
 heartbroken
-heartburning
 heave-ho
 heckle
 helicopter
@@ -1514,9 +1311,6 @@ hilarious
 hindsight
 hint
 hippocampus
-hit rock bottom
-hold the grudge
-hold up
 holiness
 holistic
 hometown
@@ -1524,8 +1318,6 @@ homicidal
 honesty
 honor
 hook
-hook on
-hook up
 hoops
 hop
 hormonal
@@ -1537,7 +1329,6 @@ horror
 hospice
 hospitalization
 hostage
-hot flash
 household
 housewares
 huddle
@@ -1556,9 +1347,7 @@ hybrid
 hydrate
 hygiene
 hyperactive
-hyperbolically
 hypertrophy
-hypoactive
 hypothalamus
 hypothesis
 hysterectomy
@@ -1569,8 +1358,6 @@ ideally
 ideation
 identical
 identify
-identity capital
-identity crisis
 idiosyncratic
 idiot
 ignite
@@ -1581,7 +1368,6 @@ illustration
 imaginary
 imaginative
 immediate
-immerse in
 immersed
 immersion
 immigrant
@@ -1589,11 +1375,8 @@ immigrate
 imminent
 immortality
 immune
-immune system
-immune system dysfunction
 impact
 impair
-impaire
 impairment
 impart
 impassive
@@ -1613,13 +1396,6 @@ impoverished
 improvisation
 impulse
 impulsive
-in context
-in contrast
-in favor of
-in spite of onself
-in terms of
-in the hole
-in the midst of
 inability
 inadequacy
 inadvertent
@@ -1632,7 +1408,6 @@ incidence
 inclusion
 inclusive
 incompatible
-inconsiderately
 inconvenience
 incorporate
 incredible
@@ -1648,7 +1423,6 @@ individual
 individualized
 induce
 indulge
-indulge in
 indulgence
 industrialize
 industrialized
@@ -1668,7 +1442,6 @@ inflated
 inflation
 inflection
 influencer
-information asymmetry
 informational
 informative
 informed
@@ -1680,7 +1453,6 @@ ingredient
 inhabit
 inherent
 inherently
-inherite
 inhibit
 inhibition
 initial
@@ -1703,7 +1475,6 @@ insensitive
 inseparable
 insidious
 insight
-insight into
 insightful
 insomnia
 inspiration
@@ -1747,7 +1518,6 @@ interrelated
 interrogative
 interrupt
 intersperse
-intertwin
 intervene
 intervention
 intestine
@@ -1756,7 +1526,6 @@ intimate
 intimately
 intimidate
 intimidating
-intooverdrive
 intramural
 intranet
 intricate
@@ -1807,7 +1576,6 @@ jewelry
 jittery
 joint
 jolly
-jot down
 journalism
 journey
 jubilee
@@ -1815,27 +1583,15 @@ judgement
 judicious
 juggle
 junior
-junior year
 justified
 justify
-keep in mind
-keep track of
 keepsake
-kick in
-kick mu ass
-kick off
-kickbox
-kickboxing
 kickstart
 kidnap
 kidney
-kill time
-kind of
 kindergarten
 kitchen
 knowingly
-knuchlehead
-lab coat
 label
 labor
 laboratory
@@ -1844,34 +1600,25 @@ laid-back
 lament
 landmass
 lane
-languishing
 lapse
 laptop
-lateralization
-lateralize
 latitude
-launch the company
 laxative
 layer
 leadership
 leak
-lean in
-lean over
 leap
 leftover
 legacy
 legal
-legions of
 legislation
 legitimate
 legitimize
 legume
-leisure time
 lengthy
 lens
 leotard
 lesion
-let alone
 lethal
 lever
 leverage
@@ -1881,14 +1628,10 @@ liberate
 liberated
 liberating
 lick
-life hack
 lifelong
 lifespan
 ligament
-lightbulb
 lighthouse
-likability
-like a duck to water
 likelihood
 limb
 lime
@@ -1908,12 +1651,10 @@ livelihood
 liver
 loader
 lobby
-lock down
 locust
 log
 logistic
 long-lasting
-long-term memory
 longevity
 longitude
 longitudinal
@@ -1928,7 +1669,6 @@ luminous
 lump
 lunatic
 lunchroom
-lurch along
 lurk
 luxuriate
 luxury
@@ -1943,12 +1683,6 @@ magnitude
 mainstream
 maintenance
 majority
-make ends meet
-make one's mark
-make sense of
-make sth the norm
-make up
-make-or-break
 malignant
 manageable
 mandala
@@ -1986,7 +1720,6 @@ mathematics
 matriculation
 mattering
 maturity
-max out credit card
 mayhem
 maze
 meaningful
@@ -1995,33 +1728,29 @@ measurable
 measurably
 measured
 mechanism
+mediate
 mediation
 medication
 medicine
 meditate
 meditation
 meditative
-meditator
 meetinghouse
 mega
-meidate
 melancholy
 melodramatic
 melody
 memoir
 memorable
 memorial
-memory-consolidation
 menopause
 menstruate
 mentality
 mentally
 mentor
 mentorship
-merch
 merely
 merge
-mess around
 messy
 metabolic
 metabolism
@@ -2033,20 +1762,16 @@ metric
 metrics
 mic
 microcosm
-microscale
 microscope
 microwave
 midlife
-midlife crisis
 migration
 mildly
 military
-millenium
 millennial
 millisecond
 mimic
 mind-blowing
-mindfully
 mindfulness
 mindset
 minimal
@@ -2063,7 +1788,6 @@ misfit
 misinterpret
 misrepresentation
 misrepresented
-miss doing sth
 mission
 misspeak
 misstep
@@ -2078,15 +1802,12 @@ mold
 molecule
 momentary
 momentum
-momument
 monitor
 monk
-monogamomus
 monogamy
 monolingual
 monopoly
 monotone
-monotonic
 monotonous
 monument
 moody
@@ -2119,8 +1840,6 @@ murder
 murky
 muscle
 muscular
-muse over
-musical instrument
 musing
 mustache
 mutation
@@ -2155,16 +1874,10 @@ nephew
 nerd
 nerve
 nest
-net revenue
-net underneath
 neural
-neural network
-neural science
-neurochemically
 neurofeedback
 neurologist
 neuron
-neuroplasticity
 neuroscience
 neuroscientist
 neurotransmitter
@@ -2176,11 +1889,8 @@ nightmare
 nightmarish
 ninja
 nominate
-nonbinary
 nonetheless
 nonexistent
-nonmaterial
-nonnegotiable
 nonprofit
 nonverbal
 nook
@@ -2189,11 +1899,9 @@ nostalgia
 notebook
 novelty
 nuanced
-nucleic
 nudge
 nugget
 numb
-numb idiot
 numbness
 numerous
 nun
@@ -2209,7 +1917,6 @@ obligation
 obliquely
 observe
 obsessed
-obsessed with
 obsession
 obsessive
 obsessively
@@ -2217,21 +1924,15 @@ obstacle
 obtain
 obviousness
 occasional
-occation
 occupation
 octogenarian
 oddly
 odds
-off chance
 offended
 offline
 offstage
 oftentimes
 ominous
-on a daily basis
-on the intellectual level
-on the spot
-on the verge of
 onset
 ontological
 openness
@@ -2248,18 +1949,14 @@ orchestra
 organic
 organism
 organizational
-organizational psychologist
 organize
 oriented
 ostensibly
 osteoporosis
 otherwise
 oust
-out of cash
-out of the blue
 outbreak
 outdo
-outdo sb in sth
 outgrow
 outlet
 outperform
@@ -2269,7 +1966,6 @@ outstrip
 outwork
 ovary
 overall
-overanalyze
 overcome
 overconsumption
 overdrive
@@ -2281,14 +1977,12 @@ overlook
 overpass
 overplay
 overrated
-overreactivity
 overstate
 overthink
 overwhelmed
 overwhelming
 oxygen
 oxygenated
-pack up
 palatable
 panacea
 pandemic
@@ -2312,7 +2006,6 @@ participate
 participation
 participle
 partner
-partner with
 passageway
 passionate
 passionately
@@ -2324,14 +2017,12 @@ patriarchal
 patriarchy
 pattern
 pave
-pay off
 payroll
 pedal
 pedigree
 penalize
 peninsula
 penultimate
-per se
 perceive
 percentage
 percentile
@@ -2359,7 +2050,6 @@ pervasive
 pesky
 pessimistic
 pesticide
-pet peeves
 phase
 phenomenal
 phenomenology
@@ -2375,42 +2065,32 @@ phrasebook
 physically
 physician
 physiological
-piano recital
 pickle
-piece together
 pillar
-ping-ponging around in
 pinnacle
 piss
 pitch
 pitfall
 pivotal
 plague
-plan out
 planet
-plant your feet
 plaque
 plasma
 plasticity
 plateau
 plateaus
 platitude
-play it safe
-play up
 pledge
 plot
 plumber
 plumbing
 plummet
-plummet into
-plung into
 pocket
 podcast
 poetry
 poised
 poison
 poke
-poke around
 political
 politician
 poll
@@ -2418,26 +2098,20 @@ pollster
 polyglot
 poop
 pooped
-pop out
 porch
 porn
 portable
 portal
 portfolio
-positive psychology
 possession
-post-millennial
 posture
 potential
-potential surgeon
 potentially
-power-vacuuming
 powerfully
 powerhouse
 powerlessness
 practically
 practitioner
-pre-meditation
 precious
 precipice
 precisely
@@ -2446,22 +2120,17 @@ predator
 predatory
 predictor
 predisposition
-preemptively
-prefrontal cortex
 pregnancy
 prejudice
 preliminary
-preliminary round
 premature
 prematurely
-premed major
 premier
 premise
 preoccupy
 prescribe
 prescription
 presence
-present-hedonistic
 presentation
 presidential
 press
@@ -2534,10 +2203,6 @@ psychological
 psychologist
 psychology
 psychotherapy
-pull away
-pull back
-pull on
-pull out
 pulp
 punch
 punchline
@@ -2548,15 +2213,9 @@ purge
 purposeless
 pursue
 purview
-push back
-put the question to rest
-put up
-put you in the shoes of
-putter around
 qualification
 qualified
 quantum
-quantum mechanics
 quarter
 queer
 quest
@@ -2570,11 +2229,9 @@ racially
 racism
 racist
 rack
-rack up
 radiance
 radiate
 radical
-radical collaboration
 rage
 raid
 rally
@@ -2586,7 +2243,6 @@ rarefied
 rarely
 rash
 rat
-ratchet up
 ratio
 ration
 rational
@@ -2598,7 +2254,6 @@ raw
 reactionary
 reactive
 readiness
-real-estate
 realm
 reap
 reappraisal
@@ -2621,7 +2276,6 @@ reconfirm
 record
 recuperate
 recurrent
-redeclare
 redeem
 redemption
 redemptive
@@ -2687,12 +2341,10 @@ repress
 repression
 reproduce
 reproductive
-reproductive system
 repute
 resell
 resemble
 resent
-resequencing
 reservation
 reserve
 reset
@@ -2742,15 +2394,12 @@ revolting
 revolution
 revolutionary
 revolutionize
-revv up
-reward system
 rhythm
 rhythmic
 ribbon
 ridiculous
 riffraff
 rig
-rig up
 rightfully
 rigid
 rigidity
@@ -2762,13 +2411,10 @@ rob
 robbery
 robust
 roll
-roll around
-roll back into
 romance
 romantic
 roof
 rookie
-root for
 rope
 roster
 rotate
@@ -2776,16 +2422,11 @@ routinely
 royal
 rubber
 rug
-rule out
 ruminate
 rumination
 rummage
 rumor
-run for
-run in one's family
-run off the rails
 rural
-rush after
 rut
 ruthlessly
 sabotage
@@ -2797,7 +2438,6 @@ sail
 sailing
 sake
 salary
-saliva sample
 salivate
 salty
 salvation
@@ -2830,17 +2470,11 @@ scintillating
 scramble
 scrappy
 scratch
-scream one's lung out
 screed
-screw it up
-screw sb up
-screw up
 script
 scroll
-scroll up
 scrub
 sculpture
-seal off
 secondary
 secretly
 sector
@@ -2856,10 +2490,6 @@ self-determination
 self-discipline
 self-esteem
 self-fulfilling
-self-medicate
-self-medicating
-self-paralysis
-self-perceived
 self-perception
 self-referential
 selfie
@@ -2867,7 +2497,6 @@ selves
 semester
 semicolon
 senior
-senior thesis
 sensation
 sensitive
 sensitivity
@@ -2878,12 +2507,9 @@ sequence
 sequin
 serenity
 serotonin
-serve in the army
 session
-set free
 setback
 settings
-settle down
 sewer
 sexism
 sexist
@@ -2891,10 +2517,8 @@ sexuality
 shadow
 shadowy
 shady
-shake off
 shame
 shape
-shareable
 shareholder
 shatter
 shave
@@ -2905,7 +2529,6 @@ shockingly
 shoddy
 shoelace
 shortcut
-shortsightedess
 shout
 shove
 shred
@@ -2914,17 +2537,11 @@ shrill
 shrine
 shrink
 shrug
-shut out
 sibling
-side hustle
-side projects
 sidebar
-sign out
-sign-up rates
 signature
 significantly
 signpost
-silence sb ego
 silly
 similarity
 simmer
@@ -2938,8 +2555,6 @@ sin
 singular
 sink
 siren
-sit still
-sit up
 sitcom
 sitting
 sizable
@@ -2954,20 +2569,16 @@ slam
 slather
 slaughterhouse
 slavery
-sleep deprivation
 sleepovers
 sleeve
 slide
 slight
 slightly
 sling
-slings and arrows
 slip
-slip from
 slit
 slouch
 slouchy
-slow-wave sleep
 slum
 slumber
 slumped
@@ -2981,19 +2592,12 @@ sneak
 sneaky
 snippet
 snooze
-snuff out
-soak up
-soap opera
 soapbox
 sob
 sober
 sociable
-social media
 socialization
-socially responsible
 societal
-soft tissue layers
-soldier on
 solely
 solicit
 solid
@@ -3004,10 +2608,7 @@ somehow
 sophisticated
 sophomore
 sopping
-sort of
 soulless
-sound mind
-sour sb on sth
 sourdough
 spaghetti
 span
@@ -3015,7 +2616,6 @@ spark
 sparkle
 sparkly
 spastic
-speaking ill of
 spearhead
 specialize
 specialty
@@ -3039,7 +2639,6 @@ sponsor
 sponsorship
 spontaneous
 spontaneously
-spotaneous
 spouse
 spray
 sprint
@@ -3047,14 +2646,11 @@ spurt
 squash
 squeaky
 squeal
-squence
 squiggle
 squirm
-squwal
 stab
 stable
 stack
-stack up
 stadium
 staggered
 stagnate
@@ -3065,9 +2661,6 @@ stake
 stamina
 stamp
 stance
-stand up
-start off
-start out
 startle
 startup
 stasis
@@ -3077,23 +2670,16 @@ static
 stationary
 statistic
 statistical
-status quo
-stave off
-stay aware of
-stay down
 staycation
 steak
 steep
 steer
 steering
-stem the inflow
 stemming
 stereo
 stereotype
 sterilize
 sterling
-stick to your guns
-stick with
 stigma
 stillborn
 stillness
@@ -3111,7 +2697,6 @@ stoic
 stoicism
 stool
 storage
-storm out
 storyline
 storytelling
 stove
@@ -3121,10 +2706,7 @@ stranded
 strangle
 strap
 strategic
-strategize
 strategy
-stratosperic
-stress out
 stressful
 stretch
 strick
@@ -3132,12 +2714,10 @@ strife
 strip
 stroke
 structure
-struggle with
 stub
 stuck
 stuff
 stumble
-stumble upon
 stumbling
 stupidity
 subconscious
@@ -3148,11 +2728,9 @@ submerged
 submit
 subordinate
 subscribe
-subscribe to
 subsequent
 subsequently
 subside
-subskill
 substance
 substantial
 substantially
@@ -3162,7 +2740,6 @@ subtitle
 subtract
 suburb
 suck
-suck it up
 sucrose
 sufficiently
 suffocate
@@ -3202,10 +2779,8 @@ swank
 swap
 swear
 sweat
-sweat-inducing
 sweep
 sweeping
-sweet spot
 swell
 swelling
 swerve
@@ -3227,41 +2802,27 @@ taboo
 tackle
 tactic
 tactics
-take a roll on
-take care of
-take for granted
-take into account
-take off
-take sb for a ride
 takeaway
 tale
 tally
 tame
-tamp down
 tangible
 tangle
 tanked
-tap into
 tape
 tapestry
 tardiness
 tattoo
 tax
-team up with
 tear
-tear oneself away from sth
-tear sth open
-tear up
 technically
 technique
 technological
 teleport
 temper
-temper with
 temperature
 temple
 temporal
-temporal lobe
 temporarily
 temporary
 tempt
@@ -3272,7 +2833,6 @@ tender
 tendon
 tenement
 tenet
-tens of
 tension
 tenure
 terminal
@@ -3283,21 +2843,14 @@ testicle
 testosterone
 textbook
 texture
-the daily grind
-the equivalent of
-the naked eye
-the pros and cons
 theater
 theorize
-theorize on
 therapeutic
 therapist
 therapy
 thereafter
-think through
 thoughtful
 thousand
-thousands of
 thread
 threatened
 threshold
@@ -3306,23 +2859,17 @@ thriving
 throat
 throne
 throughout
-throw in the towel on
 thrum
 thumb
 thyroid
 tidily
-tie up loose ends
 tightness
 tightrope
 tilt
 timbre
-time and again
-time perspective
 timeline
 timetable
-timidness
 tinker
-tinly
 tiny
 tissue
 titan
@@ -3333,13 +2880,10 @@ tongue
 toolbox
 toolkit
 toot
-top up
 torment
 torture
 totally
 tote
-totern
-touch up
 tournament
 tout
 toxic
@@ -3354,7 +2898,6 @@ tragically
 trajectory
 transact
 transaction
-transactor
 transcendence
 transcendental
 transcribe
@@ -3380,11 +2923,9 @@ triathlon
 tribal
 tribe
 trick
-trick into
 tricky
 trigger
 trillion
-trip up
 tripled
 triumph
 triumphantly
@@ -3395,16 +2936,11 @@ truism
 trunk
 trustee
 trustworthy
-tubal ligation
 tubular
 tug
-tumble off
 tumor
 turbulent
-turn out
-turn to
 tweak
-twentysomething
 twist
 typhoid
 typhoon
@@ -3417,29 +2953,22 @@ ultrasound
 umami
 unabated
 unafraid
-unapologetic
-unapologetically
 unbeknownst
-unbothered
 unconsciously
 unconstrained
 uncoordinated
 undeniably
-under the same roof
-under-employed
 underappreciated
 underestimate
 undergo
 undergoing
 undergrad
 underlying
-underneath my belt
 underpaid
 underperform
 underperformer
 underprice
 underrated
-undersirable
 understaffed
 undertake
 underway
@@ -3449,7 +2978,6 @@ undisturbed
 undo
 unearned
 unfamiliar
-unfathomably
 unfold
 unfulfilled
 unified
@@ -3462,7 +2990,6 @@ universe
 university
 unleash
 unleavened
-unlink
 unmoor
 unpack
 unpacking
@@ -3470,7 +2997,6 @@ unprecedented
 unrelated
 unreserved
 unscathed
-unsetting
 unsolicited
 unsophisticated
 unspeakable
@@ -3480,31 +3006,25 @@ unsustainable
 unthinkable
 untimely
 unwavering
-up to you
 upbeat
 upgraded
 uplift
 uppercut
-upregulate
 uproot
-ups and downs
 upscale
 upside
 upstart
 uptake
-urban tribe
 urge
 utility
 utopia
 utter
 utterly
 vaccinate
-vaccine-preventable
 vagueness
 validate
 validation
 valley
-values-aligned
 vanish
 vantage
 variable
@@ -3519,7 +3039,6 @@ velvety
 vendor
 vengeance
 vent
-ventilatory
 venture
 veranda
 verbally
@@ -3552,7 +3071,6 @@ vodka
 void
 volcano
 voltage
-volumn
 voluptuous
 vomit
 vow
@@ -3560,7 +3078,6 @@ vulnerable
 waffle
 waitress
 wakefulness
-walk done memory lane
 wannabe
 ward
 wardrobe
@@ -3571,10 +3088,8 @@ waterlogged
 waver
 wax
 weapon
-wear and tear
 weave
 weird
-weird-ass
 weirdly
 well-being
 well-earned
@@ -3592,12 +3107,9 @@ whistle-blower
 whiz
 whopping
 widespread
-wild goose chase
 wildfire
 willfully
 willpower
-wind down
-wind up
 windshield
 wishy-washy
 withdrawal
@@ -3613,7 +3125,6 @@ worm
 worship
 worthwhile
 wrap
-wrap around
 wreck
 wrecking
 wrestling
@@ -3625,12 +3136,9 @@ yearbook
 yearn
 yeast
 yield
-yield to
 yielding
 yoga
 zany
 zealously
 zen
-ziplining
 zombie
-zoom back
