@@ -28,7 +28,7 @@ fetch('./output_word.json')
     let highFrequentWords = data.filter(word => word.count > 3); // 高频词汇
     let mediumFrequentWords = data.filter(word => word.count >= 2 && word.count <= 3); // 中频词汇
     let lowFrequentWords = data.filter(word => word.count === 1); // 低频词汇
-    statsContainer.innerHTML = `截至目前，<br><span id='special'>右一同学</span>共阅读了<span>${totalTedArticles}</span>篇ted（实际上是98篇┭┮﹏┭┮）。<br><br>记录词汇<span>${totalUniqueWords}</span>个。其中单词<span id='special'>3128</span>个，短语<span id='special'>396</span>个。假定出现<span>3</span>次以上为高频词，<span>1</span>次以上为中频词。<br><br>当前有高频词汇：<span id='special'>${highFrequentWords.length} </span>个，<br><br>中频词汇：<span id='special'>${mediumFrequentWords.length} </span>个，<br><br>低频词汇：<span id='special'>${lowFrequentWords.length}</span> 个。<br><br>其中梳理频次最多的单词是:<br>`; 
+    statsContainer.innerHTML = `截至目前，<br><span id='special'>右一同学</span>共阅读了<span>${totalTedArticles}</span>篇ted。<br><br>记录词汇<span>${totalUniqueWords}</span>个。其中单词<span id='special'>3128</span>个，短语<span id='special'>396</span>个。假定出现<span>3</span>次以上为高频词，<span>1</span>次以上为中频词。<br><br>当前有高频词汇：<span id='special'>${highFrequentWords.length} </span>个，<br><br>中频词汇：<span id='special'>${mediumFrequentWords.length} </span>个，<br><br>低频词汇：<span id='special'>${lowFrequentWords.length}</span> 个。<br><br>其中梳理频次最多的单词是:<br>`; 
     mostFrequentWords.forEach((word, index) => {
         let text = `<br><span>"${word.word}"</span>，<br>出现了<span id='special'>${word.count}</span>次，在第<span id='special'>${word.numbers.join(', ')}</span>篇TED里都出现了。`
         if (index !== mostFrequentWords.length - 1) {
