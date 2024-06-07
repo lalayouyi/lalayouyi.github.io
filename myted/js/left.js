@@ -47,6 +47,6 @@ function showLargeImage(img) {
     var popup = window.open("", "_blank");
 
     // 在弹窗中显示原始大小的图片，并通过CSS样式使其居中显示
-    popup.document.write('<style>body {display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;} img {max-width: 90%; max-height: 90%; object-fit: contain;}</style>');
+    popup.document.write('<style>body {display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;} img {max-width: 85%; max-height: 90%; object-fit: contain;}</style>');
     popup.document.write('<img src="' + img.src + '">');
 }

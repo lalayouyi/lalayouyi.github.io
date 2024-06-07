@@ -348,10 +348,7 @@ li span{
 
 /* 页面适配 */
 @media (max-width: 600px) {
-    .wordcount{
-        margin-bottom: 6vh;
-    }
-    #LINE,#LINE2,.search-btn,#editBtn,.fa fa-search{
+    .wordcount,.search-btn,#editBtn,.fa fa-search{
         display: none;
     }
     #totalcount{
