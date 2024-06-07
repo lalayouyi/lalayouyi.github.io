@@ -34,10 +34,8 @@ var changeData = actualData.map((value, index) => {
   return index === 0 ? 0 : Math.abs(value - actualData[index - 1]);
 });
 
-// 初始化ECharts实例
 var myChart2 = echarts.init(document.getElementById('line2'));
 
-// 定义图表配置项
 var option2 = {
   tooltip: {
     trigger: 'axis',
@@ -45,9 +43,9 @@ var option2 = {
       type: 'line'
     },
     formatter: function (params) {
-      var res = params[0].axisValue; // 日期
-      var expected = params[0].value; // 预计进度
-      var actual = params[1].value; // 实际进度
+      var res = params[0].axisValue; 
+      var expected = params[0].value; 
+      var actual = params[1].value; 
       var diff = expected - actual;
       // 找到对应的changeData值
       var dailyChangeIndex = params[0].dataIndex;
@@ -88,11 +86,11 @@ var option2 = {
     {
         name: '预计进度',
         type: 'line',
-        smooth: true, // 平滑曲线
+        smooth: true, 
         lineStyle: {
-            type: 'dashed', // 设置为虚线
-            width: 3,       // 线宽
-            color: '#ecbc41' // 线颜色
+            type: 'dashed', 
+            width: 3,       
+            color: '#ecbc41' 
         },
         data: expectedData
     },
@@ -122,11 +120,11 @@ var option2 = {
       yAxisIndex: 1,
       data: changeData,
       lineStyle: {
-        color: '#FFCCD9', // 线的颜色，与点的颜色保持一致
-        width: 0.9, // 设置线非常细
-        type: 'dashed', // 设置为虚线
-        shadowColor: 'rgba(0,0,0,0)', // 可以设置阴影颜色为完全透明，以避免显示阴影
-        shadowBlur: 0 // 设置阴影模糊度为0，以避免显示阴影
+        color: '#FFCCD9', 
+        width: 0.9, 
+        type: 'dashed', 
+        shadowColor: 'rgba(0,0,0,0)', 
+        shadowBlur: 0 
       }
     },
     {
