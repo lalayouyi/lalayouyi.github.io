@@ -3,7 +3,7 @@ var myChart = echarts.init(document.getElementById('line'));
 
 // 使用 XMLHttpRequest 对象从 word_count.txt 文件中获取数据
 var request = new XMLHttpRequest();
-request.open('GET', '../word_count.txt', true);
+request.open('GET', 'word_count.txt', true);
 
 request.onreadystatechange = function() {
     if (request.readyState === 4 && request.status === 200) {
