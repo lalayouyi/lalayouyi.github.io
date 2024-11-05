@@ -1,6 +1,6 @@
 // 页面加载时显示初始效果（默认按词频降序排序）
 function FirstShow() {
-    fetch('./output_word.json')
+    fetch('./data/output_word.json')
         .then(response => response.json())
         .then(data => {
             // 按词频排序
@@ -22,7 +22,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
 // 根据搜索词汇重新显示单词
 function SearchWords(searchInput) {
-    fetch('./output_word.json')
+    fetch('./data/output_word.json')
         .then(response => response.json())
         .then(data => {
             const filteredData = data.filter(item => item.word.toLowerCase().includes(searchInput));
@@ -42,9 +42,10 @@ function displayWords(data) {
     });
 }
 
-// 页面加载时显示初始效果
+// 页面加载时显示初始效果，并清空输入框
 window.addEventListener('load', function() {
     FirstShow();
+    document.getElementById('searchInput').value = ''; // 清空输入框
 });
 
 // 刷新
@@ -66,9 +67,9 @@ function openSouGouSearch(word) {
     const iframe = document.createElement('iframe');
     iframe.src = `https://fanyi.sogou.com/text?keyword=${encodeURIComponent(word)}`;
     iframe.style.position = 'fixed';
-    iframe.style.top = '11.5%';
-    iframe.style.left = '17%';
-    iframe.style.width = '62%';
+    iframe.style.top = '13.5%';
+    iframe.style.left = '14%';
+    iframe.style.width = '70%';
     iframe.style.height = '85%';
     iframe.style.border = '2px solid #bfc1a9';
     iframe.style.zIndex = '9999';
@@ -82,8 +83,8 @@ function openSouGouSearch(word) {
     closeButton.style.position = 'fixed';
     closeButton.style.width = '20px';
     closeButton.style.height = '20px';
-    closeButton.style.top = '12.8%';
-    closeButton.style.right = '22.5%';
+    closeButton.style.top = '13.8%';
+    closeButton.style.right = '18.5%';
     closeButton.style.zIndex = '10000';
     closeButton.style.border = '1.2px solid #bfc1a9';
     closeButton.style.borderRadius = '50%'; 

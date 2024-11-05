@@ -2,234 +2,98 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>youyi's TED Word Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="youyi">  
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/search.css">
+    <link rel="stylesheet" href="/css/brands.min.css">
+    <link rel="stylesheet" href="/css/fontawesome.min.css">
+    <link rel="stylesheet" href="/css/regular.min.css">
+    <link rel="stylesheet" href="/css/solid.min.css">
     <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <title>youyi's TED Word Search</title>
+    <link rel="shortcut icon" href="/images/myted.jpg">
 </head>
 <body>
-    <!-- 左边 -->
-    <div class="count">
-        <div class="wordcount">
-            <div id="LINE">
-                <div id="cloudtitle">TED学习进度与<span>单词增长</span>统计图</div>
-                <p style="font-size: 0.9vw; color: #575656;">
-                    蓝色折线展示<span style="color: #2966cf; font-size: 0.9vw;">单词总数</span>随TED阅读篇数增加的<span style="color: #2966cf; font-size: 0.9vw;">累计</span>增长。<br>
-                    黄色折线记录<span style="color: #2966cf; font-size: 0.9vw;">每篇</span>TED对应的<span style="color: #2966cf; font-size: 0.9vw;">新增</span>单词数。<br>
-                    <span style="color: #4676ca; font-size: 0.9vw;">特殊点说明</span>
-                    第78篇和第100篇分别与74篇和24篇重复！
-                </p>
-                <div id="line"></div>
-            </div>
-            <div id="LINE2">
-                <div id="cloudtitle">TED100篇打卡<span>燃尽图</span></div>
-                <p style="font-size: 0.9vw; color: #575656;">
-                    燃尽图用于<span style="color: #2966cf; font-size: 0.9vw;">追踪</span>TED100天打卡挑战的进度。<br>
-                    两条曲线分别代表<span style="color: #2966cf; font-size: 0.9vw;">预计剩余</span>和<span style="color: #2966cf; font-size: 0.9vw;">实际剩余</span>的阅读篇数。<br>
-                    粉色散点展示<span style="color: #2966cf; font-size: 0.9vw;">当天阅读篇数</span>。
-                </p>
-                <div id="line2"></div>
-            </div>
-        </div>  
-        <div class="wordcount2">
-            <div id="cloudtitle">单词们的词频<span>词云</span></div>
-            <p style="font-size: 0.9vw; color: #575656;">电脑端点击可<span style="color: #2966cf; font-size: 1vw;">查看大图</span>。</p>
-            <div id="image">
-                <img src="./images/wordcloud.png" 
-                alt="词云图" 
-                style="width:90%;
-                aspect-ratio: 16/9; 
-                border: 1.5px solid #ccc; 
-                border-radius: 15px;" 
-                onclick="showLargeImage(this)">
-            </div>
-        </div>  
-        <div id="totalcount"></div>
-        <!-- 打卡号 -->
-        <div id="cloudtitle">TED打卡号<span>分类查询</span></div>
-        <p style="font-size: 0.9vw; color: #575656;">查询到对应的<span style="color: #2966cf; font-size: 1vw;">打卡号</span>后，可在右一的<span style="color: #2966cf; font-size: 1vw;">小红书上</span>查找对应TED资源
-            <br>（每篇TED笔记包含PDF原文、单词注解、音频及精华提炼），<br>小红书号<span style="color: #2966cf; font-size: 1vw;">3884751039</span>，ID名：<span style="color: #2966cf; font-size: 1vw;">右一同学</span></p>
-        <div class="mainbox">
-            <div id="categorycontainer">
-                <select id="categorySelect" onchange="showTED()">
-                    <option value="">ALL（可自选分类按需查询哦~）</option>
-                    <option value="个人成长">个人成长</option>
-                    <option value="心理调节">心理调节</option>
-                    <option value="生活方式与习惯">生活方式与习惯</option>
-                    <option value="健康与健身">健康与健身</option>
-                    <option value="社交与关系">社交与关系</option>
-                </select>
-                <ul id="TEDList"></ul>
+    <main class="page-container border-box">
+        <div class="page-main-content border-box">
+            <!-- 导航栏 -->
+            <div class="page-main-content-top">      
+                <header class="header-wrapper">
+                    <div class="border-box header-content">
+                        <div class="left border-box">
+                                <a class="logo-image border-box" href="/" data-pjax-state="">
+                                    <img src="/images/myted.jpg">
+                                </a>
+                                <a class="site-name border-box" href="/" data-pjax-state="">
+                                Welcome to MYTED
+                                </a>
+                        </div>
+
+                        <div class="right border-box">
+                            <div class="pc">
+                                <ul class="menu-list">  
+                                    <li class="menu-item">
+                                        <a class="" href="https://lalayouyi.github.io/" data-pjax-state="">
+                                            HOME
+                                        </a>
+                                    </li>  
+                                    <li class="menu-item">
+                                        <a class="active" href="index.html" data-pjax-state="">
+                                            SEARCH
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="" href="study.html" data-pjax-state="">
+                                            STUDY
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="" href="about.html" data-pjax-state="">
+                                            ABOUT
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            </div> 
+            <!-- 单词查询内容 -->
+            <div class="page-main-content-middle border-box">
+                <div class="main-content border-box">
+                    <!-- 单词搜索 -->
+                    <div class="center">
+                        <div class="button">
+                            <img id="editBtn" src="./images/刷新.png" onclick="resetPage()">
+                        </div>
+                        <div class="search-box">
+                            <input type="text" id="searchInput" class="search-txt" oninput="searchWord()" placeholder="Search for words and click for details." />
+                            <a class="search-btn">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                        <div class="show-box">
+                            <ul id="searchList"></ul>
+                        </div>  
+                    </div>
+                </div>
             </div>
         </div>
-        <!-- 易混词 -->
-        <div id="cloudtitle">那些讨厌的<span>易混词</span></div>
-        <p style="font-size: 0.9vw; color: #575656;">点击<span style="color: #2966cf; font-size: 1vw;">左</span>半部分<span style="color: #2966cf; font-size: 1vw;">上</span>翻，点击<span style="color: #2966cf; font-size: 1vw;">右</span>半部分<span style="color: #2966cf; font-size: 1vw;">下</span>翻。</p>
-        <div class="flashcard-container">
-            <div class="flashcard">
-              <h3>compliment</h3>
-              <p>n.致意，问候；赞美，称赞</p>
-              <p>v.赞扬；称赞</p>
-              <h3>complement</h3>
-              <p>v.补充，补足，使完美</p>
-              <p>n.补充物；补足物</p>
-              <h3>implement</h3>
-              <p>v.实施，贯彻，执行；使生效</p>
-              <P>n.工具，器具；户外用具</P>
-              <br>
-              <h3>AI造句助记</h3>
-              <p>当你成功<span>implement</span>了一项计划，你会发现它<span>complements</span>你的整体工作，而你的努力也会得到<span>compliments</span>。</p>
-            </div>
-        
-            <div class="flashcard">
-              <h3>executive</h3>
-              <p>n.经理，主管，行政部门</p>
-              <p>adj.执行的，行政的；高级的</p>
-              <h3>exclusive</h3>
-              <p>adj.独占的；高档的；排斥的</p>
-              <p>adj.不包括...的</p>
-              <p>n.独家新闻，独家报道</p>
-              <h3>excessive</h3>
-              <p>adj.过分的，过多的</p>
-              <br>
-              <h3>AI造句助记</h3>
-              <p>这家俱乐部对于特定的高管和商界精英开放，是一个<span>exclusive</span>的社交圈子。他们在这里能够享受到奢华待遇，符合他们高<span>executive</span>级别的身份，但有时<span>excessive</span>的奢侈也让人担忧。</p>
-            </div>
-        
-            <div class="flashcard">
-              <h3>dissert</h3>
-              <p>v. 详细论述; 深入讨论</p>
-              <h3>desert</h3>
-              <p>v. 抛弃; 擅离职守</p>
-              <p>n. 沙漠</p>
-              <p>adj.荒凉的</p>
-              <h3>dessert</h3>
-              <p>n. 甜点，餐后甜食</p>
-              <br>
-              <h3>AI造句助记</h3>
-              <p>他<span>dissert</span>如何在<span>desert</span>开一家<span>dessert</span>店。</p>
-            </div>
-        
-            <div class="flashcard">
-              <h3>perceptive</h3>
-              <p>adj.洞察力强的；有感知能力的</p>
-              <h3>perspective</h3>
-              <p>n.观点，看法；透视画法</p>
-              <p>adj.透视的，有深度感的</p>
-              <h3>prospective</h3>
-              <p>adj.未来的，预期的；有潜力的</p>
-              <br>
-              <h3>AI造句助记</h3>
-              <p>她对于问题的<span>perspective</span>非常独特，充满了<span>perceptive</span>的见解，这使得她成为我们团队中一个非常有<span>prospective</span>的人选。</p>
-            </div>
-        
-            <div class="flashcard">
-              <h3>elevate</h3>
-              <p>v.提升，提高，抬高</p>
-              <h3>escalate</h3>
-              <p>v.逐步升级，逐步扩大，不断恶化；（战争等）逐渐升级；（价格等）逐步上升</p>
-              <h3>evaluate</h3>
-              <p>v.评估，评价；估值</p>
-              <h3>evacuate</h3>
-              <p>v.疏散，撤离；排泄；清空，排空</p>
-              <br>
-              <h3>AI造句助记</h3>
-              <p>在决策过程中，我们需要<span>evaluate</span>各种方案，并且在必要时<span>evacuate</span>现场，以避免局势<span>escalate</span>到无法控制的地步。我们的目标是要<span>elevate</span>整个团队的安全和效率。</p>
-            </div>
-
-            <div class="flashcard">
-                <h3>contrast</h3>
-                <p>n.对比，对照；差异，反差</p>
-                <p>v.对比，对照</p>
-                <h3>contract</h3>
-                <p>v.订约，订合同；感染，收缩</p>
-                <p>n.合同，契约；收缩</p>
-                <h3>contrary</h3>
-                <p>adj.相反的，对立的</p>
-                <p>n.相反，对立；反面</p>
-                <h3>controversy</h3>
-                <p>n.争论，辩论；争议性</p>
-                <p>adj.有争议的</p>
-                <br>
-                <h3>AI造句助记</h3>
-                <p>当公司决定与一家<span>contrary</span>的供应商签订<span>contract</span>时，引起了<span>controversy</span>，这与他们先前的业务做法形成了鲜明<span>contrast</span>。</p>
-            </div>
             
-            <div class="flashcard">
-                <h3>despise</h3>
-                <p>v.鄙视，看不起</p>
-                <h3>dispute</h3>
-                <p>n./v.争论，争吵</p>
-                <h3>disperse</h3>
-                <p>v.分散，散开；驱散</p>
-                <h3>AI造句助记</h3>
-                <p>她对别人的虚伪行为深感<span>despise</span>，这引发了一场激烈的<span>dispute</span>。最终，人群被警察<span>disperse</span>了。</p>
-            </div>
-
-            <div class="flashcard">
-                <h3>elaborate</h3>
-                <p>v.详尽阐述；精心制作</p>
-                <p>adj.复杂度，详尽的，精心制作的</p>
-                <h3>collaborate</h3>
-                <p>v.合作，协作</p>
-                <h3>corroborate</h3>
-                <p>v.用证据或事实证实，支持</p>
-                <h3>AI造句助记</h3>
-                <p>他们需要<span>elaborate</span>的计划，以便能够<span>collaborate</span>顺利，并且有足够的证据来<span>corroborate</span>他们的计划确切可行。</p>
-            </div>
-
-            <div class="flashcard">
-                <h3>confess</h3>
-                <p>v.坦白，供认</p>
-                <p>v.忏悔</p>
-                <h3>congress</h3>
-                <p>n.国会</p>
-                <p>n.代表大会，会议</p>
-                <h3>compress</h3>
-                <p>v.压缩，浓缩</p>
-                <p>n.紧缩</p>
-                <br>
-                <h3>AI造句助记</h3>
-                <p>他最终不得不<span>confess</span>了自己的罪行，在国际<span>congress</span>上他公开承认了错误。为了节省空间，他需要<span>compress</span>所有的数据，在这场会议上只能说重点。</p>
-               </div>
-            </div>
-    </div>
-    <!-- 中间 -->
-    <div class="center">
-        <div class="button">
-            <img id="editBtn" src="./images/刷新.png" onclick="resetPage()">
-        </div>
-        <div class="search-box">
-            <input type="text" id="searchInput" class="search-txt" oninput="searchWord()" placeholder="Search for word..." />
-            <a class="search-btn">
-                <i class="fa fa-search" aria-hidden="true"></i>
-            </a>
-        </div>
-        <div class="show-box">
-            <ul id="searchList"></ul>
-        </div>  
-    </div>
-    <!-- 右边 -->
-    <div class="right"> 
-        <div class="shared-box">
-            <button id="phraseBtn">短语合集</button>
-            <button id="tedBtn">TED单篇词汇表</button>
-            <button id="randomBtn">TED单篇抽查！</button>
-            <ul id="itemList"></ul>
-            <div id="flag">
-                <div id="message"></div>
-                <button id="chongxuan">重选</button>
-            </div>
-        </div>
-    </div>
-    
-    <script src="./js/center.js"></script>
-    <script src="./js/right.js"></script>    
-    <script src="./js/left.js"></script>  
-    <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
-    <script src="./js/line.js"></script> 
-    <script src="./js/line2.js"></script> 
-    <script src="./js/yihun.js"></script> 
-    <script src="./js/TED打卡号.js"></script>
+        <!-- footer -->
+        <div class="page-main-content-bottom border-box">      
+            <footer class="footer border-box">
+                <div class="border-box website-info-box default">
+                        <div class="copyright-info info-item default">
+                            ©&nbsp;<span>2024</span>&nbsp;-&nbsp;2024
+                            
+                                @<a href="/" data-pjax-state="">youyi</a>
+                            
+                        </div>
+            </footer>
+        </div>            
+    </main>
 </body>
+<script src="./js/center.js"></script>
 </html>

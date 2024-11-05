@@ -101,28 +101,167 @@ const mapData1 = [
     { "name": 100, "value": "简化生活，提升幸福感", "category": "生活方式与习惯" }
 ];
 
+// 假设你已经有了一个函数来获取output_word.json中的数据
+function getWordsData() {
+    return fetch('./data/output_word.json')
+        .then(response => response.json())
+        .catch(error => console.error('Error loading the words data:', error));
+}
+
+// 显示TED演讲列表的函数
 function showTED() {
     const category = document.getElementById("categorySelect").value;
-    if (category) {
-        const TED1 = mapData1.filter(data => data.category === category);
-        TED1.sort((a, b) => a.name - b.name);
-        displayTED(TED1);
-    }else{
-        const allTED = mapData1.sort((a, b) => a.name - b.name);
-        displayTED(allTED);
-    }
+    const TED1 = mapData1.filter(data => category ? data.category === category : true);
+    TED1.sort((a, b) => a.name - b.name);
+    displayTED(TED1);
 }
 
 function displayTED(TED) {
     const TEDList = document.getElementById("TEDList");
     TEDList.innerHTML = "";
-    TED.forEach(TED => {
+    TED.forEach(ted => {
         const listItem = document.createElement("li");
-        listItem.innerHTML = `<span class='tednum'>打卡号</span>-<span class='tednum'>${TED.name}</span>：<span class='tedtext'>${TED.value}</span>`;
+        listItem.innerHTML = `<span class='tednum'>打卡号</span>-<span class='tednum'>${ted.name}</span>：<span class='tedtext'>${ted.value}</span>`;
+        listItem.addEventListener('click', function() {
+            // 先移除其他所有li的选中状态
+            TEDList.querySelectorAll('li').forEach(item => {
+                item.classList.remove('selectedli');
+            });
+            // 给当前点击的li添加选中状态
+            this.classList.add('selectedli');
+            showWordsForTED(ted.name);
+        });
         TEDList.appendChild(listItem);
     });
 }
 
+// 显示对应TED号的单词
+function showWordsForTED(inputNumber) {
+    getWordsData().then(words => {
+        let resultWords = words.filter(word => word.numbers.includes(parseInt(inputNumber)));
+        displayWords(resultWords);
+    });
+}
+
+// 显示单词的函数
+function displayWords(words) {
+    const wordsList = document.getElementById("wordsList");
+    wordsList.innerHTML = "";
+    words.forEach(word => {
+        // 创建列表项
+        const listItem = document.createElement("li");
+        listItem.style.position = 'relative'; 
+
+        // 创建单词文本节点
+        const textNode = document.createTextNode(word.word);
+        listItem.appendChild(textNode);
+
+        // 创建按钮容器
+        const buttonsContainer = document.createElement("span");
+        buttonsContainer.style.position = 'absolute'; // 绝对定位
+        buttonsContainer.style.right = '50px'; // 靠右浮动
+        buttonsContainer.style.top = '5px'; // 顶部对齐
+        // buttonsContainer.style.backgroundColor = 'pink';
+
+        // 创建×按钮
+        const uncheckButton = document.createElement("button");
+        uncheckButton.textContent = "❌";
+        uncheckButton.style.border = "none"; 
+        uncheckButton.style.backgroundColor = "transparent"; 
+        
+        
+        // 创建√按钮
+        const checkButton = document.createElement("button");
+        checkButton.textContent = "✔️";
+        checkButton.style.marginRight = "10px"; 
+        checkButton.style.border = "none"; 
+        checkButton.style.backgroundColor = "transparent"; 
+
+        // 为按钮添加点击事件
+        checkButton.addEventListener('click', function(event) {
+            event.stopPropagation(); 
+            // listItem.style.backgroundColor = "#E7E593";
+            listItem.style.backgroundColor = "#def9dc";
+            listItem.style.boxShadow = "0 0 3px var(--shadow-color)";
+        });
+        uncheckButton.addEventListener('click', function(event) {
+            event.stopPropagation();
+            // listItem.style.backgroundColor = "#F0686C";
+            listItem.style.backgroundColor = "#fdd2ae";
+            listItem.style.boxShadow = "0 0 3px var(--shadow-color)";
+        });
+
+        // 将按钮添加到容器中
+        buttonsContainer.appendChild(checkButton);
+        buttonsContainer.appendChild(uncheckButton);
+        listItem.appendChild(buttonsContainer);
+
+        listItem.addEventListener('click', function(event) {
+            if (event.target !== buttonsContainer && event.target !== checkButton && event.target !== uncheckButton) {
+                openSouGouSearch(word.word);
+            }
+        });
+        wordsList.appendChild(listItem);
+    });
+}
+
+function openSouGouSearch(word) {
+    const existingIframe = document.querySelector('iframe');
+    const existingCloseButton = document.querySelector('.close-button');
+
+    if (existingIframe) {
+        document.body.removeChild(existingIframe);
+    }
+    if (existingCloseButton) {
+        document.body.removeChild(existingCloseButton);
+    }
+
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://fanyi.sogou.com/text?keyword=${encodeURIComponent(word)}`;
+    iframe.style.position = 'fixed';
+    iframe.style.top = '10.5%';
+    iframe.style.left = '1%';
+    iframe.style.width = '50%';
+    iframe.style.height = '88%';
+    iframe.style.border = '2px solid #bfc1a9';
+    iframe.style.zIndex = '9999';
+    iframe.style.borderRadius = '10px'; 
+    document.body.appendChild(iframe);
+
+    // 添加关闭按钮
+    const closeButton = document.createElement('button');
+    closeButton.textContent = '×';
+    closeButton.classList.add('close-button');
+    closeButton.style.position = 'fixed';
+    closeButton.style.width = '20px';
+    closeButton.style.height = '20px';
+    closeButton.style.top = '12.8%';
+    closeButton.style.right = '50.5%';
+    closeButton.style.zIndex = '10000';
+    closeButton.style.border = '1.2px solid #bfc1a9';
+    closeButton.style.borderRadius = '50%'; 
+    closeButton.style.fontFamily = 'serif';
+    closeButton.style.fontSize = '15px';
+    closeButton.style.color = 'white';
+    closeButton.style.fontWeight = 'bold';
+    closeButton.style.padding = '2px';
+    closeButton.style.backgroundColor = '#d24735';
+    closeButton.addEventListener('click', () => {
+        document.body.removeChild(iframe);
+        document.body.removeChild(closeButton);
+    });
+    document.body.appendChild(closeButton);
+}
+
+// 在页面加载完成后显示TED演讲列表
 window.onload = function() {
     showTED();
+    const wordsList = document.getElementById("wordsList");
+    if (wordsList) {
+        wordsList.innerHTML = "点击TED号查看相关单词";
+    }
+    const firstTEDItem = TEDList.querySelector('li'); 
+    if (firstTEDItem) {
+        firstTEDItem.click();
+    }
 }

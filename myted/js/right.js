@@ -1,9 +1,8 @@
-fetch('./output_word.json')
+fetch('./data/output_word.json')
 .then(response => response.json())
     .then(data => {
         // 数据加载成功后的处理逻辑
         const words = data;
-        const resultContainer = document.getElementById('result-container');
         const itemList = document.getElementById('itemList');
         let currentIndex = 0;
         let shuffledWords = [];
@@ -19,7 +18,7 @@ fetch('./output_word.json')
             }
             let resultWords = words.filter(word => word.numbers.includes(parseInt(inputNumber)));
             if (resultWords.length === 0) {
-                alert("呆瓜右一，你还没读到那篇TED哇");
+                alert("还没读到那篇TED哇");
                 return;
             }
             resultWords = resultWords.map(word => word.word).sort();
@@ -44,7 +43,7 @@ fetch('./output_word.json')
                 }
                 let resultWords = words.filter(word => word.numbers.includes(parseInt(inputNumber)));
                 if (resultWords.length === 0) {
-                    alert("呆瓜右一，你还没读到那篇TED哇");
+                    alert("还没读到那篇TED哇");
                     return;
                 }
                 TEDnum = inputNumber;
