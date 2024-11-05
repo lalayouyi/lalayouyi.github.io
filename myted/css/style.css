@@ -484,55 +484,6 @@
     --keep-danger-background-color: rgba(244,63,94,0.1);
     --keep-danger-border-color: rgba(244,63,94,0.6);
   }
-  .dark-mode {
-    --primary-color: #30aecf;
-    --primary-color-light-1: #45b6d4;
-    --primary-color-light-2: #59bed9;
-    --primary-color-dark-1: #2b9dba;
-    --primary-color-dark-2: #268ba6;
-    --background-color-1: #22272e;
-    --background-color-1-transparent: rgba(34,39,46,0.6);
-    --background-color-2: #292f38;
-    --background-color-3: #313842;
-    --content-background-color: #21262d;
-    --text-color-1: #b7c2cc;
-    --text-color-2: #b2bec8;
-    --text-color-3: #adbac5;
-    --text-color-4: #6c8397;
-    --text-color-5: #4d5e6c;
-    --text-color-6: #2e3841;
-    --toc-text-color: #8296a6;
-    --badge-color: #343c47;
-    --badge-background-color: #ced6dc;
-    --border-color: #596678;
-    --selection-color: #2a99b7;
-    --shadow-color: rgba(120,120,120,0.18);
-    --shadow-hover-color: rgba(120,120,120,0.24);
-    --scrollbar-color: #505b6c;
-    --scrollbar-background-color: #1d2127;
-    --toc-scrollbar-color: rgba(173,186,197,0.1);
-    --copyright-icon-bg-color: rgba(173,186,197,0.12);
-    --avatar-background-color: #227e95;
-    --header-transparent-background-1: rgba(34,39,46,0.28);
-    --header-transparent-background-2: rgba(34,39,46,0.4);
-    --pjax-progress-bar-color: linear-gradient(45deg, #ea404a, #ea722f, #e9a71f, #67e559, #18ecec, #1b85f1, #ee1dee);
-    --post-h-bottom-border-color: rgba(173,186,197,0.15);
-    --keep-info-color: #9999a2;
-    --keep-info-background-color: rgba(153,153,162,0.1);
-    --keep-info-border-color: rgba(153,153,162,0.5);
-    --keep-primary-color: #268bef;
-    --keep-primary-background-color: rgba(38,139,239,0.1);
-    --keep-primary-border-color: rgba(38,139,239,0.6);
-    --keep-warning-color: #ecc34d;
-    --keep-warning-background-color: rgba(236,195,77,0.1);
-    --keep-warning-border-color: rgba(236,195,77,0.6);
-    --keep-success-color: #10b981;
-    --keep-success-background-color: rgba(16,185,129,0.1);
-    --keep-success-border-color: rgba(16,185,129,0.6);
-    --keep-danger-color: #f43f5e;
-    --keep-danger-background-color: rgba(244,63,94,0.1);
-    --keep-danger-border-color: rgba(244,63,94,0.6);
-  }
   * {
     transition-delay: 0s, 0s, 0s, 0s;
     transition-timing-function: ease, ease, ease, ease;
@@ -1129,31 +1080,6 @@
       --shrink-line-background-2: rgba(225,225,225,0.6);
     }
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --toolbar-foreground: #adbac5;
-      --toolbar-background: #313842;
-      --code-foreground: #b5c1cb;
-      --code-background: rgba(48,174,207,0.15);
-      --code-border-color: #1d687c;
-      --highlight-background: #1f242a;
-      --highlight-foreground: #afbbc6;
-      --highlight-comment: #969896;
-      --highlight-red: #c66;
-      --highlight-orange: #de935f;
-      --highlight-yellow: #f0c674;
-      --highlight-green: #b5bd68;
-      --highlight-aqua: #8abeb7;
-      --highlight-blue: #81a2be;
-      --highlight-purple: #b294bb;
-      --highlight-gutter-color: #b1bdc8;
-      --highlight-gutter-bg-color: #1f2329;
-      --mac-toolbar-background-color: #1f2021;
-      --shrink-line-foreground: #6c8397;
-      --shrink-line-background-1: rgba(38,38,38,0.9);
-      --shrink-line-background-2: rgba(52,52,52,0.6);
-    }
-  }
   .light-mode {
     --toolbar-foreground: #50505c;
     --toolbar-background: #f0f0f0;
@@ -1176,29 +1102,6 @@
     --shrink-line-foreground: #808091;
     --shrink-line-background-1: rgba(210,210,210,0.9);
     --shrink-line-background-2: rgba(225,225,225,0.6);
-  }
-  .dark-mode {
-    --toolbar-foreground: #adbac5;
-    --toolbar-background: #313842;
-    --code-foreground: #b5c1cb;
-    --code-background: rgba(48,174,207,0.15);
-    --code-border-color: #1d687c;
-    --highlight-background: #1f242a;
-    --highlight-foreground: #afbbc6;
-    --highlight-comment: #969896;
-    --highlight-red: #c66;
-    --highlight-orange: #de935f;
-    --highlight-yellow: #f0c674;
-    --highlight-green: #b5bd68;
-    --highlight-aqua: #8abeb7;
-    --highlight-blue: #81a2be;
-    --highlight-purple: #b294bb;
-    --highlight-gutter-color: #b1bdc8;
-    --highlight-gutter-bg-color: #1f2329;
-    --mac-toolbar-background-color: #1f2021;
-    --shrink-line-foreground: #6c8397;
-    --shrink-line-background-1: rgba(38,38,38,0.9);
-    --shrink-line-background-2: rgba(52,52,52,0.6);
   }
   .code-block,
   pre,
@@ -1611,29 +1514,6 @@
     --shrink-line-foreground: #808091;
     --shrink-line-background-1: rgba(210,210,210,0.9);
     --shrink-line-background-2: rgba(225,225,225,0.6);
-  }
-  .dark-mode {
-    --toolbar-foreground: #adbac5;
-    --toolbar-background: #313842;
-    --code-foreground: #b5c1cb;
-    --code-background: rgba(48,174,207,0.15);
-    --code-border-color: #1d687c;
-    --highlight-background: #1f242a;
-    --highlight-foreground: #afbbc6;
-    --highlight-comment: #969896;
-    --highlight-red: #c66;
-    --highlight-orange: #de935f;
-    --highlight-yellow: #f0c674;
-    --highlight-green: #b5bd68;
-    --highlight-aqua: #8abeb7;
-    --highlight-blue: #81a2be;
-    --highlight-purple: #b294bb;
-    --highlight-gutter-color: #b1bdc8;
-    --highlight-gutter-bg-color: #1f2329;
-    --mac-toolbar-background-color: #1f2021;
-    --shrink-line-foreground: #6c8397;
-    --shrink-line-background-1: rgba(38,38,38,0.9);
-    --shrink-line-background-2: rgba(52,52,52,0.6);
   }
   .keep-note {
     position: relative;
