@@ -1,5 +1,5 @@
 // 数据统计
-fetch('./data/output_word.json')
+fetch('output_word.json')
 .then(response => response.json())
 .then(data => {
     // 统计数据

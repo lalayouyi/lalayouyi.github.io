@@ -1,4 +1,4 @@
-fetch('./data/output_word.json')
+fetch('output_word.json')
 .then(response => response.json())
     .then(data => {
         // 数据加载成功后的处理逻辑

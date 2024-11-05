@@ -75,18 +75,18 @@ def count_word_frequency(input_file, output_txt_file, output_word_json_file, out
             file_txt_sorted.write(word + '\n')
 
 # 定义输入文件和输出文件的名称
-input_file = "./data/input.txt"
-output_txt_file = "./data/output.txt"
-output_word_json_file = "./data/output_word.json"
-output_txt_file_sorted = "./data/output2.txt"
-output_word_count_txt = "./data/word_count.txt"
+input_file = "input.txt"
+output_txt_file = "output.txt"
+output_word_json_file = "output_word.json"
+output_txt_file_sorted = "output2.txt"
+output_word_count_txt = "word_count.txt"
 
 # 调用函数统计单词频率并生成相关输出
 count_word_frequency(input_file, output_txt_file, output_word_json_file, output_txt_file_sorted, output_word_count_txt)
 
 # 读取输出文本文件的单词频率数据
 words = []
-with open('./data/output.txt', 'r', encoding='utf-8') as file:
+with open('output.txt', 'r', encoding='utf-8') as file:
     for line in file:
         # 使用正则表达式匹配每行的单词和对应的频率
         match = re.match(r'(.+?)\s+(\d+)', line)

@@ -1,6 +1,6 @@
 // 页面加载时显示初始效果（默认按词频降序排序）
 function FirstShow() {
-    fetch('./data/output_word.json')
+    fetch('output_word.json')
         .then(response => response.json())
         .then(data => {
             // 按词频排序

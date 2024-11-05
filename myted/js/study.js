@@ -103,7 +103,7 @@ const mapData1 = [
 
 // 假设你已经有了一个函数来获取output_word.json中的数据
 function getWordsData() {
-    return fetch('./data/output_word.json')
+    return fetch('output_word.json')
         .then(response => response.json())
         .catch(error => console.error('Error loading the words data:', error));
 }
