@@ -1,5 +1,5 @@
 .page-main-content {
-    background-image: url("/images/bg3.svg");
+    background-image: url("./images/bg3.svg");
     /* background-repeat: no-repeat; */
 }
 #categorySelectContainer select {
