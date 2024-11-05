@@ -22,7 +22,7 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
 // 根据搜索词汇重新显示单词
 function SearchWords(searchInput) {
-    fetch('./data/output_word.json')
+    fetch('output_word.json')
         .then(response => response.json())
         .then(data => {
             const filteredData = data.filter(item => item.word.toLowerCase().includes(searchInput));
