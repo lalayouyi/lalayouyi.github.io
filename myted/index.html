@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="youyi">  
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/search.css">
+    <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>youyi's TED Word Search</title>
+    <link rel="shortcut icon" href="./images/myted.jpg">
+</head>
+<body>
+    <main class="page-container border-box">
+        <div class="page-main-content border-box">
+            <!-- 导航栏 -->
+            <div class="page-main-content-top">      
+                <header class="header-wrapper">
+                    <div class="border-box header-content">
+                        <div class="left border-box">
+                                <a class="logo-image border-box" href="/" data-pjax-state="">
+                                    <img src="./images/myted.jpg">
+                                </a>
+                                <a class="site-name border-box" href="/" data-pjax-state="">
+                                Welcome to MYTED
+                                </a>
+                        </div>
+
+                        <div class="right border-box">
+                            <div class="pc">
+                                <ul class="menu-list">  
+                                    <li class="menu-item">
+                                        <a class="" href="https://lalayouyi.github.io/" data-pjax-state="">
+                                            HOME
+                                        </a>
+                                    </li>  
+                                    <li class="menu-item">
+                                        <a class="active" href="index.html" data-pjax-state="">
+                                            SEARCH
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="" href="study.html" data-pjax-state="">
+                                            STUDY
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="" href="about.html" data-pjax-state="">
+                                            ABOUT
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            </div> 
+            <!-- 单词查询内容 -->
+            <div class="page-main-content-middle border-box">
+                <div class="main-content border-box">
+                    <!-- 单词搜索 -->
+                    <div class="center">
+                        <div class="button">
+                            <img id="editBtn" src="./images/刷新.png" onclick="resetPage()">
+                        </div>
+                        <div class="search-box">
+                            <input type="text" id="searchInput" class="search-txt" oninput="searchWord()" placeholder="Search for words and click for details." />
+                            <a class="search-btn">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                        <div class="show-box">
+                            <ul id="searchList"></ul>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+        <!-- footer -->
+        <div class="page-main-content-bottom border-box">      
+            <footer class="footer border-box">
+                <div class="border-box website-info-box default">
+                        <div class="copyright-info info-item default">
+                            ©&nbsp;<span>2024</span>&nbsp;-&nbsp;2024
+                            
+                                @<a href="/" data-pjax-state="">youyi</a>
+                            
+                        </div>
+            </footer>
+        </div>            
+    </main>
+</body>
+<script src="./js/center.js"></script>
+</html>

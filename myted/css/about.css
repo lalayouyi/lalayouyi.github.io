@@ -1,0 +1,90 @@
+.page-main-content {
+    background-image: url("../images/bg2.svg");
+    /* background-repeat: no-repeat; */
+}
+h2 .content {
+    width: 85%;
+    text-align: center;
+    font-size: 26px;
+    line-height: 1.8em;
+    margin: 0 auto;
+    background: transparent linear-gradient(0deg, rgb(231, 247, 252) 40%, transparent 40%) no-repeat;
+    border-style: none;
+    border-width: 1px;
+}
+.count{
+    margin: 0 auto;
+    font-family: serif;
+    font-size: 18px;
+    text-align: center;
+    width: 85%;
+}
+.count span{
+    font-size: 20px;
+    font-family: 'serif';
+    color: #ecbc41;
+    font-weight: bold;
+}
+#special{
+    font-size: 20px;
+    color: #2966cf;
+    font-weight: bold;
+}
+
+.timeline{
+    margin: 0 auto;
+    font-family: serif;
+    font-size: 16px;
+    text-align: center;
+    width: 85%;
+}
+#time{
+    font-size: 18px;
+    color: #ecbc41;
+    font-weight: bold;
+}
+
+.timeline a{
+    font-weight: bold;
+    color:#2966cf;
+}
+.timeline a:hover{
+    font-weight: bold;
+    color:#FE783D;
+}
+
+/* 词云图 */
+#cloudtitle{
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#cloudtitle span{
+    font-weight: bold;
+    color: #ecbc41;
+}
+
+.wordcount{
+    width: 100%;
+}
+#line, #line2{
+    width: 90%;
+    height: 390px;
+    margin: 0 auto;
+    margin-top: -40px;
+}
+
+#totalcount{
+    width: 100%;
+    margin-top: 40px;
+}
+.wordcount2{
+    width: 100%;
+    /* height: 280px; */
+}
+
+#image{
+    margin: 0 auto;
+}
+

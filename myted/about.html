@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="youyi">  
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/about.css">
+    <title>youyi's TED Word Search</title>
+    <link rel="shortcut icon" href="./images/myted.jpg">
+</head>
+<body>
+    <main class="page-container border-box">
+        <div class="page-main-content border-box">
+            <!-- 导航栏 -->
+            <div class="page-main-content-top">      
+                <header class="header-wrapper">
+                    <div class="border-box header-content">
+                        <div class="left border-box">
+                                <a class="logo-image border-box" href="/" data-pjax-state="">
+                                    <img src="./images/myted.jpg">
+                                </a>
+                                <a class="site-name border-box" href="/" data-pjax-state="">
+                                Welcome to MYTED
+                                </a>
+                        </div>
+
+                        <div class="right border-box">
+                            <div class="pc">
+                                <ul class="menu-list">   
+                                    <li class="menu-item">
+                                        <a class="" href="https://lalayouyi.github.io/" data-pjax-state="">
+                                            HOME
+                                        </a>
+                                    </li> 
+                                    <li class="menu-item">
+                                        <a class="" href="index.html" data-pjax-state="">
+                                            SEARCH
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="" href="study.html" data-pjax-state="">
+                                            STUDY
+                                        </a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a class="active" href="about.html" data-pjax-state="">
+                                            ABOUT
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            </div> 
+            <!-- 中间内容 -->
+            <div class="page-main-content-middle border-box">
+                <div class="main-content border-box">
+                    <!-- 使用说明 -->
+                    <div class="archives-container">
+                        <h2>
+                            <div class="content">🌱使用说明</div>
+                        </h2>
+                        <br>
+                        <div class="timeline">
+                            <span id='time'>HOME</span><br>链接lalayouyi.github.io博客主页<br><br>
+                            <span id='time'>SEARCH</span><br>100篇TED涉及到的单词列表，搜索框输入待查询单词或词根，列表返回对应单词及其TED来源。点击列表内的单词，可查看单词详情。<br><br>
+                            <span id='time'>STUDY</span><br>单篇TED单词学习。多选框可选择TED类别。点击左侧对应TED标题，右侧返回该篇TED对应的单词列表。点击单词，可查看详情。<br>点击✔️，对应单词标绿表明已学会；点击❌，对应单词标红表明不熟悉。<br><br>
+                            <span id='special'>TED相关资源领取</span><br>公众号拾光数据，后台输入TED，领取100篇TED的PDF + 音频 + 视频合集、可导入不背单词的100篇TED自定义词表及词表导入方法说明。<br><br>
+                            <span id='special'>小红书笔记</span><br>MYTED打卡号和小红书笔记全对应，可在小红书上（小红书号3884751039，ID名：右一同学）查找对应打卡号的TED批注笔记，每篇TED笔记包含PDF原文、单词注解、音频及精华提炼）。<br><br>
+                        </div>
+                    </div>
+                    <!-- 数据统计 -->
+                    <div class="archives-container">
+                        <h2>
+                            <div class="content">🌱单词统计</div>
+                        </h2>
+                        <div class="count">
+                            <div id="totalcount"></div>
+                        </div>
+                        <div class="count">
+                            <br><br>
+                            <div class="wordcount2">
+                                <div id="cloudtitle">单词们的词频<span>词云</span></div>
+                                <p style="font-size: 12px; color: #575656;">电脑端点击可<span style="color: #2966cf; font-size: 1vw;">查看大图</span>。</p>
+                                <div id="image">
+                                    <img src="./images/wordcloud.png" 
+                                    alt="词云图" 
+                                    style="width:80%;
+                                    aspect-ratio: 16/9; 
+                                    border: 1.5px solid #ccc; 
+                                    border-radius: 15px;" 
+                                    onclick="showLargeImage(this)">
+                                </div>
+                            </div> 
+                            <br>
+                        </div>
+                    </div>
+                    <br>
+                    <!-- 学习进度 -->
+                    <div class="archives-container">
+                        <h2>
+                            <div class="content">🌱学习进程</div>
+                        </h2>
+                        <br>
+                        <div class="timeline">
+                            <span id='time'>2024.3.1</span>——START！在小红书<a href="https://www.xiaohongshu.com/user/profile/616d63c0000000001f036c7b" rel="nofollow">【右一同学】</a>上发布第一篇TED阅读打卡笔记。<br><br>
+                            <span id='time'>2024.3.21</span>——搭建<a href="https://live.csdn.net/v/372649" rel="nofollow">第一版MYTED</a>，提供基本的统计和词汇查询功能。<br><br>
+                            <span id='time'>2024.4.18</span>——<a href="https://lalayouyi.blog.csdn.net/article/details/137103772?spm=1001.2014.3001.5502" rel="nofollow">MYTED迁移至基于Hexo的个人博客</a>，实现<a href="https://lalayouyi.blog.csdn.net/article/details/137920144?spm=1001.2014.3001.5502" rel="nofollow">自定义线上部署</a>。<br><br>
+                            <span id='time'>2024.5.5</span>——完成<a href="https://live.csdn.net/v/384173?spm=1001.2014.3001.5501" rel="nofollow">第二版MYTED</a>的修改，进度可视化拉满成就感。<br><br>
+                            <span id='time'>2024.5.27</span>——引入公众号【拾光数据】，通过后台关键字【TED】分享资源。<br><br>
+                            <span id='time'>2024.6.7</span>——<a href="https://blog.csdn.net/m0_63398413/article/details/139523374">TED阅读打卡100天结束</a>，MYTED更新，添加<a href="https://lalayouyi.blog.csdn.net/article/details/139523450?spm=1001.2014.3001.5502" rel="nofollow">燃尽图</a>，调整iframe尺寸，解决列表遮挡问题，并导出适配不背单词的txt词表。 <br><br>
+                            <span id='time'>2024.11.4</span>——MYTED整体重构。
+                        </div>
+                        <br><br>
+                        <hr style="border: 0; height: 1.5px; background-image: linear-gradient(to right, #f7ebcc, #cddfff, #a0c3ff, #cddfff, #f7ebcc); width: 85%; ">
+                        <br>
+                        <div class="count">
+                            <br>
+                            <div class="wordcount">
+                                <div id="LINE">
+                                    <div id="cloudtitle">TED学习进度与<span>单词增长</span>统计图</div>
+                                    <p style="font-size: 12px; color: #575656;">
+                                        蓝色折线展示<span style="color: #2966cf; font-size: 12px;">单词总数</span>随TED阅读篇数增加的<span style="color: #2966cf; font-size: 12px;">累计</span>增长。<br>
+                                        黄色折线记录<span style="color: #2966cf; font-size: 12px;">每篇</span>TED对应的<span style="color: #2966cf; font-size: 12px;">新增</span>单词数。<br>
+                                        <span style="color: #4676ca; font-size: 12px;">特殊点说明</span>
+                                        第78篇和第100篇分别与74篇和24篇重复！
+                                    </p>
+                                    <div id="line"></div>
+                                </div>
+                            </div>
+                            <br>
+                        </div>
+                        <div class="count">
+                            <br>
+                            <div id="LINE2">
+                                <div id="cloudtitle">TED100篇打卡<span>燃尽图</span></div>
+                                <p style="font-size: 12px; color: #575656;">
+                                    燃尽图用于<span style="color: #2966cf; font-size: 12px;">追踪</span>TED100天打卡挑战的进度。<br>
+                                    两条曲线分别代表<span style="color: #2966cf; font-size: 12px;">预计剩余</span>和<span style="color: #2966cf; font-size: 12px;">实际剩余</span>的阅读篇数。<br>
+                                    粉色散点展示<span style="color: #2966cf; font-size: 12px;">当天阅读篇数</span>。
+                                </p>
+                                <div id="line2"></div>
+                            </div>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+        <!-- footer -->
+        <div class="page-main-content-bottom border-box">      
+            <footer class="footer border-box">
+                <div class="border-box website-info-box default">
+                        <div class="copyright-info info-item default">
+                            ©&nbsp;<span>2024</span>&nbsp;-&nbsp;2024
+                            
+                                @<a href="/" data-pjax-state="">youyi</a>
+                            
+                        </div>
+            </footer>
+        </div>           
+    </main>
+</body>
+<script src="./js/left.js"></script>  
+<script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
+<script src="./js/line.js"></script> 
+<script src="./js/line2.js"></script> 
+</html>

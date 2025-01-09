@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="Hexo Theme Keep">
+    <meta name="description" content="Hexo Theme Keep">
+    <meta name="author" content="youyi">
+    
+    <title>
+        
+        lalayouyi&#39;s blog
+    </title>
+    
+<link rel="stylesheet" href="/css/style.css">
+
+    
+        <link rel="shortcut icon" href="/images/logo.png">
+    
+    
+<link rel="stylesheet" href="/font/css/fontawesome.min.css">
+
+    
+<link rel="stylesheet" href="/font/css/regular.min.css">
+
+    
+<link rel="stylesheet" href="/font/css/solid.min.css">
+
+    
+<link rel="stylesheet" href="/font/css/brands.min.css">
+
+    
+        
+            
+        
+    
+    <script class="keep-theme-configurations">
+    const KEEP = window.KEEP || {}
+    KEEP.hexo_config = {"hostname":"example.com","root":"/","language":"en","path":"search.json"}
+    KEEP.theme_config = {"base_info":{"primary_color":"#30aecf","title":"lalayouyi's blog","author":"youyi","avatar":"/images/avatar.jpg","logo":"/images/logo.png","favicon":"/images/logo.png"},"menu":{"home":"/ || fa-solid fa-home","archives":"/archives || fa-solid fa-box-archive","tools":"/tools   || fa-solid fa-toolbox","myted":"/myted || fa-solid fa-book-open-reader","mytodo":"/mytodo || fa-solid fa-list"},"first_screen":{"enable":true,"background_img":"/images/bg.svg","background_img_dark":"/images/bg.svg","description":"何须多虑盈亏事，终归小满胜万全","hitokoto":false},"social_contact":{"enable":true,"links":{"github":"https://github.com/lalayouyi","weixin":"img | /images/weixin.jpg"}},"scroll":{"progress_bar":false,"percent":true,"hide_header":false},"home":{"announcement":"欢迎点击MYTED和MYTODO~","category":true,"tag":true,"post_datetime":"updated"},"post":{"author_badge":{"enable":true,"level_badge":true,"custom_badge":["One","Two","Three"]},"word_count":{"wordcount":true,"min2read":true},"datetime_format":"YYYY-MM-DD HH:mm:ss","copyright_info":false,"share":true,"reward":{"enable":false,"img_link":null,"text":null}},"code_block":{"tools":{"enable":true,"style":"mac"},"highlight_theme":"default"},"toc":{"enable":true,"number":false,"expand_all":true,"init_open":true,"layout":"right"},"website_count":{"busuanzi_count":{"enable":true,"site_uv":true,"site_pv":true,"page_pv":true}},"local_search":{"enable":true,"preload":true},"comment":{"enable":false,"use":"valine","valine":{"appid":null,"appkey":null,"server_urls":null,"placeholder":null},"gitalk":{"github_id":null,"github_admins":null,"repository":null,"client_id":null,"client_secret":null,"proxy":null},"twikoo":{"env_id":null,"region":null,"version":"1.6.21"},"waline":{"server_url":null,"reaction":false,"version":2},"giscus":{"repo":null,"repo_id":null,"category":"Announcements","category_id":null,"reactions_enabled":false},"artalk":{"server":null},"disqus":{"shortname":null}},"rss":{"enable":false},"lazyload":{"enable":true},"cdn":{"enable":false,"provider":"jsdelivr"},"pjax":{"enable":true},"footer":{"since":2024,"word_count":true,"icp":{"enable":false,"record_code":"浙ICP备2024093909号","url":"https://beian.miit.gov.cn"},"site_deploy":{"enable":false,"provider":"tencent_cloud","url":null},"shields_style":{"enable":false,"custom":[{"link_url":null,"img_url":null}]}},"inject":{"enable":true,"css":[null],"js":["/js/time.js"]},"root":"","source_data":{"icons":{"CSDN":{"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d=\"M329.1 142.9c-62.5-62.5-155.8-62.5-218.3 0s-62.5 163.8 0 226.3s155.8 62.5 218.3 0c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3c-87.5 87.5-221.3 87.5-308.8 0s-87.5-229.3 0-316.8s221.3-87.5 308.8 0c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z\"/></svg>","link":"https://lalayouyi.blog.csdn.net"},"小红书":{"svg":"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d=\"M96 0C43 0 0 43 0 96V416c0 53 43 96 96 96H384h32c17.7 0 32-14.3 32-32s-14.3-32-32-32V384c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32H384 96zm0 384H352v64H96c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16zm16 48H336c8.8 0 16 7.2 16 16s-7.2 16-16 16H144c-8.8 0-16-7.2-16-16s7.2-16 16-16z\"/></svg>","link":"https://www.xiaohongshu.com/user/profile/616d63c0000000001f036c7b"}},"tools":[{"category":"^ω^"},{"name":"啦啦右一","link":"https://lalayouyi.blog.csdn.net/","description":"小白友好的CSDN博客~","image":"/images/tools/youyi.png"},{"name":"右一同学","link":"https://www.xiaohongshu.com/user/profile/616d63c0000000001f036c7b","description":"与MYTED对应的TED精读","image":"/images/tools/redbook.jpg"},{"name":"一周播影","link":"https://mp.weixin.qq.com/mp/homepage?__biz=Mzg4MTg0NTk2Nw==&hid=4&sn=2f910e885368d5b9f7a23cf692a43298&scene=18","description":"小宇宙播客总结提炼","image":"/images/tools/boke.jpg"},{"category":"工具包"},{"name":"ai-bot","link":"https://ai-bot.cn/","description":"AI工具全导航","image":"/images/tools/ai-bot.png"},{"name":"青泥学术","link":"https://www.xueshuchuangxin.com/AITools/AITools","description":"学术AI工具包","image":"/images/tools/qinni.png"},{"name":"WaytoAGI","link":"https://www.waytoagi.com/","description":"AI小工具&提示词知识库","image":"/images/tools/AGI.png"},{"name":"菜鸟工具","link":"https://www.jyshare.com/","description":"程序员工具超全梳理","image":"/images/tools/cainiao.png"},{"name":"优设导航","link":"https://hao.uisdc.com/","description":"设计相关的超全工具包","image":"/images/tools/youshe.png"},{"name":"帮小忙","link":"https://tool.browser.qq.com/","description":"腾讯在线工具箱","image":"/images/tools/bang.png"},{"name":"I❤PDF","link":"https://www.ilovepdf.com/zh-cn","description":"PDF免费工具包","image":"/images/tools/pdf.png"},{"name":"软仓","link":"https://www.ruancang.net/","description":"专业软件免费下","image":"/images/tools/ruancnag.jpg"},{"name":"Image to Music","link":"https://huggingface.co/spaces/fffiloni/image-to-music-v2","description":"图片转音乐","image":"/images/tools/music.png"},{"name":"Qwerty Learner","link":"https://qwerty.liumingye.cn/","description":"单词与肌肉记忆锻炼","image":"/images/tools/qwert.png"},{"category":"常用"},{"name":"墨滴","link":"https://editor.mdnice.com/","description":"Markdown快速排版","image":"/images/tools/modi.png"},{"name":"remove.bg","link":"https://www.remove.bg/zh/upload","description":"超方便的一键抠图","image":"/images/tools/remove.png"},{"name":"kimi.ai","link":"https://kimi.moonshot.cn/","description":"免费又好用的GPT","image":"/images/tools/kimi.png"},{"name":"搜狗翻译","link":"https://fanyi.sogou.com/text","description":"单词速搜搜","image":"/images/tools/sougou.png"},{"name":"幕布","link":"https://mubu.com/home","description":"大纲一键转思维导图","image":"/images/tools/mubu.png"},{"name":"十行笔记","link":"https://shihangbiji.com/home","description":"视频转文稿(SH8Y15C58)","image":"/images/tools/shihang.png"},{"name":"podwise","link":"https://podwise.ai/","description":"播客内容自动梳理","image":"/images/tools/pod.png"}]},"version":"4.1.0"}
+    KEEP.language_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"}
+    KEEP.language_code_block = {"copy":"Copy code","copied":"Copied","fold":"Fold code block","folded":"Folded"}
+    KEEP.language_copy_copyright = {"copy":"Copy copyright info","copied":"Copied","title":"Original post title","author":"Original post author","link":"Original post link"}
+  </script>
+<meta name="generator" content="Hexo 7.1.1"></head>
+
+
+<body>
+<div class="progress-bar-container">
+    
+
+    
+        <span class="pjax-progress-bar"></span>
+        <i class="pjax-progress-icon fas fa-circle-notch fa-spin"></i>
+    
+</div>
+
+
+
+<main class="page-container border-box">
+    <!-- home first screen  -->
+    
+
+    <!-- page content -->
+    <div class="page-main-content border-box is-home">
+        <div class="page-main-content-top">
+            
+<header class="header-wrapper transparent-1">
+
+    <div class="border-box header-content">
+        <div class="left border-box">
+            
+                <a class="logo-image border-box" href="/">
+                    <img src="/images/logo.png">
+                </a>
+            
+            <a class="site-name border-box" href="/">
+               lalayouyi&#39;s blog
+            </a>
+        </div>
+
+        <div class="right border-box">
+            <div class="pc">
+                <ul class="menu-list">
+                    
+                        
+                        <li class="menu-item">
+                            <a class=""
+                               href="/"
+                            >
+                                
+                                    <i class="menu-icon fa-solid fa-home"></i>
+                                
+                                HOME
+                            </a>
+                        </li>
+                    
+                        
+                        <li class="menu-item">
+                            <a class=""
+                               href="/archives"
+                            >
+                                
+                                    <i class="menu-icon fa-solid fa-box-archive"></i>
+                                
+                                ARCHIVES
+                            </a>
+                        </li>
+                    
+                        
+                        <li class="menu-item">
+                            <a class=""
+                               href="/tools"
+                            >
+                                
+                                    <i class="menu-icon fa-solid fa-toolbox"></i>
+                                
+                                TOOLS
+                            </a>
+                        </li>
+                    
+                        
+                        <li class="menu-item">
+                            <a class=""
+                               href="/myted"
+                            >
+                                
+                                    <i class="menu-icon fa-solid fa-book-open-reader"></i>
+                                
+                                MYTED
+                            </a>
+                        </li>
+                    
+                        
+                        <li class="menu-item">
+                            <a class=""
+                               href="/mytodo"
+                            >
+                                
+                                    <i class="menu-icon fa-solid fa-list"></i>
+                                
+                                MYTODO
+                            </a>
+                        </li>
+                    
+                    
+                        <li class="menu-item search search-popup-trigger">
+                            <i class="fas search fa-search"></i>
+                        </li>
+                    
+                </ul>
+            </div>
+            <div class="mobile">
+                
+                    <div class="icon-item search search-popup-trigger"><i class="fas fa-search"></i></div>
+                
+                <div class="icon-item menu-bar">
+                    <div class="menu-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-drawer">
+        <ul class="drawer-menu-list">
+            
+                
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/"
+                    >HOME</a>
+                </li>
+            
+                
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/archives"
+                    >ARCHIVES</a>
+                </li>
+            
+                
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/tools"
+                    >TOOLS</a>
+                </li>
+            
+                
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/myted"
+                    >MYTED</a>
+                </li>
+            
+                
+                <li class="drawer-menu-item flex-center">
+                    <a class=""
+                       href="/mytodo"
+                    >MYTODO</a>
+                </li>
+            
+        </ul>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
+
+
+        </div>
+
+        <div class="page-main-content-middle border-box">
+
+            <div class="main-content border-box">
+                
+
+                    <div class="home-content-container fade-in-down-animation">
+    
+        <div class="website-announcement border-box">
+            <i class="icon left fa-solid fa-bullhorn"></i>
+            <div class="announcement border-box text-ellipsis">
+                <p>欢迎点击MYTED和MYTODO~</p>
+
+            </div>
+            <i class="icon right close fa-solid fa-close"></i>
+        </div>
+    
+    <ul class="home-post-list border-box">
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/book1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/30/%E5%B8%86%E4%B9%A6-%E3%80%8A%E4%BA%BA%E6%80%A7%E5%AE%9E%E9%AA%8C%E3%80%8B/">
+                            帆书 | 《人性实验》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “助你读懂人心，洞察人性”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 17:59:15 GMT+0800"
+                >2024-06-02 17:59:15</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E5%B8%86%E4%B9%A6/">帆书</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/30/%E5%B8%86%E4%B9%A6-%E3%80%8A%E4%BA%BA%E6%80%A7%E5%AE%9E%E9%AA%8C%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/26/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E4%BD%A0%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%E3%80%8B/">
+                            纵横四海 | 《你经历了什么》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “让人醍醐灌顶的四层大脑模型”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:06:20 GMT+0800"
+                >2024-06-02 18:06:20</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/26/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E4%BD%A0%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/25/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E6%88%91%E4%BB%AC%E5%86%85%E5%BF%83%E7%9A%84%E5%86%B2%E7%AA%81%E3%80%8B/">
+                            纵横四海 | 《我们内心的冲突》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “逃避型人格：在渴望爱和回避爱之间疯狂摇摆”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:06:52 GMT+0800"
+                >2024-06-02 18:06:52</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/25/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E6%88%91%E4%BB%AC%E5%86%85%E5%BF%83%E7%9A%84%E5%86%B2%E7%AA%81%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/24/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E8%87%AA%E5%8D%91%E4%B8%8E%E8%B6%85%E8%B6%8A%E3%80%8B/">
+                            纵横四海 | 《自卑与超越》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “来聊聊人生观是如何建立的”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:09:36 GMT+0800"
+                >2024-06-02 18:09:36</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/24/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E8%87%AA%E5%8D%91%E4%B8%8E%E8%B6%85%E8%B6%8A%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/23/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%97%E9%AA%97%E3%80%8B/">
+                            纵横四海 | 《我们为什么会受骗》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “识别骗局和有毒关系”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:07:16 GMT+0800"
+                >2024-06-02 18:07:16</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/23/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%97%E9%AA%97%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/22/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8AGive-and-Take%E3%80%8B/">
+                            纵横四海 | 《Give and Take》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “人善被人欺终极解决方案”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:05:07 GMT+0800"
+                >2024-06-02 18:05:07</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/22/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8AGive-and-Take%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/21/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%E3%80%8B/">
+                            纵横四海 | 《刻意练习》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “提高3000倍之学习奥义”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:06:01 GMT+0800"
+                >2024-06-02 18:06:01</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/21/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/boke1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/21/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%8B/">
+                            纵横四海 | 《习惯的力量》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “年少时射出的子弹，现在打中你了吗？”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sun Jun 02 2024 18:09:19 GMT+0800"
+                >2024-06-02 18:09:19</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E6%92%AD%E5%AE%A2/">播客</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+            <span class="post-tag meta-info-item border-box">
+                <ul class="post-tag-ul">
+                    
+                            <li class="tag-item"><span class="tag-separator"><i class="icon fas fa-hashtag"></i></span><a href="/tags/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7/">纵横四海</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/21/%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7-%E3%80%8A%E4%B9%A0%E6%83%AF%E7%9A%84%E5%8A%9B%E9%87%8F%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/book1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/19/%E5%B8%86%E4%B9%A6-%E3%80%8A%E5%BF%83%E6%80%81%E3%80%8B/">
+                            帆书 | 《心态》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “解锁四大成功心态，让改变立刻发生”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Sat Nov 02 2024 21:50:12 GMT+0800"
+                >2024-11-02 21:50:12</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E5%B8%86%E4%B9%A6/">帆书</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/19/%E5%B8%86%E4%B9%A6-%E3%80%8A%E5%BF%83%E6%80%81%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-post-item">
+
+                
+                    <div class="home-post-item-top border-box"
+                         style="height: 150px"
+                    >
+                        
+                        <img class="home-cover" src="/./medias/book1.jpg"
+                             onerror="this.style.display='none'"
+                        >
+                    </div>
+                
+
+                <div class="home-post-item-bottom border-box">
+                    
+                    <h3 class="home-post-title border-box">
+                        <a href="/2024/05/18/%E5%B8%86%E4%B9%A6-%E3%80%8A%E7%BB%88%E8%BA%AB%E6%88%90%E9%95%BF%E3%80%8B/">
+                            帆书 | 《终身成长》
+                        </a>
+                    </h3>
+
+                    <div class="home-post-content keep-markdown-body">
+                        
+                            “成长型思维决定你的人生能走多远”
+                        
+                    </div>
+
+                    
+
+<div class="post-meta-info-container border-box home">
+    <div class="post-meta-info border-box">
+        
+            <span class="meta-info-item border-box">
+                <i class="icon fa-solid fa-history"></i>&nbsp;<span class="home-post-history"
+                                                                                data-updated="Thu Jun 20 2024 13:22:40 GMT+0800"
+                >2024-06-20 13:22:40</span>
+            </span>
+        
+
+        
+
+        
+            <span class="meta-info-item post-category border-box"><i class="icon fas fa-folder"></i>&nbsp;
+                <ul class="post-category-ul">
+                    
+                            <li class="category-item"><a href="/categories/%E5%B8%86%E4%B9%A6/">帆书</a></li>
+                        
+                    
+                </ul>
+            </span>
+        
+
+        
+
+        
+        
+        
+        
+    </div>
+
+    
+        <a class="home-read-more" href="/2024/05/18/%E5%B8%86%E4%B9%A6-%E3%80%8A%E7%BB%88%E8%BA%AB%E6%88%90%E9%95%BF%E3%80%8B/">Read more&nbsp;<i class="icon fas fa-angle-right"></i></a>
+    
+</div>
+
+                </div>
+            </li>
+        
+    </ul>
+    
+    <div class="paginator border-box flex-center">
+        <div class="btn-wrap allowed">
+            <a class="jump-btn"
+               href="/"
+            ><i class="fa-solid fa-chevron-left"></i></a>
+        </div>
+
+
+        <div class="page-number-box border-box flex-center">
+            <input class="page-number-input border-box base-color-size"
+                   type="number"
+                   value="2"
+                   min="1"
+                   max="3"
+            ><span class="delimiter base-color-size">/</span><span class="base-color-size">3</span>
+        </div>
+
+
+        <div class="btn-wrap allowed">
+            <a class="jump-btn"
+               href="/page/3/"
+            ><i class="fa-solid fa-chevron-right"></i></a>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+
+                
+            </div>
+        </div>
+
+        <div class="page-main-content-bottom border-box">
+            
+<footer class="footer border-box">
+    <div class="border-box website-info-box default">
+        
+            <div class="copyright-info info-item default">
+                &copy;&nbsp;<span>2024</span>&nbsp;-&nbsp;2025
+                
+                    &nbsp;<i class="fas fa-heart icon-animate"></i>&nbsp;&nbsp;<a href="/">youyi</a>
+                
+            </div>
+
+            <div class="theme-info info-item default">
+                Powered by&nbsp;<a target="_blank" href="https://hexo.io">Hexo</a>&nbsp;&&nbsp;Theme&nbsp;<a class="keep-version" target="_blank" href="https://github.com/XPoet/hexo-theme-keep">Keep</a>
+            </div>
+
+            
+
+            
+        
+
+        <div class="count-item info-item default">
+            
+                <span class="count-box border-box word">
+                    <span class="item-type border-box">Total words</span>
+                    <span class="item-value border-box word">114.4k</span>
+                </span>
+            
+
+            
+                <span class="count-box border-box uv">
+                    <span class="item-type border-box">Unique Visitor</span>
+                    <span class="item-value border-box uv" id="busuanzi_value_site_uv"></span>
+                </span>
+            
+
+            
+                <span class="count-box border-box pv">
+                    <span class="item-type border-box">Page View</span>
+                    <span class="item-value border-box pv" id="busuanzi_value_site_pv"></span>
+                </span>
+            
+        </div>
+    </div>
+</footer>
+
+        </div>
+    </div>
+
+    <!-- post tools -->
+    
+
+    <!-- side tools -->
+    <div class="side-tools">
+        <div class="side-tools-container border-box side-tools-show-handle">
+    <ul class="side-tools-list side-tools-show-handle border-box">
+        <li class="tools-item tool-font-adjust-plus flex-center">
+            <i class="fas fa-search-plus"></i>
+        </li>
+
+        <li class="tools-item tool-font-adjust-minus flex-center">
+            <i class="fas fa-search-minus"></i>
+        </li>
+
+        <li class="tools-item tool-toggle-theme-mode flex-center">
+            <i class="fas fa-moon"></i>
+        </li>
+
+        <!-- rss -->
+        
+
+        <li class="tools-item tool-scroll-to-bottom flex-center">
+            <i class="fas fa-arrow-down"></i>
+        </li>
+    </ul>
+
+    <ul class="exposed-tools-list border-box">
+        
+
+        
+
+        <li class="tools-item tool-toggle-show flex-center">
+            <i class="fas fa-cog fa-spin"></i>
+        </li>
+
+        <li class="tools-item tool-scroll-to-top flex-center show-arrow">
+            <i class="arrow fas fa-arrow-up"></i>
+            <span class="percent"></span>
+        </li>
+    </ul>
+</div>
+
+    </div>
+
+    <!-- image mask -->
+    <div class="zoom-in-image-mask">
+    <img class="zoom-in-image">
+</div>
+
+
+    <!-- local search -->
+    
+        <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+          <span class="search-input-field-pre">
+            <i class="fas fa-keyboard"></i>
+          </span>
+            <div class="search-input-container">
+                <input autocomplete="off"
+                       autocorrect="off"
+                       autocapitalize="off"
+                       placeholder="Search..."
+                       spellcheck="false"
+                       type="search"
+                       class="search-input"
+                >
+            </div>
+            <span class="close-popup-btn">
+                <i class="fas fa-times"></i>
+            </span>
+        </div>
+        <div id="search-result">
+            <div id="no-result">
+                <i class="fas fa-spinner fa-pulse fa-5x fa-fw"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+    <!-- tablet toc -->
+    
+</main>
+
+
+
+
+<!-- common -->
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/header-shrink.js"></script>
+
+<script src="/js/back2top.js"></script>
+
+<script src="/js/toggle-theme.js"></script>
+
+<script src="/js/code-block.js"></script>
+
+<script src="/js/main.js"></script>
+
+<script src="/js/libs/anime.min.js"></script>
+
+
+<!-- local-search -->
+
+    
+<script src="/js/local-search.js"></script>
+
+
+
+<!-- lazyload -->
+
+    
+<script src="/js/lazyload.js"></script>
+
+
+
+<div class="pjax">
+    
+
+    <!-- categories page -->
+    
+
+    <!-- links page -->
+    
+
+    <!-- photos page -->
+    
+
+    <!-- tools page -->
+    
+</div>
+
+<!-- mermaid -->
+
+
+<!-- pjax -->
+
+    
+<script src="/js/libs/pjax.min.js"></script>
+
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        window.pjax = new Pjax({
+            selectors: [
+                'head title',
+                '.page-container',
+                '.pjax'
+            ],
+            history: true,
+            debug: false,
+            cacheBust: false,
+            timeout: 0,
+            analytics: false,
+            currentUrlFullReload: false,
+            scrollRestoration: false,
+        });
+
+        document.addEventListener('pjax:send', () => {
+            KEEP.utils.pjaxProgressBarStart()
+        });
+
+        document.addEventListener('pjax:complete', () => {
+            KEEP.utils.pjaxProgressBarEnd()
+            window.pjax.executeScripts(document.querySelectorAll('script[data-pjax], .pjax script'))
+            KEEP.initExecute()
+        });
+    });
+</script>
+
+
+
+
+    
+        
+            
+<script class="custom-inject-js" src="/js/time.js" data-pjax></script>
+
+        
+    
+
+</body>
+</html>
+

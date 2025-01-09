@@ -1,0 +1,93 @@
+.page-main-content {
+    background-image: url("../images/bg3.svg");
+    /* background-repeat: no-repeat; */
+}
+#categorySelectContainer select {
+    font-family: serif;
+    position: absolute;
+    top: 0.5%;
+    left: 20%;
+    height: 30px;
+    padding: 3px;
+    text-align: center;
+    font-size: 16px;
+    background-color: azure;
+    border: 2px solid #1e80b8bb;
+    border-radius: 14px;
+}
+
+#contentContainer .tedtext {
+    font-family: serif;
+    font-size: 15px;
+    font-weight: normal;
+    color: #333;
+}
+
+#contentContainer .tednum {
+    font-family: serif;
+    font-size: 16px;
+    color: #2966cf;
+}
+
+#contentContainer {
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#TEDList, #wordsList {
+    font-family: serif;
+    width: 50%;
+    max-height: 480px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0 15px;
+    border-radius: 8px;
+    background: var(--content-background-color);
+    box-shadow: 0 0 8px var(--shadow-color);
+}
+
+#TEDList:hover, #wordsList:hover {
+    box-shadow: 0 0 12px var(--shadow-hover-color);
+}
+
+#TEDList li, #wordsList li {
+    font-family: serif;
+    margin-bottom: 5px;
+    padding: 5px;
+    padding-left: 35px;
+    font-size: 16px;
+    border-bottom: 1px solid #eee;
+    border-radius: 8px;
+    /* background-color: pink; */
+}
+
+#TEDList li:hover,#wordsList li:hover{
+    box-shadow: 0 0 8px var(--shadow-color);
+}
+
+.selectedli{
+    box-shadow: 0 0 8px var(--shadow-color);
+    /* background-color: #CEE7E1; */
+    background-color: #fde9ea;
+    /* background-color: #E7E593; */
+}
+
+.tednum {
+    font-weight: bold;
+}
+
+.tedtext {
+    display: block;
+    margin-left: 10px;
+}
+
+@media (max-width: 800px) {
+    #TEDList, #wordsList {
+        width: 100%;
+        max-height: none;
+    }
+}
